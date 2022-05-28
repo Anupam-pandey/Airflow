@@ -1,0 +1,421 @@
+[2022-03-18 21:48:56,536] {scheduler_job.py:182} INFO - Started process (PID=12343) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:48:56,537] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 21:48:56,538] {logging_mixin.py:104} INFO - [2022-03-18 21:48:56,538] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:48:56,555] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:48:58,405] {logging_mixin.py:104} INFO - [2022-03-18 21:48:58,404] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 21:48:58,423] {logging_mixin.py:104} INFO - [2022-03-18 21:48:58,421] {dag.py:1851} INFO - Creating ORM DAG for trigger_rule
+[2022-03-18 21:48:58,437] {logging_mixin.py:104} INFO - [2022-03-18 21:48:58,437] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-17 00:00:00+00:00
+[2022-03-18 21:48:58,462] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 1.931 seconds
+[2022-03-18 21:49:28,800] {scheduler_job.py:182} INFO - Started process (PID=12390) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:49:28,802] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 21:49:28,803] {logging_mixin.py:104} INFO - [2022-03-18 21:49:28,803] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:49:28,830] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:49:29,513] {logging_mixin.py:104} INFO - [2022-03-18 21:49:29,512] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 21:49:29,664] {logging_mixin.py:104} INFO - [2022-03-18 21:49:29,663] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-17 00:00:00+00:00
+[2022-03-18 21:49:29,691] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.897 seconds
+[2022-03-18 21:50:00,226] {scheduler_job.py:182} INFO - Started process (PID=12453) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:50:00,229] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 21:50:00,244] {logging_mixin.py:104} INFO - [2022-03-18 21:50:00,243] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:50:00,325] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:50:01,991] {logging_mixin.py:104} INFO - [2022-03-18 21:50:01,990] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 21:50:02,192] {logging_mixin.py:104} INFO - [2022-03-18 21:50:02,192] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-17 00:00:00+00:00
+[2022-03-18 21:50:02,264] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 2.047 seconds
+[2022-03-18 21:50:32,924] {scheduler_job.py:182} INFO - Started process (PID=12533) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:50:32,925] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 21:50:32,926] {logging_mixin.py:104} INFO - [2022-03-18 21:50:32,926] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:50:32,942] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:50:33,364] {logging_mixin.py:104} INFO - [2022-03-18 21:50:33,364] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 21:50:33,448] {logging_mixin.py:104} INFO - [2022-03-18 21:50:33,447] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-17 00:00:00+00:00
+[2022-03-18 21:50:33,498] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.583 seconds
+[2022-03-18 21:51:04,011] {scheduler_job.py:182} INFO - Started process (PID=12585) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:51:04,014] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 21:51:04,039] {logging_mixin.py:104} INFO - [2022-03-18 21:51:04,022] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:51:04,079] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:51:04,265] {logging_mixin.py:104} INFO - [2022-03-18 21:51:04,265] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 21:51:04,470] {logging_mixin.py:104} INFO - [2022-03-18 21:51:04,470] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-17 00:00:00+00:00
+[2022-03-18 21:51:04,591] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.602 seconds
+[2022-03-18 21:51:35,039] {scheduler_job.py:182} INFO - Started process (PID=12624) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:51:35,042] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 21:51:35,046] {logging_mixin.py:104} INFO - [2022-03-18 21:51:35,046] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:51:35,087] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:51:36,492] {logging_mixin.py:104} INFO - [2022-03-18 21:51:36,491] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 21:51:36,718] {logging_mixin.py:104} INFO - [2022-03-18 21:51:36,718] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-17 00:00:00+00:00
+[2022-03-18 21:51:36,769] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 1.743 seconds
+[2022-03-18 21:52:07,526] {scheduler_job.py:182} INFO - Started process (PID=12726) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:52:07,527] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 21:52:07,528] {logging_mixin.py:104} INFO - [2022-03-18 21:52:07,528] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:52:07,543] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:52:07,573] {logging_mixin.py:104} INFO - [2022-03-18 21:52:07,573] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 21:52:07,597] {logging_mixin.py:104} INFO - [2022-03-18 21:52:07,597] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-17 00:00:00+00:00
+[2022-03-18 21:52:07,637] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.116 seconds
+[2022-03-18 21:52:37,820] {scheduler_job.py:182} INFO - Started process (PID=12768) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:52:37,821] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 21:52:37,822] {logging_mixin.py:104} INFO - [2022-03-18 21:52:37,822] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:52:37,838] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:52:37,869] {logging_mixin.py:104} INFO - [2022-03-18 21:52:37,869] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 21:52:37,893] {logging_mixin.py:104} INFO - [2022-03-18 21:52:37,893] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-17 00:00:00+00:00
+[2022-03-18 21:52:37,940] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.124 seconds
+[2022-03-18 21:53:08,188] {scheduler_job.py:182} INFO - Started process (PID=12933) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:53:08,189] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 21:53:08,190] {logging_mixin.py:104} INFO - [2022-03-18 21:53:08,190] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:53:08,205] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:53:08,605] {logging_mixin.py:104} INFO - [2022-03-18 21:53:08,604] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 21:53:08,623] {logging_mixin.py:104} INFO - [2022-03-18 21:53:08,622] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 21:53:08,680] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.497 seconds
+[2022-03-18 21:53:39,604] {scheduler_job.py:182} INFO - Started process (PID=13060) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:53:39,605] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 21:53:39,606] {logging_mixin.py:104} INFO - [2022-03-18 21:53:39,605] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:53:39,620] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:53:39,653] {logging_mixin.py:104} INFO - [2022-03-18 21:53:39,652] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 21:53:39,674] {logging_mixin.py:104} INFO - [2022-03-18 21:53:39,674] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 21:53:39,696] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.096 seconds
+[2022-03-18 21:54:10,006] {scheduler_job.py:182} INFO - Started process (PID=13268) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:54:10,008] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 21:54:10,009] {logging_mixin.py:104} INFO - [2022-03-18 21:54:10,009] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:54:10,032] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:54:10,109] {logging_mixin.py:104} INFO - [2022-03-18 21:54:10,108] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 21:54:10,217] {logging_mixin.py:104} INFO - [2022-03-18 21:54:10,217] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 21:54:10,258] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.259 seconds
+[2022-03-18 21:54:40,538] {scheduler_job.py:182} INFO - Started process (PID=13380) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:54:40,540] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 21:54:40,541] {logging_mixin.py:104} INFO - [2022-03-18 21:54:40,540] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:54:40,572] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:54:40,628] {logging_mixin.py:104} INFO - [2022-03-18 21:54:40,627] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 21:54:40,659] {logging_mixin.py:104} INFO - [2022-03-18 21:54:40,659] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 21:54:40,693] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.161 seconds
+[2022-03-18 21:55:11,036] {scheduler_job.py:182} INFO - Started process (PID=13507) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:55:11,037] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 21:55:11,038] {logging_mixin.py:104} INFO - [2022-03-18 21:55:11,038] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:55:11,073] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:55:11,158] {logging_mixin.py:104} INFO - [2022-03-18 21:55:11,158] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 21:55:11,218] {logging_mixin.py:104} INFO - [2022-03-18 21:55:11,217] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 21:55:11,272] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.250 seconds
+[2022-03-18 21:55:41,417] {scheduler_job.py:182} INFO - Started process (PID=13639) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:55:41,421] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 21:55:41,424] {logging_mixin.py:104} INFO - [2022-03-18 21:55:41,424] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:55:41,506] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:55:41,626] {logging_mixin.py:104} INFO - [2022-03-18 21:55:41,625] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 21:55:41,675] {logging_mixin.py:104} INFO - [2022-03-18 21:55:41,675] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 21:55:41,716] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.310 seconds
+[2022-03-18 21:56:11,973] {scheduler_job.py:182} INFO - Started process (PID=13758) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:56:11,974] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 21:56:11,975] {logging_mixin.py:104} INFO - [2022-03-18 21:56:11,974] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:56:11,990] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:56:12,020] {logging_mixin.py:104} INFO - [2022-03-18 21:56:12,020] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 21:56:12,043] {logging_mixin.py:104} INFO - [2022-03-18 21:56:12,043] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 21:56:12,062] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.093 seconds
+[2022-03-18 21:56:42,182] {scheduler_job.py:182} INFO - Started process (PID=13871) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:56:42,183] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 21:56:42,184] {logging_mixin.py:104} INFO - [2022-03-18 21:56:42,184] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:56:42,198] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:56:42,230] {logging_mixin.py:104} INFO - [2022-03-18 21:56:42,230] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 21:56:42,252] {logging_mixin.py:104} INFO - [2022-03-18 21:56:42,252] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 21:56:42,272] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.093 seconds
+[2022-03-18 21:57:12,444] {scheduler_job.py:182} INFO - Started process (PID=13982) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:57:12,445] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 21:57:12,446] {logging_mixin.py:104} INFO - [2022-03-18 21:57:12,446] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:57:12,463] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:57:12,492] {logging_mixin.py:104} INFO - [2022-03-18 21:57:12,492] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 21:57:12,513] {logging_mixin.py:104} INFO - [2022-03-18 21:57:12,512] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 21:57:12,525] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.086 seconds
+[2022-03-18 21:57:42,831] {scheduler_job.py:182} INFO - Started process (PID=14117) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:57:42,832] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 21:57:42,833] {logging_mixin.py:104} INFO - [2022-03-18 21:57:42,833] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:57:42,849] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:57:42,882] {logging_mixin.py:104} INFO - [2022-03-18 21:57:42,882] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 21:57:42,905] {logging_mixin.py:104} INFO - [2022-03-18 21:57:42,905] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 21:57:42,961] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.134 seconds
+[2022-03-18 21:58:13,817] {scheduler_job.py:182} INFO - Started process (PID=14403) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:58:13,820] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 21:58:13,821] {logging_mixin.py:104} INFO - [2022-03-18 21:58:13,821] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:58:13,850] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:58:13,899] {logging_mixin.py:104} INFO - [2022-03-18 21:58:13,898] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 21:58:13,932] {logging_mixin.py:104} INFO - [2022-03-18 21:58:13,932] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 21:58:14,004] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.195 seconds
+[2022-03-18 21:58:44,065] {scheduler_job.py:182} INFO - Started process (PID=14521) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:58:44,067] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 21:58:44,068] {logging_mixin.py:104} INFO - [2022-03-18 21:58:44,068] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:58:44,099] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:58:44,131] {logging_mixin.py:104} INFO - [2022-03-18 21:58:44,131] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 21:58:44,154] {logging_mixin.py:104} INFO - [2022-03-18 21:58:44,153] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 21:58:44,199] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.139 seconds
+[2022-03-18 21:59:14,668] {scheduler_job.py:182} INFO - Started process (PID=14668) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:59:14,669] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 21:59:14,671] {logging_mixin.py:104} INFO - [2022-03-18 21:59:14,670] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:59:14,695] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:59:14,734] {logging_mixin.py:104} INFO - [2022-03-18 21:59:14,734] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 21:59:14,773] {logging_mixin.py:104} INFO - [2022-03-18 21:59:14,773] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 21:59:14,819] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.155 seconds
+[2022-03-18 21:59:45,275] {scheduler_job.py:182} INFO - Started process (PID=14817) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:59:45,276] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 21:59:45,276] {logging_mixin.py:104} INFO - [2022-03-18 21:59:45,276] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:59:45,291] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 21:59:45,320] {logging_mixin.py:104} INFO - [2022-03-18 21:59:45,320] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 21:59:45,342] {logging_mixin.py:104} INFO - [2022-03-18 21:59:45,341] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 21:59:45,360] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.089 seconds
+[2022-03-18 22:00:15,711] {scheduler_job.py:182} INFO - Started process (PID=15018) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:00:15,715] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 22:00:15,717] {logging_mixin.py:104} INFO - [2022-03-18 22:00:15,717] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:00:15,742] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:00:15,804] {logging_mixin.py:104} INFO - [2022-03-18 22:00:15,804] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 22:00:15,855] {logging_mixin.py:104} INFO - [2022-03-18 22:00:15,855] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 22:00:15,910] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.203 seconds
+[2022-03-18 22:00:46,235] {scheduler_job.py:182} INFO - Started process (PID=15211) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:00:46,237] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 22:00:46,237] {logging_mixin.py:104} INFO - [2022-03-18 22:00:46,237] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:00:46,256] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:00:46,287] {logging_mixin.py:104} INFO - [2022-03-18 22:00:46,287] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 22:00:46,309] {logging_mixin.py:104} INFO - [2022-03-18 22:00:46,309] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 22:00:46,322] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.094 seconds
+[2022-03-18 22:01:16,654] {scheduler_job.py:182} INFO - Started process (PID=15377) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:01:16,657] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 22:01:16,659] {logging_mixin.py:104} INFO - [2022-03-18 22:01:16,659] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:01:16,678] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:01:16,710] {logging_mixin.py:104} INFO - [2022-03-18 22:01:16,709] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 22:01:16,733] {logging_mixin.py:104} INFO - [2022-03-18 22:01:16,733] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 22:01:16,776] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.130 seconds
+[2022-03-18 22:01:46,839] {scheduler_job.py:182} INFO - Started process (PID=15490) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:01:46,841] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 22:01:46,841] {logging_mixin.py:104} INFO - [2022-03-18 22:01:46,841] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:01:46,857] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:01:46,889] {logging_mixin.py:104} INFO - [2022-03-18 22:01:46,889] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 22:01:46,911] {logging_mixin.py:104} INFO - [2022-03-18 22:01:46,911] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 22:01:46,932] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.096 seconds
+[2022-03-18 22:02:17,236] {scheduler_job.py:182} INFO - Started process (PID=15566) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:02:17,237] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 22:02:17,238] {logging_mixin.py:104} INFO - [2022-03-18 22:02:17,238] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:02:17,252] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:02:17,280] {logging_mixin.py:104} INFO - [2022-03-18 22:02:17,280] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 22:02:17,301] {logging_mixin.py:104} INFO - [2022-03-18 22:02:17,301] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 22:02:17,340] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.107 seconds
+[2022-03-18 22:02:47,414] {scheduler_job.py:182} INFO - Started process (PID=15681) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:02:47,417] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 22:02:47,419] {logging_mixin.py:104} INFO - [2022-03-18 22:02:47,419] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:02:47,441] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:02:47,489] {logging_mixin.py:104} INFO - [2022-03-18 22:02:47,489] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 22:02:47,524] {logging_mixin.py:104} INFO - [2022-03-18 22:02:47,524] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 22:02:47,577] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.169 seconds
+[2022-03-18 22:03:17,804] {scheduler_job.py:182} INFO - Started process (PID=15794) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:03:17,807] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 22:03:17,811] {logging_mixin.py:104} INFO - [2022-03-18 22:03:17,810] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:03:17,834] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:03:17,874] {logging_mixin.py:104} INFO - [2022-03-18 22:03:17,874] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 22:03:17,902] {logging_mixin.py:104} INFO - [2022-03-18 22:03:17,901] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 22:03:17,951] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.153 seconds
+[2022-03-18 22:03:48,100] {scheduler_job.py:182} INFO - Started process (PID=16249) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:03:48,101] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 22:03:48,103] {logging_mixin.py:104} INFO - [2022-03-18 22:03:48,102] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:03:48,119] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:03:48,154] {logging_mixin.py:104} INFO - [2022-03-18 22:03:48,154] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 22:03:48,179] {logging_mixin.py:104} INFO - [2022-03-18 22:03:48,179] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 22:03:48,196] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.099 seconds
+[2022-03-18 22:04:18,647] {scheduler_job.py:182} INFO - Started process (PID=16421) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:04:18,650] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 22:04:18,651] {logging_mixin.py:104} INFO - [2022-03-18 22:04:18,651] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:04:18,682] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:04:18,749] {logging_mixin.py:104} INFO - [2022-03-18 22:04:18,749] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 22:04:18,784] {logging_mixin.py:104} INFO - [2022-03-18 22:04:18,783] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 22:04:18,844] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.208 seconds
+[2022-03-18 22:04:48,941] {scheduler_job.py:182} INFO - Started process (PID=16530) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:04:48,944] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 22:04:48,947] {logging_mixin.py:104} INFO - [2022-03-18 22:04:48,946] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:04:48,984] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:04:49,041] {logging_mixin.py:104} INFO - [2022-03-18 22:04:49,040] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 22:04:49,096] {logging_mixin.py:104} INFO - [2022-03-18 22:04:49,095] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 22:04:49,166] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.237 seconds
+[2022-03-18 22:05:19,712] {scheduler_job.py:182} INFO - Started process (PID=16675) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:05:19,727] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 22:05:19,730] {logging_mixin.py:104} INFO - [2022-03-18 22:05:19,728] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:05:19,772] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:05:19,859] {logging_mixin.py:104} INFO - [2022-03-18 22:05:19,858] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 22:05:19,969] {logging_mixin.py:104} INFO - [2022-03-18 22:05:19,969] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 22:05:20,020] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.324 seconds
+[2022-03-18 22:05:50,589] {scheduler_job.py:182} INFO - Started process (PID=16796) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:05:50,591] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 22:05:50,592] {logging_mixin.py:104} INFO - [2022-03-18 22:05:50,592] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:05:50,607] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:05:50,639] {logging_mixin.py:104} INFO - [2022-03-18 22:05:50,639] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 22:05:50,662] {logging_mixin.py:104} INFO - [2022-03-18 22:05:50,662] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 22:05:50,673] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.089 seconds
+[2022-03-18 22:06:20,770] {scheduler_job.py:182} INFO - Started process (PID=17089) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:06:20,775] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 22:06:20,778] {logging_mixin.py:104} INFO - [2022-03-18 22:06:20,776] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:06:20,813] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:06:20,859] {logging_mixin.py:104} INFO - [2022-03-18 22:06:20,859] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 22:06:20,902] {logging_mixin.py:104} INFO - [2022-03-18 22:06:20,902] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 22:06:20,918] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.154 seconds
+[2022-03-18 22:06:51,219] {scheduler_job.py:182} INFO - Started process (PID=17278) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:06:51,221] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 22:06:51,222] {logging_mixin.py:104} INFO - [2022-03-18 22:06:51,222] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:06:51,249] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:06:51,299] {logging_mixin.py:104} INFO - [2022-03-18 22:06:51,299] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 22:06:51,346] {logging_mixin.py:104} INFO - [2022-03-18 22:06:51,346] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 22:06:51,375] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.162 seconds
+[2022-03-18 22:07:21,556] {scheduler_job.py:182} INFO - Started process (PID=17376) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:07:21,557] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 22:07:21,558] {logging_mixin.py:104} INFO - [2022-03-18 22:07:21,558] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:07:21,573] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:07:21,601] {logging_mixin.py:104} INFO - [2022-03-18 22:07:21,601] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 22:07:21,623] {logging_mixin.py:104} INFO - [2022-03-18 22:07:21,623] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 22:07:21,649] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.097 seconds
+[2022-03-18 22:07:51,861] {scheduler_job.py:182} INFO - Started process (PID=17414) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:07:51,862] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 22:07:51,863] {logging_mixin.py:104} INFO - [2022-03-18 22:07:51,863] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:07:51,877] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:07:51,909] {logging_mixin.py:104} INFO - [2022-03-18 22:07:51,909] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 22:07:51,930] {logging_mixin.py:104} INFO - [2022-03-18 22:07:51,930] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 22:07:51,971] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.113 seconds
+[2022-03-18 22:08:22,045] {scheduler_job.py:182} INFO - Started process (PID=17456) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:08:22,047] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 22:08:22,048] {logging_mixin.py:104} INFO - [2022-03-18 22:08:22,048] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:08:22,068] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:08:22,104] {logging_mixin.py:104} INFO - [2022-03-18 22:08:22,104] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 22:08:22,134] {logging_mixin.py:104} INFO - [2022-03-18 22:08:22,134] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 22:08:22,146] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.106 seconds
+[2022-03-18 22:08:52,396] {scheduler_job.py:182} INFO - Started process (PID=17494) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:08:52,397] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 22:08:52,398] {logging_mixin.py:104} INFO - [2022-03-18 22:08:52,398] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:08:52,412] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:08:52,442] {logging_mixin.py:104} INFO - [2022-03-18 22:08:52,442] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 22:08:52,464] {logging_mixin.py:104} INFO - [2022-03-18 22:08:52,464] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 22:08:52,477] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.084 seconds
+[2022-03-18 22:09:22,782] {scheduler_job.py:182} INFO - Started process (PID=17557) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:09:22,784] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 22:09:22,784] {logging_mixin.py:104} INFO - [2022-03-18 22:09:22,784] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:09:22,806] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:09:22,853] {logging_mixin.py:104} INFO - [2022-03-18 22:09:22,852] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 22:09:22,886] {logging_mixin.py:104} INFO - [2022-03-18 22:09:22,886] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 22:09:22,914] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.141 seconds
+[2022-03-18 22:09:53,278] {scheduler_job.py:182} INFO - Started process (PID=17606) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:09:53,284] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 22:09:53,286] {logging_mixin.py:104} INFO - [2022-03-18 22:09:53,286] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:09:53,313] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:09:53,384] {logging_mixin.py:104} INFO - [2022-03-18 22:09:53,384] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 22:09:53,441] {logging_mixin.py:104} INFO - [2022-03-18 22:09:53,441] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 22:09:53,488] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.220 seconds
+[2022-03-18 22:10:23,996] {scheduler_job.py:182} INFO - Started process (PID=17673) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:10:23,998] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 22:10:23,999] {logging_mixin.py:104} INFO - [2022-03-18 22:10:23,999] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:10:24,015] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:10:24,079] {logging_mixin.py:104} INFO - [2022-03-18 22:10:24,078] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 22:10:24,134] {logging_mixin.py:104} INFO - [2022-03-18 22:10:24,134] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 22:10:24,163] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.181 seconds
+[2022-03-18 22:10:54,370] {scheduler_job.py:182} INFO - Started process (PID=17727) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:10:54,371] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 22:10:54,372] {logging_mixin.py:104} INFO - [2022-03-18 22:10:54,372] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:10:54,387] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:10:54,418] {logging_mixin.py:104} INFO - [2022-03-18 22:10:54,418] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 22:10:54,440] {logging_mixin.py:104} INFO - [2022-03-18 22:10:54,440] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 22:10:54,480] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.115 seconds
+[2022-03-18 22:11:24,611] {scheduler_job.py:182} INFO - Started process (PID=18235) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:11:24,613] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 22:11:24,614] {logging_mixin.py:104} INFO - [2022-03-18 22:11:24,614] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:11:24,629] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:11:24,660] {logging_mixin.py:104} INFO - [2022-03-18 22:11:24,660] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 22:11:24,683] {logging_mixin.py:104} INFO - [2022-03-18 22:11:24,683] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 22:11:24,700] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.093 seconds
+[2022-03-18 22:11:54,856] {scheduler_job.py:182} INFO - Started process (PID=19570) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:11:54,858] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 22:11:54,859] {logging_mixin.py:104} INFO - [2022-03-18 22:11:54,859] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:11:54,888] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:11:54,921] {logging_mixin.py:104} INFO - [2022-03-18 22:11:54,921] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 22:11:54,954] {logging_mixin.py:104} INFO - [2022-03-18 22:11:54,954] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 22:11:54,977] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.127 seconds
+[2022-03-18 22:12:25,208] {scheduler_job.py:182} INFO - Started process (PID=19730) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:12:25,242] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 22:12:25,245] {logging_mixin.py:104} INFO - [2022-03-18 22:12:25,245] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:12:25,334] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:12:25,418] {logging_mixin.py:104} INFO - [2022-03-18 22:12:25,417] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 22:12:25,478] {logging_mixin.py:104} INFO - [2022-03-18 22:12:25,478] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 22:12:25,514] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.322 seconds
+[2022-03-18 22:12:56,042] {scheduler_job.py:182} INFO - Started process (PID=19911) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:12:56,049] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 22:12:56,050] {logging_mixin.py:104} INFO - [2022-03-18 22:12:56,050] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:12:56,142] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:12:56,274] {logging_mixin.py:104} INFO - [2022-03-18 22:12:56,274] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 22:12:56,428] {logging_mixin.py:104} INFO - [2022-03-18 22:12:56,427] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 22:12:56,489] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.473 seconds
+[2022-03-18 22:13:27,338] {scheduler_job.py:182} INFO - Started process (PID=20082) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:13:27,340] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 22:13:27,341] {logging_mixin.py:104} INFO - [2022-03-18 22:13:27,340] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:13:27,387] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:13:27,458] {logging_mixin.py:104} INFO - [2022-03-18 22:13:27,458] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 22:13:27,508] {logging_mixin.py:104} INFO - [2022-03-18 22:13:27,507] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 22:13:27,560] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.232 seconds
+[2022-03-18 22:13:58,093] {scheduler_job.py:182} INFO - Started process (PID=20291) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:13:58,095] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 22:13:58,100] {logging_mixin.py:104} INFO - [2022-03-18 22:13:58,100] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:13:58,143] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:13:58,249] {logging_mixin.py:104} INFO - [2022-03-18 22:13:58,249] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 22:13:58,321] {logging_mixin.py:104} INFO - [2022-03-18 22:13:58,320] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 22:13:58,357] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.271 seconds
+[2022-03-18 22:14:28,570] {scheduler_job.py:182} INFO - Started process (PID=20596) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:14:28,571] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 22:14:28,572] {logging_mixin.py:104} INFO - [2022-03-18 22:14:28,572] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:14:28,596] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:14:28,640] {logging_mixin.py:104} INFO - [2022-03-18 22:14:28,640] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 22:14:28,682] {logging_mixin.py:104} INFO - [2022-03-18 22:14:28,682] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 22:14:28,754] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.194 seconds
+[2022-03-18 22:14:59,196] {scheduler_job.py:182} INFO - Started process (PID=20784) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:14:59,222] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 22:14:59,223] {logging_mixin.py:104} INFO - [2022-03-18 22:14:59,223] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:14:59,394] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:14:59,628] {logging_mixin.py:104} INFO - [2022-03-18 22:14:59,627] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 22:14:59,814] {logging_mixin.py:104} INFO - [2022-03-18 22:14:59,814] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 22:14:59,852] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.661 seconds
+[2022-03-18 22:15:30,456] {scheduler_job.py:182} INFO - Started process (PID=20854) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:15:30,457] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 22:15:30,458] {logging_mixin.py:104} INFO - [2022-03-18 22:15:30,458] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:15:30,474] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:15:30,505] {logging_mixin.py:104} INFO - [2022-03-18 22:15:30,505] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 22:15:30,527] {logging_mixin.py:104} INFO - [2022-03-18 22:15:30,527] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 22:15:30,564] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.113 seconds
+[2022-03-18 22:16:00,762] {scheduler_job.py:182} INFO - Started process (PID=21001) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:16:00,764] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 22:16:00,765] {logging_mixin.py:104} INFO - [2022-03-18 22:16:00,765] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:16:00,787] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:16:00,825] {logging_mixin.py:104} INFO - [2022-03-18 22:16:00,824] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 22:16:00,855] {logging_mixin.py:104} INFO - [2022-03-18 22:16:00,855] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 22:16:00,897] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.140 seconds
+[2022-03-18 22:16:31,025] {scheduler_job.py:182} INFO - Started process (PID=21086) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:16:31,027] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 22:16:31,028] {logging_mixin.py:104} INFO - [2022-03-18 22:16:31,028] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:16:31,043] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:16:31,072] {logging_mixin.py:104} INFO - [2022-03-18 22:16:31,072] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 22:16:31,101] {logging_mixin.py:104} INFO - [2022-03-18 22:16:31,100] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 22:16:31,179] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.159 seconds
+[2022-03-18 22:17:01,376] {scheduler_job.py:182} INFO - Started process (PID=21213) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:17:01,377] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 22:17:01,378] {logging_mixin.py:104} INFO - [2022-03-18 22:17:01,378] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:17:01,393] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:17:01,431] {logging_mixin.py:104} INFO - [2022-03-18 22:17:01,430] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 22:17:01,464] {logging_mixin.py:104} INFO - [2022-03-18 22:17:01,464] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 22:17:01,483] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.110 seconds
+[2022-03-18 22:17:31,648] {scheduler_job.py:182} INFO - Started process (PID=21294) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:17:31,649] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 22:17:31,650] {logging_mixin.py:104} INFO - [2022-03-18 22:17:31,650] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:17:31,666] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:17:31,698] {logging_mixin.py:104} INFO - [2022-03-18 22:17:31,697] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 22:17:31,729] {logging_mixin.py:104} INFO - [2022-03-18 22:17:31,729] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 22:17:31,773] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.128 seconds
+[2022-03-18 22:18:01,882] {scheduler_job.py:182} INFO - Started process (PID=21425) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:18:01,884] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 22:18:01,885] {logging_mixin.py:104} INFO - [2022-03-18 22:18:01,884] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:18:01,907] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:18:01,947] {logging_mixin.py:104} INFO - [2022-03-18 22:18:01,947] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 22:18:01,978] {logging_mixin.py:104} INFO - [2022-03-18 22:18:01,978] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 22:18:02,019] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.143 seconds
+[2022-03-18 22:18:32,241] {scheduler_job.py:182} INFO - Started process (PID=21550) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:18:32,242] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 22:18:32,243] {logging_mixin.py:104} INFO - [2022-03-18 22:18:32,243] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:18:32,258] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:18:32,294] {logging_mixin.py:104} INFO - [2022-03-18 22:18:32,294] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 22:18:32,322] {logging_mixin.py:104} INFO - [2022-03-18 22:18:32,322] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 22:18:32,354] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.116 seconds
+[2022-03-18 22:19:02,727] {scheduler_job.py:182} INFO - Started process (PID=21847) to work on /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:19:02,728] {scheduler_job.py:633} INFO - Processing file /home/anupam/airflow/dags/trigger_rule.py for tasks to queue
+[2022-03-18 22:19:02,730] {logging_mixin.py:104} INFO - [2022-03-18 22:19:02,729] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:19:02,750] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['trigger_rule']) retrieved from /home/anupam/airflow/dags/trigger_rule.py
+[2022-03-18 22:19:02,782] {logging_mixin.py:104} INFO - [2022-03-18 22:19:02,782] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 22:19:02,812] {logging_mixin.py:104} INFO - [2022-03-18 22:19:02,812] {dag.py:2305} INFO - Setting next_dagrun for trigger_rule to 2022-03-18 00:00:00+00:00
+[2022-03-18 22:19:02,841] {scheduler_job.py:190} INFO - Processing /home/anupam/airflow/dags/trigger_rule.py took 0.119 seconds

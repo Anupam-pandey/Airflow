@@ -1,0 +1,1071 @@
+[2022-03-18 12:27:12,576] {scheduler_job.py:182} INFO - Started process (PID=6536) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:27:12,580] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 12:27:12,583] {logging_mixin.py:104} INFO - [2022-03-18 12:27:12,582] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:27:12,609] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:27:13,366] {logging_mixin.py:104} INFO - [2022-03-18 12:27:13,366] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:27:13,437] {logging_mixin.py:104} INFO - [2022-03-18 12:27:13,437] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 12:27:13,582] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 1.015 seconds
+[2022-03-18 12:28:36,825] {scheduler_job.py:182} INFO - Started process (PID=7211) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:28:36,827] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 12:28:36,829] {logging_mixin.py:104} INFO - [2022-03-18 12:28:36,828] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:28:36,870] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:28:36,912] {logging_mixin.py:104} INFO - [2022-03-18 12:28:36,912] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:28:36,955] {logging_mixin.py:104} INFO - [2022-03-18 12:28:36,954] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 12:28:37,088] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.274 seconds
+[2022-03-18 12:29:19,894] {scheduler_job.py:182} INFO - Started process (PID=7358) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:29:19,895] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 12:29:19,896] {logging_mixin.py:104} INFO - [2022-03-18 12:29:19,896] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:29:19,911] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:29:19,927] {logging_mixin.py:104} INFO - [2022-03-18 12:29:19,926] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:29:19,946] {logging_mixin.py:104} INFO - [2022-03-18 12:29:19,945] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 12:29:20,031] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.139 seconds
+[2022-03-18 12:29:57,101] {scheduler_job.py:182} INFO - Started process (PID=7394) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:29:57,102] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 12:29:57,103] {logging_mixin.py:104} INFO - [2022-03-18 12:29:57,103] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:29:57,118] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:29:57,135] {logging_mixin.py:104} INFO - [2022-03-18 12:29:57,135] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:29:57,151] {logging_mixin.py:104} INFO - [2022-03-18 12:29:57,150] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 12:29:57,255] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.158 seconds
+[2022-03-18 12:30:40,869] {scheduler_job.py:182} INFO - Started process (PID=7527) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:30:40,871] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 12:30:40,872] {logging_mixin.py:104} INFO - [2022-03-18 12:30:40,872] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:30:40,924] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:30:40,991] {logging_mixin.py:104} INFO - [2022-03-18 12:30:40,991] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:30:41,036] {logging_mixin.py:104} INFO - [2022-03-18 12:30:41,036] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 12:30:41,140] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.279 seconds
+[2022-03-18 12:31:25,225] {scheduler_job.py:182} INFO - Started process (PID=7714) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:31:25,228] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 12:31:25,232] {logging_mixin.py:104} INFO - [2022-03-18 12:31:25,232] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:31:25,280] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:31:25,321] {logging_mixin.py:104} INFO - [2022-03-18 12:31:25,320] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:31:25,356] {logging_mixin.py:104} INFO - [2022-03-18 12:31:25,356] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 12:31:25,469] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.252 seconds
+[2022-03-18 12:32:13,888] {scheduler_job.py:182} INFO - Started process (PID=7979) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:32:13,899] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 12:32:13,906] {logging_mixin.py:104} INFO - [2022-03-18 12:32:13,901] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:32:13,950] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:32:13,993] {logging_mixin.py:104} INFO - [2022-03-18 12:32:13,993] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:32:14,025] {logging_mixin.py:104} INFO - [2022-03-18 12:32:14,025] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 12:32:14,133] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.249 seconds
+[2022-03-18 12:33:04,207] {scheduler_job.py:182} INFO - Started process (PID=8473) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:33:04,209] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 12:33:04,210] {logging_mixin.py:104} INFO - [2022-03-18 12:33:04,209] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:33:04,256] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:33:04,291] {logging_mixin.py:104} INFO - [2022-03-18 12:33:04,291] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:33:04,330] {logging_mixin.py:104} INFO - [2022-03-18 12:33:04,329] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 12:33:04,459] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.255 seconds
+[2022-03-18 12:33:52,932] {scheduler_job.py:182} INFO - Started process (PID=8514) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:33:52,936] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 12:33:52,937] {logging_mixin.py:104} INFO - [2022-03-18 12:33:52,937] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:33:52,964] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:33:52,997] {logging_mixin.py:104} INFO - [2022-03-18 12:33:52,997] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:33:53,027] {logging_mixin.py:104} INFO - [2022-03-18 12:33:53,026] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 12:33:53,161] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.237 seconds
+[2022-03-18 12:34:33,150] {scheduler_job.py:182} INFO - Started process (PID=8548) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:34:33,152] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 12:34:33,153] {logging_mixin.py:104} INFO - [2022-03-18 12:34:33,153] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:34:33,203] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:34:33,235] {logging_mixin.py:104} INFO - [2022-03-18 12:34:33,234] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:34:33,277] {logging_mixin.py:104} INFO - [2022-03-18 12:34:33,276] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 12:34:33,518] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.373 seconds
+[2022-03-18 12:35:16,400] {scheduler_job.py:182} INFO - Started process (PID=9947) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:35:16,401] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 12:35:16,402] {logging_mixin.py:104} INFO - [2022-03-18 12:35:16,402] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:35:16,416] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:35:16,432] {logging_mixin.py:104} INFO - [2022-03-18 12:35:16,432] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:35:16,448] {logging_mixin.py:104} INFO - [2022-03-18 12:35:16,448] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 12:35:16,601] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.204 seconds
+[2022-03-18 12:36:11,915] {scheduler_job.py:182} INFO - Started process (PID=10163) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:36:11,916] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 12:36:11,917] {logging_mixin.py:104} INFO - [2022-03-18 12:36:11,917] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:36:11,937] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:36:11,961] {logging_mixin.py:104} INFO - [2022-03-18 12:36:11,961] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:36:11,985] {logging_mixin.py:104} INFO - [2022-03-18 12:36:11,985] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 12:36:13,472] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 1.560 seconds
+[2022-03-18 12:37:13,705] {scheduler_job.py:182} INFO - Started process (PID=12058) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:37:13,707] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 12:37:13,714] {logging_mixin.py:104} INFO - [2022-03-18 12:37:13,714] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:37:13,753] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:37:13,797] {logging_mixin.py:104} INFO - [2022-03-18 12:37:13,797] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:37:13,867] {logging_mixin.py:104} INFO - [2022-03-18 12:37:13,866] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 12:37:13,979] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.282 seconds
+[2022-03-18 12:38:02,570] {scheduler_job.py:182} INFO - Started process (PID=13980) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:38:02,571] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 12:38:02,572] {logging_mixin.py:104} INFO - [2022-03-18 12:38:02,572] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:38:02,587] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:38:02,606] {logging_mixin.py:104} INFO - [2022-03-18 12:38:02,606] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:38:02,623] {logging_mixin.py:104} INFO - [2022-03-18 12:38:02,623] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 12:38:02,718] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.152 seconds
+[2022-03-18 12:38:43,546] {scheduler_job.py:182} INFO - Started process (PID=14120) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:38:43,547] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 12:38:43,548] {logging_mixin.py:104} INFO - [2022-03-18 12:38:43,548] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:38:43,563] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:38:43,579] {logging_mixin.py:104} INFO - [2022-03-18 12:38:43,578] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:38:43,595] {logging_mixin.py:104} INFO - [2022-03-18 12:38:43,595] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 12:38:43,688] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.145 seconds
+[2022-03-18 12:39:28,771] {scheduler_job.py:182} INFO - Started process (PID=14210) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:39:28,772] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 12:39:28,773] {logging_mixin.py:104} INFO - [2022-03-18 12:39:28,773] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:39:28,788] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:39:28,805] {logging_mixin.py:104} INFO - [2022-03-18 12:39:28,805] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:39:28,823] {logging_mixin.py:104} INFO - [2022-03-18 12:39:28,822] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 12:39:28,922] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.155 seconds
+[2022-03-18 12:40:12,420] {scheduler_job.py:182} INFO - Started process (PID=14287) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:40:12,422] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 12:40:12,423] {logging_mixin.py:104} INFO - [2022-03-18 12:40:12,423] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:40:12,439] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:40:12,455] {logging_mixin.py:104} INFO - [2022-03-18 12:40:12,455] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:40:12,470] {logging_mixin.py:104} INFO - [2022-03-18 12:40:12,470] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 12:40:12,556] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.140 seconds
+[2022-03-18 12:40:52,778] {scheduler_job.py:182} INFO - Started process (PID=14350) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:40:52,780] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 12:40:52,781] {logging_mixin.py:104} INFO - [2022-03-18 12:40:52,780] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:40:52,797] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:40:52,819] {logging_mixin.py:104} INFO - [2022-03-18 12:40:52,819] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:40:52,843] {logging_mixin.py:104} INFO - [2022-03-18 12:40:52,843] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 12:40:52,951] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.177 seconds
+[2022-03-18 12:41:34,948] {scheduler_job.py:182} INFO - Started process (PID=14577) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:41:34,949] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 12:41:34,950] {logging_mixin.py:104} INFO - [2022-03-18 12:41:34,949] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:41:34,964] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:41:34,981] {logging_mixin.py:104} INFO - [2022-03-18 12:41:34,981] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:41:34,997] {logging_mixin.py:104} INFO - [2022-03-18 12:41:34,997] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 12:41:35,094] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.150 seconds
+[2022-03-18 12:42:09,836] {scheduler_job.py:182} INFO - Started process (PID=14785) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:42:09,837] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 12:42:09,838] {logging_mixin.py:104} INFO - [2022-03-18 12:42:09,838] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:42:09,852] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:42:09,867] {logging_mixin.py:104} INFO - [2022-03-18 12:42:09,867] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:42:09,881] {logging_mixin.py:104} INFO - [2022-03-18 12:42:09,881] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 12:42:09,973] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.141 seconds
+[2022-03-18 12:42:59,289] {scheduler_job.py:182} INFO - Started process (PID=14908) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:42:59,299] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 12:42:59,301] {logging_mixin.py:104} INFO - [2022-03-18 12:42:59,301] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:42:59,338] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:42:59,382] {logging_mixin.py:104} INFO - [2022-03-18 12:42:59,382] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:42:59,409] {logging_mixin.py:104} INFO - [2022-03-18 12:42:59,409] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 12:42:59,516] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.234 seconds
+[2022-03-18 12:43:37,507] {scheduler_job.py:182} INFO - Started process (PID=14958) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:43:37,509] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 12:43:37,509] {logging_mixin.py:104} INFO - [2022-03-18 12:43:37,509] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:43:37,524] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:43:37,539] {logging_mixin.py:104} INFO - [2022-03-18 12:43:37,539] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:43:37,553] {logging_mixin.py:104} INFO - [2022-03-18 12:43:37,553] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 12:43:37,662] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.157 seconds
+[2022-03-18 12:44:18,533] {scheduler_job.py:182} INFO - Started process (PID=14997) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:44:18,534] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 12:44:18,535] {logging_mixin.py:104} INFO - [2022-03-18 12:44:18,535] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:44:18,550] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:44:18,566] {logging_mixin.py:104} INFO - [2022-03-18 12:44:18,566] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:44:18,584] {logging_mixin.py:104} INFO - [2022-03-18 12:44:18,583] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 12:44:18,670] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.141 seconds
+[2022-03-18 12:45:00,383] {scheduler_job.py:182} INFO - Started process (PID=15047) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:45:00,384] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 12:45:00,385] {logging_mixin.py:104} INFO - [2022-03-18 12:45:00,385] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:45:00,402] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:45:00,418] {logging_mixin.py:104} INFO - [2022-03-18 12:45:00,418] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:45:00,433] {logging_mixin.py:104} INFO - [2022-03-18 12:45:00,433] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 12:45:00,514] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.134 seconds
+[2022-03-18 12:45:37,668] {scheduler_job.py:182} INFO - Started process (PID=15120) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:45:37,670] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 12:45:37,670] {logging_mixin.py:104} INFO - [2022-03-18 12:45:37,670] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:45:37,686] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:45:37,706] {logging_mixin.py:104} INFO - [2022-03-18 12:45:37,706] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:45:37,728] {logging_mixin.py:104} INFO - [2022-03-18 12:45:37,728] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 12:45:37,834] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.169 seconds
+[2022-03-18 12:46:22,774] {scheduler_job.py:182} INFO - Started process (PID=15256) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:46:22,775] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 12:46:22,775] {logging_mixin.py:104} INFO - [2022-03-18 12:46:22,775] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:46:22,791] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:46:22,805] {logging_mixin.py:104} INFO - [2022-03-18 12:46:22,805] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:46:22,820] {logging_mixin.py:104} INFO - [2022-03-18 12:46:22,820] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 12:46:22,914] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.143 seconds
+[2022-03-18 12:47:13,775] {scheduler_job.py:182} INFO - Started process (PID=15382) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:47:13,780] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 12:47:13,782] {logging_mixin.py:104} INFO - [2022-03-18 12:47:13,781] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:47:13,825] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:47:13,857] {logging_mixin.py:104} INFO - [2022-03-18 12:47:13,857] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:47:13,885] {logging_mixin.py:104} INFO - [2022-03-18 12:47:13,884] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 12:47:13,977] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.208 seconds
+[2022-03-18 12:52:51,190] {scheduler_job.py:182} INFO - Started process (PID=16368) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:52:51,192] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 12:52:51,193] {logging_mixin.py:104} INFO - [2022-03-18 12:52:51,193] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:52:51,230] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:52:51,301] {logging_mixin.py:104} INFO - [2022-03-18 12:52:51,301] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:52:51,352] {logging_mixin.py:104} INFO - [2022-03-18 12:52:51,352] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 12:52:51,383] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.200 seconds
+[2022-03-18 12:53:22,317] {scheduler_job.py:182} INFO - Started process (PID=16920) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:53:22,318] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 12:53:22,319] {logging_mixin.py:104} INFO - [2022-03-18 12:53:22,319] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:53:22,333] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:53:22,368] {logging_mixin.py:104} INFO - [2022-03-18 12:53:22,367] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:53:22,393] {logging_mixin.py:104} INFO - [2022-03-18 12:53:22,393] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 12:53:22,455] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.142 seconds
+[2022-03-18 12:53:53,005] {scheduler_job.py:182} INFO - Started process (PID=17931) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:53:53,006] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 12:53:53,007] {logging_mixin.py:104} INFO - [2022-03-18 12:53:53,007] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:53:53,022] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:53:53,058] {logging_mixin.py:104} INFO - [2022-03-18 12:53:53,057] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:53:53,082] {logging_mixin.py:104} INFO - [2022-03-18 12:53:53,082] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 12:53:53,109] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.108 seconds
+[2022-03-18 12:54:25,396] {scheduler_job.py:182} INFO - Started process (PID=18259) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:54:25,398] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 12:54:25,399] {logging_mixin.py:104} INFO - [2022-03-18 12:54:25,399] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:54:25,444] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:54:25,549] {logging_mixin.py:104} INFO - [2022-03-18 12:54:25,548] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:54:25,636] {logging_mixin.py:104} INFO - [2022-03-18 12:54:25,633] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 12:54:25,736] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.345 seconds
+[2022-03-18 12:54:56,445] {scheduler_job.py:182} INFO - Started process (PID=18466) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:54:56,446] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 12:54:56,446] {logging_mixin.py:104} INFO - [2022-03-18 12:54:56,446] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:54:56,460] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:54:56,490] {logging_mixin.py:104} INFO - [2022-03-18 12:54:56,490] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:54:56,515] {logging_mixin.py:104} INFO - [2022-03-18 12:54:56,515] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 12:54:56,541] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.101 seconds
+[2022-03-18 12:55:26,835] {scheduler_job.py:182} INFO - Started process (PID=18860) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:55:26,837] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 12:55:26,839] {logging_mixin.py:104} INFO - [2022-03-18 12:55:26,838] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:55:26,869] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:55:26,925] {logging_mixin.py:104} INFO - [2022-03-18 12:55:26,925] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:55:26,962] {logging_mixin.py:104} INFO - [2022-03-18 12:55:26,961] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 12:55:26,996] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.166 seconds
+[2022-03-18 12:55:57,215] {scheduler_job.py:182} INFO - Started process (PID=19253) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:55:57,217] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 12:55:57,218] {logging_mixin.py:104} INFO - [2022-03-18 12:55:57,218] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:55:57,234] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:55:57,287] {logging_mixin.py:104} INFO - [2022-03-18 12:55:57,286] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:55:57,319] {logging_mixin.py:104} INFO - [2022-03-18 12:55:57,319] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 12:55:57,350] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.140 seconds
+[2022-03-18 12:56:28,264] {scheduler_job.py:182} INFO - Started process (PID=19853) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:56:28,266] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 12:56:28,267] {logging_mixin.py:104} INFO - [2022-03-18 12:56:28,267] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:56:28,290] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:56:28,340] {logging_mixin.py:104} INFO - [2022-03-18 12:56:28,340] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:56:28,361] {logging_mixin.py:104} INFO - [2022-03-18 12:56:28,361] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 12:56:28,380] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.121 seconds
+[2022-03-18 12:56:58,511] {scheduler_job.py:182} INFO - Started process (PID=20771) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:56:58,512] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 12:56:58,512] {logging_mixin.py:104} INFO - [2022-03-18 12:56:58,512] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:56:58,527] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:56:58,557] {logging_mixin.py:104} INFO - [2022-03-18 12:56:58,557] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:56:58,577] {logging_mixin.py:104} INFO - [2022-03-18 12:56:58,577] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 12:56:58,601] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.094 seconds
+[2022-03-18 12:57:28,664] {scheduler_job.py:182} INFO - Started process (PID=21067) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:57:28,666] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 12:57:28,667] {logging_mixin.py:104} INFO - [2022-03-18 12:57:28,667] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:57:28,681] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:57:28,711] {logging_mixin.py:104} INFO - [2022-03-18 12:57:28,711] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:57:28,729] {logging_mixin.py:104} INFO - [2022-03-18 12:57:28,729] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 12:57:28,748] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.089 seconds
+[2022-03-18 12:57:59,118] {scheduler_job.py:182} INFO - Started process (PID=21408) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:57:59,119] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 12:57:59,120] {logging_mixin.py:104} INFO - [2022-03-18 12:57:59,119] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:57:59,135] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:57:59,169] {logging_mixin.py:104} INFO - [2022-03-18 12:57:59,169] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:57:59,188] {logging_mixin.py:104} INFO - [2022-03-18 12:57:59,188] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 12:57:59,238] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.124 seconds
+[2022-03-18 12:58:29,300] {scheduler_job.py:182} INFO - Started process (PID=21615) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:58:29,301] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 12:58:29,302] {logging_mixin.py:104} INFO - [2022-03-18 12:58:29,302] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:58:29,316] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:58:29,345] {logging_mixin.py:104} INFO - [2022-03-18 12:58:29,345] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:58:29,363] {logging_mixin.py:104} INFO - [2022-03-18 12:58:29,363] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 12:58:29,391] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.095 seconds
+[2022-03-18 12:58:59,721] {scheduler_job.py:182} INFO - Started process (PID=21820) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:58:59,722] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 12:58:59,723] {logging_mixin.py:104} INFO - [2022-03-18 12:58:59,723] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:58:59,745] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:58:59,783] {logging_mixin.py:104} INFO - [2022-03-18 12:58:59,783] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:58:59,803] {logging_mixin.py:104} INFO - [2022-03-18 12:58:59,803] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 12:58:59,823] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.106 seconds
+[2022-03-18 12:59:30,281] {scheduler_job.py:182} INFO - Started process (PID=22025) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:59:30,282] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 12:59:30,283] {logging_mixin.py:104} INFO - [2022-03-18 12:59:30,283] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:59:30,300] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 12:59:30,336] {logging_mixin.py:104} INFO - [2022-03-18 12:59:30,336] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:59:30,359] {logging_mixin.py:104} INFO - [2022-03-18 12:59:30,359] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 12:59:30,377] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.100 seconds
+[2022-03-18 13:00:00,504] {scheduler_job.py:182} INFO - Started process (PID=22230) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:00:00,506] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:00:00,507] {logging_mixin.py:104} INFO - [2022-03-18 13:00:00,506] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:00:00,524] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:00:00,557] {logging_mixin.py:104} INFO - [2022-03-18 13:00:00,557] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:00:00,580] {logging_mixin.py:104} INFO - [2022-03-18 13:00:00,580] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:00:00,599] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.098 seconds
+[2022-03-18 13:00:30,722] {scheduler_job.py:182} INFO - Started process (PID=22472) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:00:30,724] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:00:30,724] {logging_mixin.py:104} INFO - [2022-03-18 13:00:30,724] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:00:30,738] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:00:30,767] {logging_mixin.py:104} INFO - [2022-03-18 13:00:30,767] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:00:30,785] {logging_mixin.py:104} INFO - [2022-03-18 13:00:30,785] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:00:30,822] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.103 seconds
+[2022-03-18 13:01:00,993] {scheduler_job.py:182} INFO - Started process (PID=22678) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:01:00,994] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:01:00,995] {logging_mixin.py:104} INFO - [2022-03-18 13:01:00,995] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:01:01,011] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:01:01,041] {logging_mixin.py:104} INFO - [2022-03-18 13:01:01,041] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:01:01,059] {logging_mixin.py:104} INFO - [2022-03-18 13:01:01,059] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:01:01,075] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.085 seconds
+[2022-03-18 13:01:31,205] {scheduler_job.py:182} INFO - Started process (PID=22883) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:01:31,207] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:01:31,207] {logging_mixin.py:104} INFO - [2022-03-18 13:01:31,207] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:01:31,222] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:01:31,249] {logging_mixin.py:104} INFO - [2022-03-18 13:01:31,249] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:01:31,268] {logging_mixin.py:104} INFO - [2022-03-18 13:01:31,267] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:01:31,286] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.084 seconds
+[2022-03-18 13:02:01,624] {scheduler_job.py:182} INFO - Started process (PID=23088) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:02:01,626] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:02:01,627] {logging_mixin.py:104} INFO - [2022-03-18 13:02:01,627] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:02:01,648] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:02:01,680] {logging_mixin.py:104} INFO - [2022-03-18 13:02:01,680] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:02:01,701] {logging_mixin.py:104} INFO - [2022-03-18 13:02:01,701] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:02:01,728] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.111 seconds
+[2022-03-18 13:02:32,044] {scheduler_job.py:182} INFO - Started process (PID=23293) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:02:32,045] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:02:32,046] {logging_mixin.py:104} INFO - [2022-03-18 13:02:32,046] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:02:32,064] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:02:32,099] {logging_mixin.py:104} INFO - [2022-03-18 13:02:32,098] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:02:32,123] {logging_mixin.py:104} INFO - [2022-03-18 13:02:32,123] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:02:32,149] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.108 seconds
+[2022-03-18 13:03:02,329] {scheduler_job.py:182} INFO - Started process (PID=23640) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:03:02,330] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:03:02,331] {logging_mixin.py:104} INFO - [2022-03-18 13:03:02,331] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:03:02,348] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:03:02,380] {logging_mixin.py:104} INFO - [2022-03-18 13:03:02,380] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:03:02,399] {logging_mixin.py:104} INFO - [2022-03-18 13:03:02,399] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:03:02,423] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.098 seconds
+[2022-03-18 13:03:33,187] {scheduler_job.py:182} INFO - Started process (PID=23857) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:03:33,188] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:03:33,189] {logging_mixin.py:104} INFO - [2022-03-18 13:03:33,189] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:03:33,207] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:03:33,244] {logging_mixin.py:104} INFO - [2022-03-18 13:03:33,244] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:03:33,265] {logging_mixin.py:104} INFO - [2022-03-18 13:03:33,265] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:03:33,285] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.104 seconds
+[2022-03-18 13:04:04,086] {scheduler_job.py:182} INFO - Started process (PID=24091) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:04:04,087] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:04:04,088] {logging_mixin.py:104} INFO - [2022-03-18 13:04:04,088] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:04:04,107] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:04:04,143] {logging_mixin.py:104} INFO - [2022-03-18 13:04:04,143] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:04:04,166] {logging_mixin.py:104} INFO - [2022-03-18 13:04:04,166] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:04:04,191] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.111 seconds
+[2022-03-18 13:04:34,436] {scheduler_job.py:182} INFO - Started process (PID=24298) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:04:34,437] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:04:34,438] {logging_mixin.py:104} INFO - [2022-03-18 13:04:34,437] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:04:34,453] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:04:34,483] {logging_mixin.py:104} INFO - [2022-03-18 13:04:34,483] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:04:34,503] {logging_mixin.py:104} INFO - [2022-03-18 13:04:34,503] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:04:34,556] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.124 seconds
+[2022-03-18 13:05:04,896] {scheduler_job.py:182} INFO - Started process (PID=24505) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:05:04,898] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:05:04,899] {logging_mixin.py:104} INFO - [2022-03-18 13:05:04,899] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:05:04,913] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:05:04,945] {logging_mixin.py:104} INFO - [2022-03-18 13:05:04,945] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:05:04,965] {logging_mixin.py:104} INFO - [2022-03-18 13:05:04,965] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:05:04,986] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.093 seconds
+[2022-03-18 13:05:35,041] {scheduler_job.py:182} INFO - Started process (PID=24743) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:05:35,042] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:05:35,043] {logging_mixin.py:104} INFO - [2022-03-18 13:05:35,043] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:05:35,057] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:05:35,086] {logging_mixin.py:104} INFO - [2022-03-18 13:05:35,085] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:05:35,103] {logging_mixin.py:104} INFO - [2022-03-18 13:05:35,103] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:05:35,174] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.137 seconds
+[2022-03-18 13:06:05,574] {scheduler_job.py:182} INFO - Started process (PID=24948) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:06:05,576] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:06:05,577] {logging_mixin.py:104} INFO - [2022-03-18 13:06:05,577] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:06:05,595] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:06:05,628] {logging_mixin.py:104} INFO - [2022-03-18 13:06:05,628] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:06:05,651] {logging_mixin.py:104} INFO - [2022-03-18 13:06:05,650] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:06:05,669] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.100 seconds
+[2022-03-18 13:06:36,609] {scheduler_job.py:182} INFO - Started process (PID=25171) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:06:36,611] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:06:36,612] {logging_mixin.py:104} INFO - [2022-03-18 13:06:36,612] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:06:36,632] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:06:36,687] {logging_mixin.py:104} INFO - [2022-03-18 13:06:36,687] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:06:36,713] {logging_mixin.py:104} INFO - [2022-03-18 13:06:36,713] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:06:36,744] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.146 seconds
+[2022-03-18 13:07:07,797] {scheduler_job.py:182} INFO - Started process (PID=25392) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:07:07,800] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:07:07,801] {logging_mixin.py:104} INFO - [2022-03-18 13:07:07,801] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:07:07,844] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:07:07,906] {logging_mixin.py:104} INFO - [2022-03-18 13:07:07,906] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:07:07,943] {logging_mixin.py:104} INFO - [2022-03-18 13:07:07,943] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:07:07,969] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.188 seconds
+[2022-03-18 13:07:38,789] {scheduler_job.py:182} INFO - Started process (PID=25636) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:07:38,791] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:07:38,793] {logging_mixin.py:104} INFO - [2022-03-18 13:07:38,793] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:07:38,821] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:07:38,869] {logging_mixin.py:104} INFO - [2022-03-18 13:07:38,868] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:07:38,898] {logging_mixin.py:104} INFO - [2022-03-18 13:07:38,897] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:07:38,951] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.168 seconds
+[2022-03-18 13:08:09,046] {scheduler_job.py:182} INFO - Started process (PID=26084) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:08:09,048] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:08:09,050] {logging_mixin.py:104} INFO - [2022-03-18 13:08:09,049] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:08:09,079] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:08:09,133] {logging_mixin.py:104} INFO - [2022-03-18 13:08:09,132] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:08:09,165] {logging_mixin.py:104} INFO - [2022-03-18 13:08:09,165] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:08:09,224] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.187 seconds
+[2022-03-18 13:08:39,322] {scheduler_job.py:182} INFO - Started process (PID=26293) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:08:39,323] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:08:39,324] {logging_mixin.py:104} INFO - [2022-03-18 13:08:39,324] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:08:39,338] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:08:39,368] {logging_mixin.py:104} INFO - [2022-03-18 13:08:39,368] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:08:39,386] {logging_mixin.py:104} INFO - [2022-03-18 13:08:39,386] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:08:39,408] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.089 seconds
+[2022-03-18 13:09:09,636] {scheduler_job.py:182} INFO - Started process (PID=26506) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:09:09,637] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:09:09,639] {logging_mixin.py:104} INFO - [2022-03-18 13:09:09,638] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:09:09,678] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:09:09,751] {logging_mixin.py:104} INFO - [2022-03-18 13:09:09,750] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:09:09,802] {logging_mixin.py:104} INFO - [2022-03-18 13:09:09,802] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:09:09,878] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.248 seconds
+[2022-03-18 13:09:39,974] {scheduler_job.py:182} INFO - Started process (PID=26714) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:09:39,975] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:09:39,976] {logging_mixin.py:104} INFO - [2022-03-18 13:09:39,976] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:09:39,994] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:09:40,029] {logging_mixin.py:104} INFO - [2022-03-18 13:09:40,029] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:09:40,047] {logging_mixin.py:104} INFO - [2022-03-18 13:09:40,047] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:09:40,081] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.110 seconds
+[2022-03-18 13:10:10,522] {scheduler_job.py:182} INFO - Started process (PID=26922) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:10:10,526] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:10:10,527] {logging_mixin.py:104} INFO - [2022-03-18 13:10:10,527] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:10:10,555] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:10:10,613] {logging_mixin.py:104} INFO - [2022-03-18 13:10:10,613] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:10:10,642] {logging_mixin.py:104} INFO - [2022-03-18 13:10:10,642] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:10:10,726] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.215 seconds
+[2022-03-18 13:10:41,640] {scheduler_job.py:182} INFO - Started process (PID=27163) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:10:41,641] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:10:41,642] {logging_mixin.py:104} INFO - [2022-03-18 13:10:41,642] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:10:41,696] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:10:41,760] {logging_mixin.py:104} INFO - [2022-03-18 13:10:41,760] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:10:41,803] {logging_mixin.py:104} INFO - [2022-03-18 13:10:41,803] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:10:41,835] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.201 seconds
+[2022-03-18 13:11:12,423] {scheduler_job.py:182} INFO - Started process (PID=27377) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:11:12,426] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:11:12,428] {logging_mixin.py:104} INFO - [2022-03-18 13:11:12,428] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:11:12,450] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:11:12,533] {logging_mixin.py:104} INFO - [2022-03-18 13:11:12,533] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:11:12,573] {logging_mixin.py:104} INFO - [2022-03-18 13:11:12,573] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:11:12,619] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.201 seconds
+[2022-03-18 13:11:43,408] {scheduler_job.py:182} INFO - Started process (PID=27589) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:11:43,409] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:11:43,409] {logging_mixin.py:104} INFO - [2022-03-18 13:11:43,409] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:11:43,452] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:11:43,519] {logging_mixin.py:104} INFO - [2022-03-18 13:11:43,519] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:11:43,553] {logging_mixin.py:104} INFO - [2022-03-18 13:11:43,553] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:11:43,603] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.212 seconds
+[2022-03-18 13:12:14,128] {scheduler_job.py:182} INFO - Started process (PID=27798) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:12:14,131] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:12:14,133] {logging_mixin.py:104} INFO - [2022-03-18 13:12:14,133] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:12:14,172] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:12:14,244] {logging_mixin.py:104} INFO - [2022-03-18 13:12:14,243] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:12:14,288] {logging_mixin.py:104} INFO - [2022-03-18 13:12:14,287] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:12:14,331] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.208 seconds
+[2022-03-18 13:12:44,760] {scheduler_job.py:182} INFO - Started process (PID=28007) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:12:44,768] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:12:44,769] {logging_mixin.py:104} INFO - [2022-03-18 13:12:44,769] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:12:44,805] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:12:44,869] {logging_mixin.py:104} INFO - [2022-03-18 13:12:44,868] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:12:44,917] {logging_mixin.py:104} INFO - [2022-03-18 13:12:44,917] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:12:44,975] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.219 seconds
+[2022-03-18 13:13:15,702] {scheduler_job.py:182} INFO - Started process (PID=28332) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:13:15,704] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:13:15,706] {logging_mixin.py:104} INFO - [2022-03-18 13:13:15,706] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:13:15,733] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:13:15,803] {logging_mixin.py:104} INFO - [2022-03-18 13:13:15,803] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:13:15,843] {logging_mixin.py:104} INFO - [2022-03-18 13:13:15,843] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:13:15,918] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.233 seconds
+[2022-03-18 13:13:46,589] {scheduler_job.py:182} INFO - Started process (PID=28557) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:13:46,593] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:13:46,598] {logging_mixin.py:104} INFO - [2022-03-18 13:13:46,595] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:13:46,666] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:13:46,772] {logging_mixin.py:104} INFO - [2022-03-18 13:13:46,772] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:13:46,820] {logging_mixin.py:104} INFO - [2022-03-18 13:13:46,820] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:13:46,913] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.342 seconds
+[2022-03-18 13:14:17,258] {scheduler_job.py:182} INFO - Started process (PID=28763) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:14:17,259] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:14:17,260] {logging_mixin.py:104} INFO - [2022-03-18 13:14:17,259] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:14:17,294] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:14:17,350] {logging_mixin.py:104} INFO - [2022-03-18 13:14:17,350] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:14:17,392] {logging_mixin.py:104} INFO - [2022-03-18 13:14:17,392] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:14:17,417] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.164 seconds
+[2022-03-18 13:14:48,057] {scheduler_job.py:182} INFO - Started process (PID=28970) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:14:48,059] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:14:48,060] {logging_mixin.py:104} INFO - [2022-03-18 13:14:48,060] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:14:48,144] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:14:48,227] {logging_mixin.py:104} INFO - [2022-03-18 13:14:48,226] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:14:48,270] {logging_mixin.py:104} INFO - [2022-03-18 13:14:48,270] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:14:48,318] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.266 seconds
+[2022-03-18 13:15:18,786] {scheduler_job.py:182} INFO - Started process (PID=29256) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:15:18,789] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:15:18,790] {logging_mixin.py:104} INFO - [2022-03-18 13:15:18,790] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:15:18,809] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:15:18,845] {logging_mixin.py:104} INFO - [2022-03-18 13:15:18,844] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:15:18,868] {logging_mixin.py:104} INFO - [2022-03-18 13:15:18,868] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:15:18,932] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.150 seconds
+[2022-03-18 13:15:49,494] {scheduler_job.py:182} INFO - Started process (PID=29567) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:15:49,496] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:15:49,497] {logging_mixin.py:104} INFO - [2022-03-18 13:15:49,496] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:15:49,520] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:15:49,604] {logging_mixin.py:104} INFO - [2022-03-18 13:15:49,603] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:15:49,653] {logging_mixin.py:104} INFO - [2022-03-18 13:15:49,653] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:15:49,703] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.215 seconds
+[2022-03-18 13:16:20,499] {scheduler_job.py:182} INFO - Started process (PID=29854) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:16:20,500] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:16:20,502] {logging_mixin.py:104} INFO - [2022-03-18 13:16:20,501] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:16:20,528] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:16:20,574] {logging_mixin.py:104} INFO - [2022-03-18 13:16:20,573] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:16:20,598] {logging_mixin.py:104} INFO - [2022-03-18 13:16:20,598] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:16:20,840] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.350 seconds
+[2022-03-18 13:16:51,025] {scheduler_job.py:182} INFO - Started process (PID=30864) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:16:51,026] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:16:51,027] {logging_mixin.py:104} INFO - [2022-03-18 13:16:51,027] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:16:51,044] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:16:51,081] {logging_mixin.py:104} INFO - [2022-03-18 13:16:51,081] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:16:51,103] {logging_mixin.py:104} INFO - [2022-03-18 13:16:51,102] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:16:51,133] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.112 seconds
+[2022-03-18 13:17:21,409] {scheduler_job.py:182} INFO - Started process (PID=31084) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:17:21,410] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:17:21,411] {logging_mixin.py:104} INFO - [2022-03-18 13:17:21,411] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:17:21,426] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:17:21,461] {logging_mixin.py:104} INFO - [2022-03-18 13:17:21,461] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:17:21,484] {logging_mixin.py:104} INFO - [2022-03-18 13:17:21,484] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:17:21,510] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.104 seconds
+[2022-03-18 13:17:51,900] {scheduler_job.py:182} INFO - Started process (PID=31408) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:17:51,901] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:17:51,902] {logging_mixin.py:104} INFO - [2022-03-18 13:17:51,902] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:17:51,916] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:17:51,948] {logging_mixin.py:104} INFO - [2022-03-18 13:17:51,948] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:17:51,969] {logging_mixin.py:104} INFO - [2022-03-18 13:17:51,969] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:17:52,020] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.124 seconds
+[2022-03-18 13:18:22,357] {scheduler_job.py:182} INFO - Started process (PID=31613) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:18:22,358] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:18:22,359] {logging_mixin.py:104} INFO - [2022-03-18 13:18:22,359] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:18:22,374] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:18:22,404] {logging_mixin.py:104} INFO - [2022-03-18 13:18:22,404] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:18:22,424] {logging_mixin.py:104} INFO - [2022-03-18 13:18:22,424] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:18:22,474] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.120 seconds
+[2022-03-18 13:18:52,923] {scheduler_job.py:182} INFO - Started process (PID=31819) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:18:52,924] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:18:52,925] {logging_mixin.py:104} INFO - [2022-03-18 13:18:52,925] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:18:52,940] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:18:52,971] {logging_mixin.py:104} INFO - [2022-03-18 13:18:52,971] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:18:52,993] {logging_mixin.py:104} INFO - [2022-03-18 13:18:52,993] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:18:53,049] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.130 seconds
+[2022-03-18 13:19:23,273] {scheduler_job.py:182} INFO - Started process (PID=32027) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:19:23,274] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:19:23,275] {logging_mixin.py:104} INFO - [2022-03-18 13:19:23,275] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:19:23,290] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:19:23,323] {logging_mixin.py:104} INFO - [2022-03-18 13:19:23,323] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:19:23,349] {logging_mixin.py:104} INFO - [2022-03-18 13:19:23,349] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:19:23,413] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.143 seconds
+[2022-03-18 13:19:53,674] {scheduler_job.py:182} INFO - Started process (PID=32232) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:19:53,675] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:19:53,676] {logging_mixin.py:104} INFO - [2022-03-18 13:19:53,676] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:19:53,697] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:19:53,732] {logging_mixin.py:104} INFO - [2022-03-18 13:19:53,732] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:19:53,756] {logging_mixin.py:104} INFO - [2022-03-18 13:19:53,756] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:19:53,812] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.143 seconds
+[2022-03-18 13:20:23,850] {scheduler_job.py:182} INFO - Started process (PID=32472) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:20:23,851] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:20:23,852] {logging_mixin.py:104} INFO - [2022-03-18 13:20:23,852] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:20:23,867] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:20:23,899] {logging_mixin.py:104} INFO - [2022-03-18 13:20:23,899] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:20:23,917] {logging_mixin.py:104} INFO - [2022-03-18 13:20:23,917] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:20:24,011] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.164 seconds
+[2022-03-18 13:20:54,462] {scheduler_job.py:182} INFO - Started process (PID=32682) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:20:54,463] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:20:54,464] {logging_mixin.py:104} INFO - [2022-03-18 13:20:54,464] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:20:54,485] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:20:54,519] {logging_mixin.py:104} INFO - [2022-03-18 13:20:54,519] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:20:54,542] {logging_mixin.py:104} INFO - [2022-03-18 13:20:54,542] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:20:54,597] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.141 seconds
+[2022-03-18 13:21:24,983] {scheduler_job.py:182} INFO - Started process (PID=461) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:21:24,984] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:21:24,985] {logging_mixin.py:104} INFO - [2022-03-18 13:21:24,985] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:21:24,999] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:21:25,035] {logging_mixin.py:104} INFO - [2022-03-18 13:21:25,035] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:21:25,059] {logging_mixin.py:104} INFO - [2022-03-18 13:21:25,059] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:21:25,084] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.105 seconds
+[2022-03-18 13:21:55,988] {scheduler_job.py:182} INFO - Started process (PID=667) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:21:55,990] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:21:55,991] {logging_mixin.py:104} INFO - [2022-03-18 13:21:55,990] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:21:56,006] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:21:56,035] {logging_mixin.py:104} INFO - [2022-03-18 13:21:56,035] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:21:56,054] {logging_mixin.py:104} INFO - [2022-03-18 13:21:56,054] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:21:56,093] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.108 seconds
+[2022-03-18 13:22:26,144] {scheduler_job.py:182} INFO - Started process (PID=878) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:22:26,146] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:22:26,146] {logging_mixin.py:104} INFO - [2022-03-18 13:22:26,146] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:22:26,167] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:22:26,198] {logging_mixin.py:104} INFO - [2022-03-18 13:22:26,198] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:22:26,219] {logging_mixin.py:104} INFO - [2022-03-18 13:22:26,219] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:22:26,247] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.106 seconds
+[2022-03-18 13:22:56,891] {scheduler_job.py:182} INFO - Started process (PID=1230) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:22:56,892] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:22:56,893] {logging_mixin.py:104} INFO - [2022-03-18 13:22:56,893] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:22:56,907] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:22:56,937] {logging_mixin.py:104} INFO - [2022-03-18 13:22:56,937] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:22:56,960] {logging_mixin.py:104} INFO - [2022-03-18 13:22:56,960] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:22:56,987] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.099 seconds
+[2022-03-18 13:23:27,153] {scheduler_job.py:182} INFO - Started process (PID=1481) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:23:27,154] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:23:27,155] {logging_mixin.py:104} INFO - [2022-03-18 13:23:27,155] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:23:27,170] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:23:27,199] {logging_mixin.py:104} INFO - [2022-03-18 13:23:27,199] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:23:27,218] {logging_mixin.py:104} INFO - [2022-03-18 13:23:27,218] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:23:27,242] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.094 seconds
+[2022-03-18 13:23:57,731] {scheduler_job.py:182} INFO - Started process (PID=1707) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:23:57,732] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:23:57,732] {logging_mixin.py:104} INFO - [2022-03-18 13:23:57,732] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:23:57,749] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:23:57,783] {logging_mixin.py:104} INFO - [2022-03-18 13:23:57,783] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:23:57,803] {logging_mixin.py:104} INFO - [2022-03-18 13:23:57,803] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:23:57,831] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.104 seconds
+[2022-03-18 13:24:28,296] {scheduler_job.py:182} INFO - Started process (PID=1940) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:24:28,297] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:24:28,298] {logging_mixin.py:104} INFO - [2022-03-18 13:24:28,298] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:24:28,313] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:24:28,347] {logging_mixin.py:104} INFO - [2022-03-18 13:24:28,347] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:24:28,369] {logging_mixin.py:104} INFO - [2022-03-18 13:24:28,369] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:24:28,393] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.101 seconds
+[2022-03-18 13:24:58,504] {scheduler_job.py:182} INFO - Started process (PID=2105) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:24:58,507] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:24:58,513] {logging_mixin.py:104} INFO - [2022-03-18 13:24:58,512] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:24:58,550] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:24:58,611] {logging_mixin.py:104} INFO - [2022-03-18 13:24:58,610] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:24:58,659] {logging_mixin.py:104} INFO - [2022-03-18 13:24:58,659] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:24:58,929] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.430 seconds
+[2022-03-18 13:25:29,893] {scheduler_job.py:182} INFO - Started process (PID=2497) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:25:29,894] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:25:29,895] {logging_mixin.py:104} INFO - [2022-03-18 13:25:29,895] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:25:29,911] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:25:29,942] {logging_mixin.py:104} INFO - [2022-03-18 13:25:29,942] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:25:29,962] {logging_mixin.py:104} INFO - [2022-03-18 13:25:29,962] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:25:29,986] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.097 seconds
+[2022-03-18 13:26:00,605] {scheduler_job.py:182} INFO - Started process (PID=2997) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:26:00,606] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:26:00,607] {logging_mixin.py:104} INFO - [2022-03-18 13:26:00,606] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:26:00,627] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:26:00,660] {logging_mixin.py:104} INFO - [2022-03-18 13:26:00,660] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:26:00,679] {logging_mixin.py:104} INFO - [2022-03-18 13:26:00,679] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:26:00,707] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.106 seconds
+[2022-03-18 13:26:31,270] {scheduler_job.py:182} INFO - Started process (PID=3275) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:26:31,271] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:26:31,272] {logging_mixin.py:104} INFO - [2022-03-18 13:26:31,272] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:26:31,303] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:26:31,340] {logging_mixin.py:104} INFO - [2022-03-18 13:26:31,340] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:26:31,364] {logging_mixin.py:104} INFO - [2022-03-18 13:26:31,364] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:26:31,405] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.150 seconds
+[2022-03-18 13:27:01,888] {scheduler_job.py:182} INFO - Started process (PID=3765) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:27:01,889] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:27:01,890] {logging_mixin.py:104} INFO - [2022-03-18 13:27:01,890] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:27:01,923] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:27:02,009] {logging_mixin.py:104} INFO - [2022-03-18 13:27:02,008] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:27:02,069] {logging_mixin.py:104} INFO - [2022-03-18 13:27:02,069] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:27:02,148] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.274 seconds
+[2022-03-18 13:27:32,417] {scheduler_job.py:182} INFO - Started process (PID=4018) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:27:32,418] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:27:32,419] {logging_mixin.py:104} INFO - [2022-03-18 13:27:32,419] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:27:32,434] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:27:32,463] {logging_mixin.py:104} INFO - [2022-03-18 13:27:32,463] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:27:32,481] {logging_mixin.py:104} INFO - [2022-03-18 13:27:32,481] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:27:32,513] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.100 seconds
+[2022-03-18 13:28:02,872] {scheduler_job.py:182} INFO - Started process (PID=4460) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:28:02,873] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:28:02,874] {logging_mixin.py:104} INFO - [2022-03-18 13:28:02,874] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:28:02,888] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:28:02,917] {logging_mixin.py:104} INFO - [2022-03-18 13:28:02,917] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:28:02,935] {logging_mixin.py:104} INFO - [2022-03-18 13:28:02,935] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:28:02,988] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.119 seconds
+[2022-03-18 13:28:33,175] {scheduler_job.py:182} INFO - Started process (PID=4807) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:28:33,177] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:28:33,177] {logging_mixin.py:104} INFO - [2022-03-18 13:28:33,177] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:28:33,192] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:28:33,230] {logging_mixin.py:104} INFO - [2022-03-18 13:28:33,229] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:28:33,256] {logging_mixin.py:104} INFO - [2022-03-18 13:28:33,256] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:28:33,300] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.128 seconds
+[2022-03-18 13:29:03,371] {scheduler_job.py:182} INFO - Started process (PID=5157) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:29:03,372] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:29:03,373] {logging_mixin.py:104} INFO - [2022-03-18 13:29:03,373] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:29:03,389] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:29:03,420] {logging_mixin.py:104} INFO - [2022-03-18 13:29:03,420] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:29:03,439] {logging_mixin.py:104} INFO - [2022-03-18 13:29:03,439] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:29:03,464] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.096 seconds
+[2022-03-18 13:29:33,906] {scheduler_job.py:182} INFO - Started process (PID=5365) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:29:33,908] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:29:33,909] {logging_mixin.py:104} INFO - [2022-03-18 13:29:33,909] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:29:33,932] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:29:33,967] {logging_mixin.py:104} INFO - [2022-03-18 13:29:33,967] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:29:33,991] {logging_mixin.py:104} INFO - [2022-03-18 13:29:33,990] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:29:34,018] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.117 seconds
+[2022-03-18 13:30:04,444] {scheduler_job.py:182} INFO - Started process (PID=5622) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:30:04,450] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:30:04,452] {logging_mixin.py:104} INFO - [2022-03-18 13:30:04,452] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:30:04,487] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:30:04,532] {logging_mixin.py:104} INFO - [2022-03-18 13:30:04,532] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:30:04,553] {logging_mixin.py:104} INFO - [2022-03-18 13:30:04,552] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:30:04,606] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.171 seconds
+[2022-03-18 13:30:35,114] {scheduler_job.py:182} INFO - Started process (PID=5949) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:30:35,116] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:30:35,118] {logging_mixin.py:104} INFO - [2022-03-18 13:30:35,118] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:30:35,140] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:30:35,220] {logging_mixin.py:104} INFO - [2022-03-18 13:30:35,219] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:30:35,282] {logging_mixin.py:104} INFO - [2022-03-18 13:30:35,281] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:30:35,320] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.220 seconds
+[2022-03-18 13:31:05,526] {scheduler_job.py:182} INFO - Started process (PID=6167) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:31:05,528] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:31:05,531] {logging_mixin.py:104} INFO - [2022-03-18 13:31:05,530] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:31:05,583] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:31:05,667] {logging_mixin.py:104} INFO - [2022-03-18 13:31:05,667] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:31:05,713] {logging_mixin.py:104} INFO - [2022-03-18 13:31:05,713] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:31:05,770] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.254 seconds
+[2022-03-18 13:31:36,309] {scheduler_job.py:182} INFO - Started process (PID=6378) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:31:36,310] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:31:36,311] {logging_mixin.py:104} INFO - [2022-03-18 13:31:36,311] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:31:36,325] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:31:36,356] {logging_mixin.py:104} INFO - [2022-03-18 13:31:36,356] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:31:36,376] {logging_mixin.py:104} INFO - [2022-03-18 13:31:36,376] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:31:36,409] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.104 seconds
+[2022-03-18 13:32:06,572] {scheduler_job.py:182} INFO - Started process (PID=6598) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:32:06,574] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:32:06,575] {logging_mixin.py:104} INFO - [2022-03-18 13:32:06,575] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:32:06,596] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:32:06,630] {logging_mixin.py:104} INFO - [2022-03-18 13:32:06,630] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:32:06,656] {logging_mixin.py:104} INFO - [2022-03-18 13:32:06,656] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:32:06,674] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.106 seconds
+[2022-03-18 13:32:36,729] {scheduler_job.py:182} INFO - Started process (PID=6802) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:32:36,731] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:32:36,732] {logging_mixin.py:104} INFO - [2022-03-18 13:32:36,732] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:32:36,753] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:32:36,783] {logging_mixin.py:104} INFO - [2022-03-18 13:32:36,783] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:32:36,807] {logging_mixin.py:104} INFO - [2022-03-18 13:32:36,806] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:32:36,864] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.140 seconds
+[2022-03-18 13:33:06,984] {scheduler_job.py:182} INFO - Started process (PID=7149) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:33:06,985] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:33:06,986] {logging_mixin.py:104} INFO - [2022-03-18 13:33:06,986] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:33:07,006] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:33:07,043] {logging_mixin.py:104} INFO - [2022-03-18 13:33:07,043] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:33:07,066] {logging_mixin.py:104} INFO - [2022-03-18 13:33:07,066] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:33:07,097] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.118 seconds
+[2022-03-18 13:33:38,579] {scheduler_job.py:182} INFO - Started process (PID=7369) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:33:38,583] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:33:38,585] {logging_mixin.py:104} INFO - [2022-03-18 13:33:38,585] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:33:38,610] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:33:38,687] {logging_mixin.py:104} INFO - [2022-03-18 13:33:38,687] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:33:38,744] {logging_mixin.py:104} INFO - [2022-03-18 13:33:38,744] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:33:38,794] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.230 seconds
+[2022-03-18 13:34:10,424] {scheduler_job.py:182} INFO - Started process (PID=7574) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:34:10,425] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:34:10,426] {logging_mixin.py:104} INFO - [2022-03-18 13:34:10,426] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:34:10,473] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:34:10,544] {logging_mixin.py:104} INFO - [2022-03-18 13:34:10,544] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:34:10,594] {logging_mixin.py:104} INFO - [2022-03-18 13:34:10,594] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:34:10,642] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.234 seconds
+[2022-03-18 13:34:40,801] {scheduler_job.py:182} INFO - Started process (PID=7781) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:34:40,803] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:34:40,807] {logging_mixin.py:104} INFO - [2022-03-18 13:34:40,806] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:34:40,841] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:34:40,903] {logging_mixin.py:104} INFO - [2022-03-18 13:34:40,903] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:34:40,942] {logging_mixin.py:104} INFO - [2022-03-18 13:34:40,941] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:34:40,973] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.177 seconds
+[2022-03-18 13:35:11,970] {scheduler_job.py:182} INFO - Started process (PID=8019) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:35:11,972] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:35:11,972] {logging_mixin.py:104} INFO - [2022-03-18 13:35:11,972] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:35:11,986] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:35:12,018] {logging_mixin.py:104} INFO - [2022-03-18 13:35:12,018] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:35:12,042] {logging_mixin.py:104} INFO - [2022-03-18 13:35:12,042] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:35:12,087] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.121 seconds
+[2022-03-18 13:35:42,139] {scheduler_job.py:182} INFO - Started process (PID=8269) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:35:42,140] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:35:42,140] {logging_mixin.py:104} INFO - [2022-03-18 13:35:42,140] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:35:42,154] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:35:42,184] {logging_mixin.py:104} INFO - [2022-03-18 13:35:42,184] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:35:42,201] {logging_mixin.py:104} INFO - [2022-03-18 13:35:42,201] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:35:42,220] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.085 seconds
+[2022-03-18 13:36:12,722] {scheduler_job.py:182} INFO - Started process (PID=8540) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:36:12,723] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:36:12,723] {logging_mixin.py:104} INFO - [2022-03-18 13:36:12,723] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:36:12,737] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:36:12,769] {logging_mixin.py:104} INFO - [2022-03-18 13:36:12,769] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:36:12,794] {logging_mixin.py:104} INFO - [2022-03-18 13:36:12,794] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:36:12,818] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.100 seconds
+[2022-03-18 13:36:43,102] {scheduler_job.py:182} INFO - Started process (PID=8780) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:36:43,105] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:36:43,109] {logging_mixin.py:104} INFO - [2022-03-18 13:36:43,108] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:36:43,131] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:36:43,185] {logging_mixin.py:104} INFO - [2022-03-18 13:36:43,185] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:36:43,212] {logging_mixin.py:104} INFO - [2022-03-18 13:36:43,212] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:36:43,245] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.148 seconds
+[2022-03-18 13:37:13,414] {scheduler_job.py:182} INFO - Started process (PID=9021) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:37:13,417] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:37:13,420] {logging_mixin.py:104} INFO - [2022-03-18 13:37:13,418] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:37:13,473] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:37:13,667] {logging_mixin.py:104} INFO - [2022-03-18 13:37:13,667] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:37:13,773] {logging_mixin.py:104} INFO - [2022-03-18 13:37:13,770] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:37:13,854] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.446 seconds
+[2022-03-18 13:43:52,537] {scheduler_job.py:182} INFO - Started process (PID=10236) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:43:52,559] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:43:52,560] {logging_mixin.py:104} INFO - [2022-03-18 13:43:52,560] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:43:52,595] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:43:52,649] {logging_mixin.py:104} INFO - [2022-03-18 13:43:52,648] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:43:52,680] {logging_mixin.py:104} INFO - [2022-03-18 13:43:52,680] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:43:52,722] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.190 seconds
+[2022-03-18 13:44:23,340] {scheduler_job.py:182} INFO - Started process (PID=10523) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:44:23,341] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:44:23,342] {logging_mixin.py:104} INFO - [2022-03-18 13:44:23,342] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:44:23,356] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:44:23,392] {logging_mixin.py:104} INFO - [2022-03-18 13:44:23,392] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:44:23,419] {logging_mixin.py:104} INFO - [2022-03-18 13:44:23,419] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:44:23,443] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.108 seconds
+[2022-03-18 13:44:56,014] {scheduler_job.py:182} INFO - Started process (PID=10603) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:44:56,015] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:44:56,019] {logging_mixin.py:104} INFO - [2022-03-18 13:44:56,019] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:44:56,049] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:44:56,162] {logging_mixin.py:104} INFO - [2022-03-18 13:44:56,161] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:44:56,198] {logging_mixin.py:104} INFO - [2022-03-18 13:44:56,198] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:44:56,230] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.222 seconds
+[2022-03-18 13:45:26,735] {scheduler_job.py:182} INFO - Started process (PID=10754) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:45:26,740] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:45:26,741] {logging_mixin.py:104} INFO - [2022-03-18 13:45:26,741] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:45:26,770] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:45:26,883] {logging_mixin.py:104} INFO - [2022-03-18 13:45:26,883] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:45:26,994] {logging_mixin.py:104} INFO - [2022-03-18 13:45:26,994] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:45:27,047] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.318 seconds
+[2022-03-18 13:45:57,308] {scheduler_job.py:182} INFO - Started process (PID=11015) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:45:57,310] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:45:57,311] {logging_mixin.py:104} INFO - [2022-03-18 13:45:57,311] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:45:57,335] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:45:57,389] {logging_mixin.py:104} INFO - [2022-03-18 13:45:57,389] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:45:57,415] {logging_mixin.py:104} INFO - [2022-03-18 13:45:57,415] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:45:57,453] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.151 seconds
+[2022-03-18 13:46:27,873] {scheduler_job.py:182} INFO - Started process (PID=11264) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:46:27,874] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:46:27,876] {logging_mixin.py:104} INFO - [2022-03-18 13:46:27,875] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:46:27,892] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:46:27,926] {logging_mixin.py:104} INFO - [2022-03-18 13:46:27,926] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:46:27,945] {logging_mixin.py:104} INFO - [2022-03-18 13:46:27,945] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:46:27,963] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.094 seconds
+[2022-03-18 13:46:58,689] {scheduler_job.py:182} INFO - Started process (PID=11495) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:46:58,692] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:46:58,693] {logging_mixin.py:104} INFO - [2022-03-18 13:46:58,693] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:46:58,708] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:46:58,738] {logging_mixin.py:104} INFO - [2022-03-18 13:46:58,738] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:46:58,757] {logging_mixin.py:104} INFO - [2022-03-18 13:46:58,757] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:46:58,805] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.122 seconds
+[2022-03-18 13:47:29,043] {scheduler_job.py:182} INFO - Started process (PID=11604) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:47:29,044] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:47:29,045] {logging_mixin.py:104} INFO - [2022-03-18 13:47:29,045] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:47:29,060] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:47:29,093] {logging_mixin.py:104} INFO - [2022-03-18 13:47:29,093] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:47:29,123] {logging_mixin.py:104} INFO - [2022-03-18 13:47:29,123] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:47:29,151] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.112 seconds
+[2022-03-18 13:47:59,260] {scheduler_job.py:182} INFO - Started process (PID=11803) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:47:59,261] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:47:59,262] {logging_mixin.py:104} INFO - [2022-03-18 13:47:59,261] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:47:59,279] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:47:59,313] {logging_mixin.py:104} INFO - [2022-03-18 13:47:59,313] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:47:59,332] {logging_mixin.py:104} INFO - [2022-03-18 13:47:59,332] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:47:59,362] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.107 seconds
+[2022-03-18 13:48:29,582] {scheduler_job.py:182} INFO - Started process (PID=12577) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:48:29,583] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:48:29,584] {logging_mixin.py:104} INFO - [2022-03-18 13:48:29,584] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:48:29,601] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:48:29,637] {logging_mixin.py:104} INFO - [2022-03-18 13:48:29,636] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:48:29,685] {logging_mixin.py:104} INFO - [2022-03-18 13:48:29,684] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:48:29,739] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.161 seconds
+[2022-03-18 13:48:59,811] {scheduler_job.py:182} INFO - Started process (PID=12998) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:48:59,813] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:48:59,814] {logging_mixin.py:104} INFO - [2022-03-18 13:48:59,814] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:48:59,830] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:48:59,867] {logging_mixin.py:104} INFO - [2022-03-18 13:48:59,867] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:48:59,896] {logging_mixin.py:104} INFO - [2022-03-18 13:48:59,896] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:48:59,940] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.134 seconds
+[2022-03-18 13:49:30,243] {scheduler_job.py:182} INFO - Started process (PID=13097) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:49:30,246] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:49:30,247] {logging_mixin.py:104} INFO - [2022-03-18 13:49:30,247] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:49:30,270] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:49:30,322] {logging_mixin.py:104} INFO - [2022-03-18 13:49:30,322] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:49:30,358] {logging_mixin.py:104} INFO - [2022-03-18 13:49:30,357] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:49:30,396] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.160 seconds
+[2022-03-18 13:50:00,812] {scheduler_job.py:182} INFO - Started process (PID=13176) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:50:00,813] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:50:00,814] {logging_mixin.py:104} INFO - [2022-03-18 13:50:00,813] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:50:00,830] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:50:00,864] {logging_mixin.py:104} INFO - [2022-03-18 13:50:00,864] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:50:00,891] {logging_mixin.py:104} INFO - [2022-03-18 13:50:00,891] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:50:00,925] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.119 seconds
+[2022-03-18 13:50:31,355] {scheduler_job.py:182} INFO - Started process (PID=13302) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:50:31,356] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:50:31,357] {logging_mixin.py:104} INFO - [2022-03-18 13:50:31,357] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:50:31,372] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:50:31,407] {logging_mixin.py:104} INFO - [2022-03-18 13:50:31,407] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:50:31,432] {logging_mixin.py:104} INFO - [2022-03-18 13:50:31,432] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:50:31,675] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.324 seconds
+[2022-03-18 13:51:01,761] {scheduler_job.py:182} INFO - Started process (PID=13389) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:51:01,762] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:51:01,763] {logging_mixin.py:104} INFO - [2022-03-18 13:51:01,763] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:51:01,778] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:51:01,810] {logging_mixin.py:104} INFO - [2022-03-18 13:51:01,809] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:51:01,828] {logging_mixin.py:104} INFO - [2022-03-18 13:51:01,828] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:51:01,845] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.088 seconds
+[2022-03-18 13:51:32,048] {scheduler_job.py:182} INFO - Started process (PID=13466) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:51:32,049] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:51:32,050] {logging_mixin.py:104} INFO - [2022-03-18 13:51:32,050] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:51:32,075] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:51:32,125] {logging_mixin.py:104} INFO - [2022-03-18 13:51:32,125] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:51:32,153] {logging_mixin.py:104} INFO - [2022-03-18 13:51:32,153] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:51:32,211] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.170 seconds
+[2022-03-18 13:52:02,415] {scheduler_job.py:182} INFO - Started process (PID=13554) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:52:02,417] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:52:02,420] {logging_mixin.py:104} INFO - [2022-03-18 13:52:02,419] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:52:02,450] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:52:02,516] {logging_mixin.py:104} INFO - [2022-03-18 13:52:02,516] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:52:02,562] {logging_mixin.py:104} INFO - [2022-03-18 13:52:02,562] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:52:02,590] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.185 seconds
+[2022-03-18 13:52:32,845] {scheduler_job.py:182} INFO - Started process (PID=13920) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:52:32,846] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:52:32,847] {logging_mixin.py:104} INFO - [2022-03-18 13:52:32,847] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:52:32,880] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:52:32,947] {logging_mixin.py:104} INFO - [2022-03-18 13:52:32,946] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:52:32,989] {logging_mixin.py:104} INFO - [2022-03-18 13:52:32,989] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:52:33,047] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.212 seconds
+[2022-03-18 13:53:03,326] {scheduler_job.py:182} INFO - Started process (PID=14094) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:53:03,327] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:53:03,328] {logging_mixin.py:104} INFO - [2022-03-18 13:53:03,328] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:53:03,348] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:53:03,396] {logging_mixin.py:104} INFO - [2022-03-18 13:53:03,395] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:53:03,426] {logging_mixin.py:104} INFO - [2022-03-18 13:53:03,426] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:53:03,477] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.155 seconds
+[2022-03-18 13:53:33,688] {scheduler_job.py:182} INFO - Started process (PID=14191) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:53:33,691] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:53:33,692] {logging_mixin.py:104} INFO - [2022-03-18 13:53:33,692] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:53:33,739] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:53:33,792] {logging_mixin.py:104} INFO - [2022-03-18 13:53:33,791] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:53:33,829] {logging_mixin.py:104} INFO - [2022-03-18 13:53:33,829] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:53:33,877] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.208 seconds
+[2022-03-18 13:54:04,312] {scheduler_job.py:182} INFO - Started process (PID=14340) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:54:04,314] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:54:04,315] {logging_mixin.py:104} INFO - [2022-03-18 13:54:04,315] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:54:04,330] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:54:04,365] {logging_mixin.py:104} INFO - [2022-03-18 13:54:04,365] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:54:04,398] {logging_mixin.py:104} INFO - [2022-03-18 13:54:04,397] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:54:04,433] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.124 seconds
+[2022-03-18 13:54:35,303] {scheduler_job.py:182} INFO - Started process (PID=14416) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:54:35,305] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:54:35,305] {logging_mixin.py:104} INFO - [2022-03-18 13:54:35,305] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:54:35,321] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:54:35,359] {logging_mixin.py:104} INFO - [2022-03-18 13:54:35,358] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:54:35,378] {logging_mixin.py:104} INFO - [2022-03-18 13:54:35,378] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:54:35,403] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.105 seconds
+[2022-03-18 13:55:05,601] {scheduler_job.py:182} INFO - Started process (PID=14540) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:55:05,602] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:55:05,603] {logging_mixin.py:104} INFO - [2022-03-18 13:55:05,602] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:55:05,625] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:55:05,676] {logging_mixin.py:104} INFO - [2022-03-18 13:55:05,676] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:55:05,709] {logging_mixin.py:104} INFO - [2022-03-18 13:55:05,709] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:55:05,759] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.163 seconds
+[2022-03-18 13:55:36,585] {scheduler_job.py:182} INFO - Started process (PID=14650) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:55:36,586] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:55:36,587] {logging_mixin.py:104} INFO - [2022-03-18 13:55:36,587] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:55:36,603] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:55:36,653] {logging_mixin.py:104} INFO - [2022-03-18 13:55:36,653] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:55:36,681] {logging_mixin.py:104} INFO - [2022-03-18 13:55:36,681] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:55:36,715] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.135 seconds
+[2022-03-18 13:56:06,773] {scheduler_job.py:182} INFO - Started process (PID=14733) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:56:06,775] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:56:06,775] {logging_mixin.py:104} INFO - [2022-03-18 13:56:06,775] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:56:06,791] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:56:06,824] {logging_mixin.py:104} INFO - [2022-03-18 13:56:06,823] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:56:06,842] {logging_mixin.py:104} INFO - [2022-03-18 13:56:06,842] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:56:06,867] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.098 seconds
+[2022-03-18 13:56:37,549] {scheduler_job.py:182} INFO - Started process (PID=14811) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:56:37,550] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:56:37,551] {logging_mixin.py:104} INFO - [2022-03-18 13:56:37,551] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:56:37,568] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:56:37,601] {logging_mixin.py:104} INFO - [2022-03-18 13:56:37,601] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:56:37,626] {logging_mixin.py:104} INFO - [2022-03-18 13:56:37,626] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:56:37,652] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.108 seconds
+[2022-03-18 13:57:08,295] {scheduler_job.py:182} INFO - Started process (PID=14889) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:57:08,297] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:57:08,298] {logging_mixin.py:104} INFO - [2022-03-18 13:57:08,298] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:57:08,323] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:57:08,358] {logging_mixin.py:104} INFO - [2022-03-18 13:57:08,358] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:57:08,383] {logging_mixin.py:104} INFO - [2022-03-18 13:57:08,383] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:57:08,408] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.116 seconds
+[2022-03-18 13:57:38,671] {scheduler_job.py:182} INFO - Started process (PID=14964) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:57:38,672] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:57:38,672] {logging_mixin.py:104} INFO - [2022-03-18 13:57:38,672] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:57:38,689] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:57:38,720] {logging_mixin.py:104} INFO - [2022-03-18 13:57:38,720] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:57:38,740] {logging_mixin.py:104} INFO - [2022-03-18 13:57:38,740] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:57:38,761] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.095 seconds
+[2022-03-18 13:58:08,847] {scheduler_job.py:182} INFO - Started process (PID=15035) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:58:08,848] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:58:08,849] {logging_mixin.py:104} INFO - [2022-03-18 13:58:08,849] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:58:08,865] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:58:08,894] {logging_mixin.py:104} INFO - [2022-03-18 13:58:08,894] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:58:08,913] {logging_mixin.py:104} INFO - [2022-03-18 13:58:08,913] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:58:08,961] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.117 seconds
+[2022-03-18 13:58:39,047] {scheduler_job.py:182} INFO - Started process (PID=15115) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:58:39,049] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:58:39,050] {logging_mixin.py:104} INFO - [2022-03-18 13:58:39,049] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:58:39,068] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:58:39,098] {logging_mixin.py:104} INFO - [2022-03-18 13:58:39,098] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:58:39,117] {logging_mixin.py:104} INFO - [2022-03-18 13:58:39,117] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:58:39,138] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.096 seconds
+[2022-03-18 13:59:09,477] {scheduler_job.py:182} INFO - Started process (PID=15299) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:59:09,483] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:59:09,484] {logging_mixin.py:104} INFO - [2022-03-18 13:59:09,484] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:59:09,548] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:59:09,667] {logging_mixin.py:104} INFO - [2022-03-18 13:59:09,667] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:59:09,701] {logging_mixin.py:104} INFO - [2022-03-18 13:59:09,701] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:59:09,731] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.264 seconds
+[2022-03-18 13:59:39,870] {scheduler_job.py:182} INFO - Started process (PID=15400) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:59:39,871] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 13:59:39,872] {logging_mixin.py:104} INFO - [2022-03-18 13:59:39,872] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:59:39,893] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 13:59:39,933] {logging_mixin.py:104} INFO - [2022-03-18 13:59:39,933] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:59:39,956] {logging_mixin.py:104} INFO - [2022-03-18 13:59:39,956] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 13:59:39,982] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.116 seconds
+[2022-03-18 14:00:10,064] {scheduler_job.py:182} INFO - Started process (PID=15479) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 14:00:10,065] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 14:00:10,066] {logging_mixin.py:104} INFO - [2022-03-18 14:00:10,065] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 14:00:10,080] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 14:00:10,109] {logging_mixin.py:104} INFO - [2022-03-18 14:00:10,109] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 14:00:10,127] {logging_mixin.py:104} INFO - [2022-03-18 14:00:10,127] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 14:00:10,147] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.088 seconds
+[2022-03-18 14:00:40,198] {scheduler_job.py:182} INFO - Started process (PID=15585) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 14:00:40,200] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 14:00:40,201] {logging_mixin.py:104} INFO - [2022-03-18 14:00:40,201] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 14:00:40,215] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 14:00:40,244] {logging_mixin.py:104} INFO - [2022-03-18 14:00:40,244] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 14:00:40,264] {logging_mixin.py:104} INFO - [2022-03-18 14:00:40,264] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 14:00:40,280] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.087 seconds
+[2022-03-18 14:01:10,401] {scheduler_job.py:182} INFO - Started process (PID=15660) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 14:01:10,402] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 14:01:10,403] {logging_mixin.py:104} INFO - [2022-03-18 14:01:10,403] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 14:01:10,423] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 14:01:10,456] {logging_mixin.py:104} INFO - [2022-03-18 14:01:10,456] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 14:01:10,474] {logging_mixin.py:104} INFO - [2022-03-18 14:01:10,474] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 14:01:10,491] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.094 seconds
+[2022-03-18 14:01:40,899] {scheduler_job.py:182} INFO - Started process (PID=15742) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 14:01:40,900] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 14:01:40,901] {logging_mixin.py:104} INFO - [2022-03-18 14:01:40,900] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 14:01:40,917] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 14:01:40,945] {logging_mixin.py:104} INFO - [2022-03-18 14:01:40,945] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 14:01:40,966] {logging_mixin.py:104} INFO - [2022-03-18 14:01:40,966] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 14:01:40,989] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.094 seconds
+[2022-03-18 14:02:11,301] {scheduler_job.py:182} INFO - Started process (PID=15840) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 14:02:11,304] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 14:02:11,304] {logging_mixin.py:104} INFO - [2022-03-18 14:02:11,304] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 14:02:11,322] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 14:02:11,357] {logging_mixin.py:104} INFO - [2022-03-18 14:02:11,357] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 14:02:11,379] {logging_mixin.py:104} INFO - [2022-03-18 14:02:11,379] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 14:02:11,399] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.103 seconds
+[2022-03-18 14:02:41,565] {scheduler_job.py:182} INFO - Started process (PID=15917) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 14:02:41,566] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-18 14:02:41,567] {logging_mixin.py:104} INFO - [2022-03-18 14:02:41,566] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 14:02:41,586] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-18 14:02:41,625] {logging_mixin.py:104} INFO - [2022-03-18 14:02:41,625] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 14:02:41,649] {logging_mixin.py:104} INFO - [2022-03-18 14:02:41,649] {dag.py:2305} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-18 14:02:41,666] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.105 seconds

@@ -1,0 +1,780 @@
+[2022-03-18 12:26:54,606] {scheduler_job.py:182} INFO - Started process (PID=6439) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:26:54,608] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 12:26:54,610] {logging_mixin.py:104} INFO - [2022-03-18 12:26:54,609] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:26:54,655] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:26:54,676] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.085 seconds
+[2022-03-18 12:28:25,935] {scheduler_job.py:182} INFO - Started process (PID=7141) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:28:25,936] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 12:28:25,937] {logging_mixin.py:104} INFO - [2022-03-18 12:28:25,937] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:28:25,940] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:28:25,949] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2022-03-18 12:29:05,478] {scheduler_job.py:182} INFO - Started process (PID=7332) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:29:05,480] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 12:29:05,481] {logging_mixin.py:104} INFO - [2022-03-18 12:29:05,480] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:29:05,484] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:29:05,493] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2022-03-18 12:29:44,224] {scheduler_job.py:182} INFO - Started process (PID=7383) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:29:44,225] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 12:29:44,226] {logging_mixin.py:104} INFO - [2022-03-18 12:29:44,226] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:29:44,230] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:29:44,238] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.017 seconds
+[2022-03-18 12:30:18,410] {scheduler_job.py:182} INFO - Started process (PID=7491) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:30:18,418] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 12:30:18,419] {logging_mixin.py:104} INFO - [2022-03-18 12:30:18,419] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:30:18,425] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:30:18,437] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.031 seconds
+[2022-03-18 12:31:04,277] {scheduler_job.py:182} INFO - Started process (PID=7618) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:31:04,280] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 12:31:04,281] {logging_mixin.py:104} INFO - [2022-03-18 12:31:04,281] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:31:04,287] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:31:04,314] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.047 seconds
+[2022-03-18 12:31:40,795] {scheduler_job.py:182} INFO - Started process (PID=7731) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:31:40,796] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 12:31:40,797] {logging_mixin.py:104} INFO - [2022-03-18 12:31:40,797] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:31:40,800] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:31:40,809] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.017 seconds
+[2022-03-18 12:32:52,335] {scheduler_job.py:182} INFO - Started process (PID=8448) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:32:52,336] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 12:32:52,337] {logging_mixin.py:104} INFO - [2022-03-18 12:32:52,337] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:32:52,340] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:32:52,348] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.016 seconds
+[2022-03-18 12:33:31,936] {scheduler_job.py:182} INFO - Started process (PID=8496) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:33:31,937] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 12:33:31,938] {logging_mixin.py:104} INFO - [2022-03-18 12:33:31,938] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:33:31,941] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:33:31,956] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2022-03-18 12:34:08,742] {scheduler_job.py:182} INFO - Started process (PID=8528) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:34:08,748] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 12:34:08,765] {logging_mixin.py:104} INFO - [2022-03-18 12:34:08,765] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:34:08,775] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:34:08,796] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.061 seconds
+[2022-03-18 12:34:45,608] {scheduler_job.py:182} INFO - Started process (PID=8565) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:34:45,611] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 12:34:45,615] {logging_mixin.py:104} INFO - [2022-03-18 12:34:45,614] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:34:45,618] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:34:45,635] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.035 seconds
+[2022-03-18 12:35:30,466] {scheduler_job.py:182} INFO - Started process (PID=10036) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:35:30,467] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 12:35:30,468] {logging_mixin.py:104} INFO - [2022-03-18 12:35:30,468] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:35:30,471] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:35:30,478] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2022-03-18 12:36:07,123] {scheduler_job.py:182} INFO - Started process (PID=10157) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:36:07,124] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 12:36:07,125] {logging_mixin.py:104} INFO - [2022-03-18 12:36:07,125] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:36:07,129] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:36:07,139] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2022-03-18 12:36:43,038] {scheduler_job.py:182} INFO - Started process (PID=10447) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:36:43,042] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 12:36:43,044] {logging_mixin.py:104} INFO - [2022-03-18 12:36:43,043] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:36:43,049] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:36:43,073] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.058 seconds
+[2022-03-18 12:37:34,030] {scheduler_job.py:182} INFO - Started process (PID=13798) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:37:34,032] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 12:37:34,033] {logging_mixin.py:104} INFO - [2022-03-18 12:37:34,033] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:37:34,037] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:37:34,046] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2022-03-18 12:38:15,473] {scheduler_job.py:182} INFO - Started process (PID=14006) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:38:15,474] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 12:38:15,475] {logging_mixin.py:104} INFO - [2022-03-18 12:38:15,475] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:38:15,478] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:38:15,487] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2022-03-18 12:38:53,234] {scheduler_job.py:182} INFO - Started process (PID=14174) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:38:53,235] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 12:38:53,236] {logging_mixin.py:104} INFO - [2022-03-18 12:38:53,236] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:38:53,240] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:38:53,247] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.017 seconds
+[2022-03-18 12:39:26,298] {scheduler_job.py:182} INFO - Started process (PID=14208) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:39:26,300] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 12:39:26,301] {logging_mixin.py:104} INFO - [2022-03-18 12:39:26,301] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:39:26,304] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:39:26,312] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2022-03-18 12:40:07,917] {scheduler_job.py:182} INFO - Started process (PID=14249) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:40:07,918] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 12:40:07,919] {logging_mixin.py:104} INFO - [2022-03-18 12:40:07,918] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:40:07,922] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:40:07,931] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.017 seconds
+[2022-03-18 12:40:38,233] {scheduler_job.py:182} INFO - Started process (PID=14326) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:40:38,235] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 12:40:38,236] {logging_mixin.py:104} INFO - [2022-03-18 12:40:38,235] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:40:38,239] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:40:38,247] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.017 seconds
+[2022-03-18 12:41:12,744] {scheduler_job.py:182} INFO - Started process (PID=14433) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:41:12,745] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 12:41:12,746] {logging_mixin.py:104} INFO - [2022-03-18 12:41:12,746] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:41:12,750] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:41:12,761] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2022-03-18 12:41:52,012] {scheduler_job.py:182} INFO - Started process (PID=14711) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:41:52,013] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 12:41:52,014] {logging_mixin.py:104} INFO - [2022-03-18 12:41:52,014] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:41:52,018] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:41:52,026] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2022-03-18 12:42:36,970] {scheduler_job.py:182} INFO - Started process (PID=14885) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:42:36,972] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 12:42:36,975] {logging_mixin.py:104} INFO - [2022-03-18 12:42:36,974] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:42:36,980] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:42:36,988] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2022-03-18 12:43:17,756] {scheduler_job.py:182} INFO - Started process (PID=14933) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:43:17,775] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 12:43:17,779] {logging_mixin.py:104} INFO - [2022-03-18 12:43:17,778] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:43:17,805] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:43:17,846] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.098 seconds
+[2022-03-18 12:44:00,596] {scheduler_job.py:182} INFO - Started process (PID=14981) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:44:00,597] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 12:44:00,599] {logging_mixin.py:104} INFO - [2022-03-18 12:44:00,598] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:44:00,603] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:44:00,612] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2022-03-18 12:44:37,374] {scheduler_job.py:182} INFO - Started process (PID=15023) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:44:37,376] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 12:44:37,376] {logging_mixin.py:104} INFO - [2022-03-18 12:44:37,376] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:44:37,380] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:44:37,388] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.017 seconds
+[2022-03-18 12:45:09,458] {scheduler_job.py:182} INFO - Started process (PID=15061) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:45:09,459] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 12:45:09,460] {logging_mixin.py:104} INFO - [2022-03-18 12:45:09,460] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:45:09,463] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:45:09,471] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.017 seconds
+[2022-03-18 12:45:46,045] {scheduler_job.py:182} INFO - Started process (PID=15132) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:45:46,046] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 12:45:46,047] {logging_mixin.py:104} INFO - [2022-03-18 12:45:46,047] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:45:46,050] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:45:46,058] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.016 seconds
+[2022-03-18 12:46:18,727] {scheduler_job.py:182} INFO - Started process (PID=15242) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:46:18,729] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 12:46:18,730] {logging_mixin.py:104} INFO - [2022-03-18 12:46:18,730] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:46:18,735] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:46:18,746] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2022-03-18 12:46:53,407] {scheduler_job.py:182} INFO - Started process (PID=15362) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:46:53,411] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 12:46:53,413] {logging_mixin.py:104} INFO - [2022-03-18 12:46:53,413] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:46:53,431] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:46:53,449] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.051 seconds
+[2022-03-18 12:52:48,099] {scheduler_job.py:182} INFO - Started process (PID=16229) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:52:48,102] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 12:52:48,103] {logging_mixin.py:104} INFO - [2022-03-18 12:52:48,103] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:52:48,110] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:52:48,149] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.055 seconds
+[2022-03-18 12:53:18,962] {scheduler_job.py:182} INFO - Started process (PID=16862) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:53:18,963] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 12:53:18,968] {logging_mixin.py:104} INFO - [2022-03-18 12:53:18,966] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:53:18,975] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:53:19,025] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.069 seconds
+[2022-03-18 12:53:49,561] {scheduler_job.py:182} INFO - Started process (PID=17871) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:53:49,563] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 12:53:49,564] {logging_mixin.py:104} INFO - [2022-03-18 12:53:49,564] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:53:49,569] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:53:49,593] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.049 seconds
+[2022-03-18 12:54:19,717] {scheduler_job.py:182} INFO - Started process (PID=18200) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:54:19,718] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 12:54:19,720] {logging_mixin.py:104} INFO - [2022-03-18 12:54:19,719] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:54:19,744] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:54:19,820] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.111 seconds
+[2022-03-18 12:54:50,477] {scheduler_job.py:182} INFO - Started process (PID=18410) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:54:50,478] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 12:54:50,479] {logging_mixin.py:104} INFO - [2022-03-18 12:54:50,479] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:54:50,483] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:54:50,504] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.030 seconds
+[2022-03-18 12:55:21,143] {scheduler_job.py:182} INFO - Started process (PID=18778) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:55:21,147] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 12:55:21,148] {logging_mixin.py:104} INFO - [2022-03-18 12:55:21,148] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:55:21,154] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:55:21,196] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.064 seconds
+[2022-03-18 12:55:51,348] {scheduler_job.py:182} INFO - Started process (PID=19165) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:55:51,350] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 12:55:51,351] {logging_mixin.py:104} INFO - [2022-03-18 12:55:51,351] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:55:51,355] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:55:51,381] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.037 seconds
+[2022-03-18 12:56:22,161] {scheduler_job.py:182} INFO - Started process (PID=19549) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:56:22,162] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 12:56:22,163] {logging_mixin.py:104} INFO - [2022-03-18 12:56:22,163] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:56:22,168] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:56:22,201] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.045 seconds
+[2022-03-18 12:56:52,793] {scheduler_job.py:182} INFO - Started process (PID=20693) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:56:52,795] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 12:56:52,797] {logging_mixin.py:104} INFO - [2022-03-18 12:56:52,797] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:56:52,805] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:56:52,867] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.080 seconds
+[2022-03-18 12:57:23,075] {scheduler_job.py:182} INFO - Started process (PID=21006) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:57:23,076] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 12:57:23,077] {logging_mixin.py:104} INFO - [2022-03-18 12:57:23,076] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:57:23,080] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:57:23,101] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.030 seconds
+[2022-03-18 12:57:53,756] {scheduler_job.py:182} INFO - Started process (PID=21371) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:57:53,758] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 12:57:53,758] {logging_mixin.py:104} INFO - [2022-03-18 12:57:53,758] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:57:53,762] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:57:53,783] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.030 seconds
+[2022-03-18 12:58:23,904] {scheduler_job.py:182} INFO - Started process (PID=21578) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:58:23,905] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 12:58:23,906] {logging_mixin.py:104} INFO - [2022-03-18 12:58:23,905] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:58:23,908] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:58:23,930] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.030 seconds
+[2022-03-18 12:58:54,369] {scheduler_job.py:182} INFO - Started process (PID=21781) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:58:54,370] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 12:58:54,371] {logging_mixin.py:104} INFO - [2022-03-18 12:58:54,371] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:58:54,375] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:58:54,397] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.033 seconds
+[2022-03-18 12:59:24,886] {scheduler_job.py:182} INFO - Started process (PID=21988) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:59:24,888] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 12:59:24,889] {logging_mixin.py:104} INFO - [2022-03-18 12:59:24,889] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:59:24,894] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:59:24,915] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.034 seconds
+[2022-03-18 12:59:55,153] {scheduler_job.py:182} INFO - Started process (PID=22193) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:59:55,155] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 12:59:55,156] {logging_mixin.py:104} INFO - [2022-03-18 12:59:55,156] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:59:55,159] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 12:59:55,180] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.030 seconds
+[2022-03-18 13:00:25,371] {scheduler_job.py:182} INFO - Started process (PID=22432) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:00:25,372] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:00:25,373] {logging_mixin.py:104} INFO - [2022-03-18 13:00:25,373] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:00:25,378] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:00:25,400] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.034 seconds
+[2022-03-18 13:00:55,620] {scheduler_job.py:182} INFO - Started process (PID=22641) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:00:55,621] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:00:55,622] {logging_mixin.py:104} INFO - [2022-03-18 13:00:55,622] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:00:55,626] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:00:55,647] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.032 seconds
+[2022-03-18 13:01:25,845] {scheduler_job.py:182} INFO - Started process (PID=22846) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:01:25,847] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:01:25,848] {logging_mixin.py:104} INFO - [2022-03-18 13:01:25,848] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:01:25,852] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:01:25,873] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.033 seconds
+[2022-03-18 13:01:56,287] {scheduler_job.py:182} INFO - Started process (PID=23051) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:01:56,289] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:01:56,290] {logging_mixin.py:104} INFO - [2022-03-18 13:01:56,289] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:01:56,294] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:01:56,317] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.035 seconds
+[2022-03-18 13:02:26,708] {scheduler_job.py:182} INFO - Started process (PID=23256) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:02:26,710] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:02:26,710] {logging_mixin.py:104} INFO - [2022-03-18 13:02:26,710] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:02:26,714] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:02:26,735] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.031 seconds
+[2022-03-18 13:02:56,991] {scheduler_job.py:182} INFO - Started process (PID=23602) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:02:56,993] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:02:56,994] {logging_mixin.py:104} INFO - [2022-03-18 13:02:56,993] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:02:56,998] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:02:57,020] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.034 seconds
+[2022-03-18 13:03:27,799] {scheduler_job.py:182} INFO - Started process (PID=23817) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:03:27,800] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:03:27,801] {logging_mixin.py:104} INFO - [2022-03-18 13:03:27,801] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:03:27,804] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:03:27,833] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.038 seconds
+[2022-03-18 13:03:58,741] {scheduler_job.py:182} INFO - Started process (PID=24053) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:03:58,742] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:03:58,743] {logging_mixin.py:104} INFO - [2022-03-18 13:03:58,743] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:03:58,746] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:03:58,768] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.030 seconds
+[2022-03-18 13:04:29,082] {scheduler_job.py:182} INFO - Started process (PID=24260) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:04:29,083] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:04:29,084] {logging_mixin.py:104} INFO - [2022-03-18 13:04:29,084] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:04:29,087] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:04:29,108] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.030 seconds
+[2022-03-18 13:04:59,582] {scheduler_job.py:182} INFO - Started process (PID=24464) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:04:59,585] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:04:59,586] {logging_mixin.py:104} INFO - [2022-03-18 13:04:59,586] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:04:59,590] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:04:59,612] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.035 seconds
+[2022-03-18 13:05:29,703] {scheduler_job.py:182} INFO - Started process (PID=24702) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:05:29,704] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:05:29,705] {logging_mixin.py:104} INFO - [2022-03-18 13:05:29,705] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:05:29,708] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:05:29,728] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2022-03-18 13:06:00,251] {scheduler_job.py:182} INFO - Started process (PID=24911) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:06:00,252] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:06:00,253] {logging_mixin.py:104} INFO - [2022-03-18 13:06:00,252] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:06:00,256] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:06:00,279] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.031 seconds
+[2022-03-18 13:06:30,996] {scheduler_job.py:182} INFO - Started process (PID=25120) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:06:30,997] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:06:30,998] {logging_mixin.py:104} INFO - [2022-03-18 13:06:30,997] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:06:31,001] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:06:31,021] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.029 seconds
+[2022-03-18 13:07:01,724] {scheduler_job.py:182} INFO - Started process (PID=25348) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:07:01,725] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:07:01,726] {logging_mixin.py:104} INFO - [2022-03-18 13:07:01,726] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:07:01,732] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:07:01,777] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.063 seconds
+[2022-03-18 13:07:31,945] {scheduler_job.py:182} INFO - Started process (PID=25582) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:07:31,946] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:07:31,947] {logging_mixin.py:104} INFO - [2022-03-18 13:07:31,947] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:07:31,955] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:07:31,987] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.050 seconds
+[2022-03-18 13:08:02,519] {scheduler_job.py:182} INFO - Started process (PID=26043) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:08:02,520] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:08:02,522] {logging_mixin.py:104} INFO - [2022-03-18 13:08:02,521] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:08:02,526] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:08:02,561] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.047 seconds
+[2022-03-18 13:08:32,728] {scheduler_job.py:182} INFO - Started process (PID=26249) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:08:32,730] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:08:32,732] {logging_mixin.py:104} INFO - [2022-03-18 13:08:32,731] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:08:32,744] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:08:32,796] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.079 seconds
+[2022-03-18 13:09:02,876] {scheduler_job.py:182} INFO - Started process (PID=26464) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:09:02,877] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:09:02,877] {logging_mixin.py:104} INFO - [2022-03-18 13:09:02,877] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:09:02,881] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:09:02,909] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.040 seconds
+[2022-03-18 13:09:33,299] {scheduler_job.py:182} INFO - Started process (PID=26672) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:09:33,302] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:09:33,304] {logging_mixin.py:104} INFO - [2022-03-18 13:09:33,303] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:09:33,308] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:09:33,346] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.053 seconds
+[2022-03-18 13:10:03,995] {scheduler_job.py:182} INFO - Started process (PID=26883) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:10:03,999] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:10:04,001] {logging_mixin.py:104} INFO - [2022-03-18 13:10:04,001] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:10:04,004] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:10:04,035] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.047 seconds
+[2022-03-18 13:10:34,476] {scheduler_job.py:182} INFO - Started process (PID=27120) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:10:34,479] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:10:34,481] {logging_mixin.py:104} INFO - [2022-03-18 13:10:34,480] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:10:34,487] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:10:34,537] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.068 seconds
+[2022-03-18 13:11:04,667] {scheduler_job.py:182} INFO - Started process (PID=27329) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:11:04,669] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:11:04,671] {logging_mixin.py:104} INFO - [2022-03-18 13:11:04,670] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:11:04,680] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:11:04,712] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.051 seconds
+[2022-03-18 13:11:35,516] {scheduler_job.py:182} INFO - Started process (PID=27541) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:11:35,517] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:11:35,520] {logging_mixin.py:104} INFO - [2022-03-18 13:11:35,519] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:11:35,526] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:11:35,554] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.044 seconds
+[2022-03-18 13:12:06,029] {scheduler_job.py:182} INFO - Started process (PID=27748) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:12:06,034] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:12:06,037] {logging_mixin.py:104} INFO - [2022-03-18 13:12:06,036] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:12:06,042] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:12:06,078] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.063 seconds
+[2022-03-18 13:12:36,776] {scheduler_job.py:182} INFO - Started process (PID=27942) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:12:36,778] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:12:36,781] {logging_mixin.py:104} INFO - [2022-03-18 13:12:36,781] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:12:36,792] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:12:36,840] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.076 seconds
+[2022-03-18 13:13:07,073] {scheduler_job.py:182} INFO - Started process (PID=28265) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:13:07,076] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:13:07,077] {logging_mixin.py:104} INFO - [2022-03-18 13:13:07,077] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:13:07,087] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:13:07,129] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.060 seconds
+[2022-03-18 13:13:38,172] {scheduler_job.py:182} INFO - Started process (PID=28472) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:13:38,174] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:13:38,175] {logging_mixin.py:104} INFO - [2022-03-18 13:13:38,175] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:13:38,181] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:13:38,211] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.048 seconds
+[2022-03-18 13:14:08,618] {scheduler_job.py:182} INFO - Started process (PID=28640) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:14:08,620] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:14:08,622] {logging_mixin.py:104} INFO - [2022-03-18 13:14:08,622] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:14:08,631] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:14:08,673] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.067 seconds
+[2022-03-18 13:14:39,038] {scheduler_job.py:182} INFO - Started process (PID=28824) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:14:39,042] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:14:39,044] {logging_mixin.py:104} INFO - [2022-03-18 13:14:39,044] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:14:39,059] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:14:39,126] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.095 seconds
+[2022-03-18 13:15:09,367] {scheduler_job.py:182} INFO - Started process (PID=29065) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:15:09,369] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:15:09,369] {logging_mixin.py:104} INFO - [2022-03-18 13:15:09,369] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:15:09,372] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:15:09,390] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2022-03-18 13:15:40,237] {scheduler_job.py:182} INFO - Started process (PID=29391) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:15:40,239] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:15:40,240] {logging_mixin.py:104} INFO - [2022-03-18 13:15:40,240] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:15:40,244] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:15:40,272] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.039 seconds
+[2022-03-18 13:16:10,415] {scheduler_job.py:182} INFO - Started process (PID=29685) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:16:10,420] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:16:10,423] {logging_mixin.py:104} INFO - [2022-03-18 13:16:10,423] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:16:10,436] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:16:10,469] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.066 seconds
+[2022-03-18 13:16:41,173] {scheduler_job.py:182} INFO - Started process (PID=30255) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:16:41,176] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:16:41,177] {logging_mixin.py:104} INFO - [2022-03-18 13:16:41,177] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:16:41,185] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:16:41,235] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.070 seconds
+[2022-03-18 13:17:11,855] {scheduler_job.py:182} INFO - Started process (PID=30954) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:17:11,856] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:17:11,857] {logging_mixin.py:104} INFO - [2022-03-18 13:17:11,857] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:17:11,860] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:17:11,880] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2022-03-18 13:17:42,431] {scheduler_job.py:182} INFO - Started process (PID=31160) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:17:42,432] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:17:42,433] {logging_mixin.py:104} INFO - [2022-03-18 13:17:42,432] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:17:42,436] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:17:42,456] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.030 seconds
+[2022-03-18 13:18:12,691] {scheduler_job.py:182} INFO - Started process (PID=31483) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:18:12,693] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:18:12,694] {logging_mixin.py:104} INFO - [2022-03-18 13:18:12,694] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:18:12,698] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:18:12,719] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.032 seconds
+[2022-03-18 13:18:43,409] {scheduler_job.py:182} INFO - Started process (PID=31691) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:18:43,410] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:18:43,411] {logging_mixin.py:104} INFO - [2022-03-18 13:18:43,411] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:18:43,414] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:18:43,435] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.029 seconds
+[2022-03-18 13:19:13,745] {scheduler_job.py:182} INFO - Started process (PID=31897) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:19:13,746] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:19:13,747] {logging_mixin.py:104} INFO - [2022-03-18 13:19:13,747] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:19:13,750] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:19:13,771] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.031 seconds
+[2022-03-18 13:19:44,041] {scheduler_job.py:182} INFO - Started process (PID=32108) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:19:44,042] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:19:44,043] {logging_mixin.py:104} INFO - [2022-03-18 13:19:44,043] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:19:44,047] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:19:44,070] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.033 seconds
+[2022-03-18 13:20:14,222] {scheduler_job.py:182} INFO - Started process (PID=32341) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:20:14,224] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:20:14,225] {logging_mixin.py:104} INFO - [2022-03-18 13:20:14,225] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:20:14,228] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:20:14,247] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.029 seconds
+[2022-03-18 13:20:44,324] {scheduler_job.py:182} INFO - Started process (PID=32553) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:20:44,326] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:20:44,327] {logging_mixin.py:104} INFO - [2022-03-18 13:20:44,327] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:20:44,331] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:20:44,355] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.036 seconds
+[2022-03-18 13:21:14,709] {scheduler_job.py:182} INFO - Started process (PID=32754) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:21:14,710] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:21:14,711] {logging_mixin.py:104} INFO - [2022-03-18 13:21:14,710] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:21:14,713] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:21:14,732] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.027 seconds
+[2022-03-18 13:21:45,377] {scheduler_job.py:182} INFO - Started process (PID=539) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:21:45,378] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:21:45,379] {logging_mixin.py:104} INFO - [2022-03-18 13:21:45,379] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:21:45,382] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:21:45,402] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.029 seconds
+[2022-03-18 13:22:15,661] {scheduler_job.py:182} INFO - Started process (PID=742) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:22:15,662] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:22:15,663] {logging_mixin.py:104} INFO - [2022-03-18 13:22:15,663] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:22:15,666] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:22:15,685] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2022-03-18 13:22:46,243] {scheduler_job.py:182} INFO - Started process (PID=954) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:22:46,244] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:22:46,245] {logging_mixin.py:104} INFO - [2022-03-18 13:22:46,245] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:22:46,248] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:22:46,268] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2022-03-18 13:23:16,541] {scheduler_job.py:182} INFO - Started process (PID=1332) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:23:16,542] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:23:16,543] {logging_mixin.py:104} INFO - [2022-03-18 13:23:16,543] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:23:16,546] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:23:16,565] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.027 seconds
+[2022-03-18 13:23:46,732] {scheduler_job.py:182} INFO - Started process (PID=1558) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:23:46,734] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:23:46,735] {logging_mixin.py:104} INFO - [2022-03-18 13:23:46,735] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:23:46,739] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:23:46,763] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.035 seconds
+[2022-03-18 13:24:16,910] {scheduler_job.py:182} INFO - Started process (PID=1793) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:24:16,911] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:24:16,912] {logging_mixin.py:104} INFO - [2022-03-18 13:24:16,912] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:24:16,914] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:24:16,935] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.030 seconds
+[2022-03-18 13:24:47,105] {scheduler_job.py:182} INFO - Started process (PID=2044) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:24:47,108] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:24:47,112] {logging_mixin.py:104} INFO - [2022-03-18 13:24:47,111] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:24:47,120] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:24:47,173] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.079 seconds
+[2022-03-18 13:25:17,734] {scheduler_job.py:182} INFO - Started process (PID=2339) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:25:17,735] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:25:17,736] {logging_mixin.py:104} INFO - [2022-03-18 13:25:17,736] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:25:17,739] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:25:17,758] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.029 seconds
+[2022-03-18 13:25:48,161] {scheduler_job.py:182} INFO - Started process (PID=2813) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:25:48,162] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:25:48,163] {logging_mixin.py:104} INFO - [2022-03-18 13:25:48,163] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:25:48,166] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:25:48,191] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.034 seconds
+[2022-03-18 13:26:18,723] {scheduler_job.py:182} INFO - Started process (PID=3196) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:26:18,724] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:26:18,725] {logging_mixin.py:104} INFO - [2022-03-18 13:26:18,725] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:26:18,729] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:26:18,762] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.045 seconds
+[2022-03-18 13:26:48,842] {scheduler_job.py:182} INFO - Started process (PID=3672) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:26:48,844] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:26:48,845] {logging_mixin.py:104} INFO - [2022-03-18 13:26:48,845] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:26:48,862] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:26:48,914] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.093 seconds
+[2022-03-18 13:27:19,213] {scheduler_job.py:182} INFO - Started process (PID=3929) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:27:19,214] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:27:19,215] {logging_mixin.py:104} INFO - [2022-03-18 13:27:19,215] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:27:19,218] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:27:19,239] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.030 seconds
+[2022-03-18 13:27:49,575] {scheduler_job.py:182} INFO - Started process (PID=4230) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:27:49,577] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:27:49,578] {logging_mixin.py:104} INFO - [2022-03-18 13:27:49,578] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:27:49,582] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:27:49,604] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.034 seconds
+[2022-03-18 13:28:19,858] {scheduler_job.py:182} INFO - Started process (PID=4681) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:28:19,860] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:28:19,860] {logging_mixin.py:104} INFO - [2022-03-18 13:28:19,860] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:28:19,863] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:28:19,884] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.030 seconds
+[2022-03-18 13:28:50,201] {scheduler_job.py:182} INFO - Started process (PID=5082) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:28:50,202] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:28:50,203] {logging_mixin.py:104} INFO - [2022-03-18 13:28:50,203] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:28:50,206] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:28:50,227] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.029 seconds
+[2022-03-18 13:29:20,641] {scheduler_job.py:182} INFO - Started process (PID=5300) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:29:20,642] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:29:20,643] {logging_mixin.py:104} INFO - [2022-03-18 13:29:20,643] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:29:20,647] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:29:20,668] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.030 seconds
+[2022-03-18 13:29:51,299] {scheduler_job.py:182} INFO - Started process (PID=5521) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:29:51,304] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:29:51,305] {logging_mixin.py:104} INFO - [2022-03-18 13:29:51,305] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:29:51,324] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:29:51,376] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.085 seconds
+[2022-03-18 13:30:21,613] {scheduler_job.py:182} INFO - Started process (PID=5847) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:30:21,614] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:30:21,615] {logging_mixin.py:104} INFO - [2022-03-18 13:30:21,615] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:30:21,618] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:30:21,638] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2022-03-18 13:30:51,724] {scheduler_job.py:182} INFO - Started process (PID=6102) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:30:51,725] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:30:51,726] {logging_mixin.py:104} INFO - [2022-03-18 13:30:51,726] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:30:51,729] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:30:51,751] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.032 seconds
+[2022-03-18 13:31:21,958] {scheduler_job.py:182} INFO - Started process (PID=6315) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:31:21,959] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:31:21,960] {logging_mixin.py:104} INFO - [2022-03-18 13:31:21,960] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:31:21,964] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:31:22,035] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.082 seconds
+[2022-03-18 13:31:52,219] {scheduler_job.py:182} INFO - Started process (PID=6533) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:31:52,221] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:31:52,222] {logging_mixin.py:104} INFO - [2022-03-18 13:31:52,222] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:31:52,225] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:31:52,246] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.032 seconds
+[2022-03-18 13:32:22,587] {scheduler_job.py:182} INFO - Started process (PID=6742) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:32:22,588] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:32:22,588] {logging_mixin.py:104} INFO - [2022-03-18 13:32:22,588] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:32:22,591] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:32:22,612] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.029 seconds
+[2022-03-18 13:32:52,756] {scheduler_job.py:182} INFO - Started process (PID=7085) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:32:52,758] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:32:52,760] {logging_mixin.py:104} INFO - [2022-03-18 13:32:52,760] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:32:52,766] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:32:52,796] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.048 seconds
+[2022-03-18 13:33:23,148] {scheduler_job.py:182} INFO - Started process (PID=7309) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:33:23,149] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:33:23,150] {logging_mixin.py:104} INFO - [2022-03-18 13:33:23,150] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:33:23,154] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:33:23,177] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.034 seconds
+[2022-03-18 13:33:53,995] {scheduler_job.py:182} INFO - Started process (PID=7518) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:33:53,998] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:33:54,001] {logging_mixin.py:104} INFO - [2022-03-18 13:33:54,001] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:33:54,011] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:33:54,062] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.075 seconds
+[2022-03-18 13:34:24,717] {scheduler_job.py:182} INFO - Started process (PID=7726) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:34:24,720] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:34:24,723] {logging_mixin.py:104} INFO - [2022-03-18 13:34:24,722] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:34:24,735] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:34:24,775] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.072 seconds
+[2022-03-18 13:34:55,406] {scheduler_job.py:182} INFO - Started process (PID=7934) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:34:55,407] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:34:55,408] {logging_mixin.py:104} INFO - [2022-03-18 13:34:55,408] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:34:55,411] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:34:55,431] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.029 seconds
+[2022-03-18 13:35:25,830] {scheduler_job.py:182} INFO - Started process (PID=8185) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:35:25,833] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:35:25,836] {logging_mixin.py:104} INFO - [2022-03-18 13:35:25,835] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:35:25,842] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:35:25,893] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.069 seconds
+[2022-03-18 13:35:56,144] {scheduler_job.py:182} INFO - Started process (PID=8454) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:35:56,146] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:35:56,147] {logging_mixin.py:104} INFO - [2022-03-18 13:35:56,147] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:35:56,150] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:35:56,174] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.035 seconds
+[2022-03-18 13:36:26,394] {scheduler_job.py:182} INFO - Started process (PID=8719) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:36:26,395] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:36:26,396] {logging_mixin.py:104} INFO - [2022-03-18 13:36:26,396] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:36:26,398] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:36:26,418] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.029 seconds
+[2022-03-18 13:36:56,697] {scheduler_job.py:182} INFO - Started process (PID=8928) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:36:56,698] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:36:56,699] {logging_mixin.py:104} INFO - [2022-03-18 13:36:56,699] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:36:56,706] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:36:56,738] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.056 seconds
+[2022-03-18 13:43:49,378] {scheduler_job.py:182} INFO - Started process (PID=10193) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:43:49,387] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:43:49,403] {logging_mixin.py:104} INFO - [2022-03-18 13:43:49,403] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:43:49,413] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:43:49,495] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.134 seconds
+[2022-03-18 13:44:20,198] {scheduler_job.py:182} INFO - Started process (PID=10485) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:44:20,199] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:44:20,200] {logging_mixin.py:104} INFO - [2022-03-18 13:44:20,200] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:44:20,218] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:44:20,247] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.053 seconds
+[2022-03-18 13:44:50,998] {scheduler_job.py:182} INFO - Started process (PID=10574) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:44:50,999] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:44:51,000] {logging_mixin.py:104} INFO - [2022-03-18 13:44:51,000] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:44:51,003] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:44:51,025] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.030 seconds
+[2022-03-18 13:45:21,397] {scheduler_job.py:182} INFO - Started process (PID=10700) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:45:21,398] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:45:21,398] {logging_mixin.py:104} INFO - [2022-03-18 13:45:21,398] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:45:21,401] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:45:21,425] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.032 seconds
+[2022-03-18 13:45:52,451] {scheduler_job.py:182} INFO - Started process (PID=10966) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:45:52,453] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:45:52,455] {logging_mixin.py:104} INFO - [2022-03-18 13:45:52,455] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:45:52,463] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:45:52,541] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.120 seconds
+[2022-03-18 13:46:22,816] {scheduler_job.py:182} INFO - Started process (PID=11219) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:46:22,819] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:46:22,820] {logging_mixin.py:104} INFO - [2022-03-18 13:46:22,820] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:46:22,835] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:46:22,897] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.104 seconds
+[2022-03-18 13:46:53,360] {scheduler_job.py:182} INFO - Started process (PID=11481) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:46:53,361] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:46:53,362] {logging_mixin.py:104} INFO - [2022-03-18 13:46:53,362] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:46:53,365] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:46:53,386] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.031 seconds
+[2022-03-18 13:47:23,718] {scheduler_job.py:182} INFO - Started process (PID=11586) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:47:23,719] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:47:23,720] {logging_mixin.py:104} INFO - [2022-03-18 13:47:23,719] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:47:23,723] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:47:23,744] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.031 seconds
+[2022-03-18 13:47:53,839] {scheduler_job.py:182} INFO - Started process (PID=11759) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:47:53,843] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:47:53,845] {logging_mixin.py:104} INFO - [2022-03-18 13:47:53,845] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:47:53,848] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:47:53,872] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.043 seconds
+[2022-03-18 13:48:24,074] {scheduler_job.py:182} INFO - Started process (PID=12394) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:48:24,076] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:48:24,076] {logging_mixin.py:104} INFO - [2022-03-18 13:48:24,076] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:48:24,081] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:48:24,139] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.068 seconds
+[2022-03-18 13:48:54,447] {scheduler_job.py:182} INFO - Started process (PID=12955) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:48:54,449] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:48:54,450] {logging_mixin.py:104} INFO - [2022-03-18 13:48:54,450] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:48:54,453] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:48:54,474] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.031 seconds
+[2022-03-18 13:49:24,762] {scheduler_job.py:182} INFO - Started process (PID=13079) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:49:24,764] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:49:24,769] {logging_mixin.py:104} INFO - [2022-03-18 13:49:24,768] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:49:24,776] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:49:24,830] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.080 seconds
+[2022-03-18 13:49:55,478] {scheduler_job.py:182} INFO - Started process (PID=13163) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:49:55,479] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:49:55,480] {logging_mixin.py:104} INFO - [2022-03-18 13:49:55,480] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:49:55,483] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:49:55,504] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.029 seconds
+[2022-03-18 13:50:25,802] {scheduler_job.py:182} INFO - Started process (PID=13285) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:50:25,804] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:50:25,811] {logging_mixin.py:104} INFO - [2022-03-18 13:50:25,811] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:50:25,816] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:50:25,861] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.075 seconds
+[2022-03-18 13:50:56,343] {scheduler_job.py:182} INFO - Started process (PID=13374) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:50:56,344] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:50:56,346] {logging_mixin.py:104} INFO - [2022-03-18 13:50:56,345] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:50:56,350] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:50:56,377] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.039 seconds
+[2022-03-18 13:51:26,586] {scheduler_job.py:182} INFO - Started process (PID=13452) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:51:26,587] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:51:26,588] {logging_mixin.py:104} INFO - [2022-03-18 13:51:26,588] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:51:26,596] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:51:26,624] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.045 seconds
+[2022-03-18 13:51:56,771] {scheduler_job.py:182} INFO - Started process (PID=13540) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:51:56,772] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:51:56,773] {logging_mixin.py:104} INFO - [2022-03-18 13:51:56,773] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:51:56,782] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:51:56,817] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.050 seconds
+[2022-03-18 13:52:27,216] {scheduler_job.py:182} INFO - Started process (PID=13907) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:52:27,217] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:52:27,219] {logging_mixin.py:104} INFO - [2022-03-18 13:52:27,218] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:52:27,228] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:52:27,272] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.066 seconds
+[2022-03-18 13:52:57,875] {scheduler_job.py:182} INFO - Started process (PID=14081) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:52:57,876] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:52:57,876] {logging_mixin.py:104} INFO - [2022-03-18 13:52:57,876] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:52:57,880] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:52:57,910] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.040 seconds
+[2022-03-18 13:53:28,175] {scheduler_job.py:182} INFO - Started process (PID=14155) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:53:28,176] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:53:28,177] {logging_mixin.py:104} INFO - [2022-03-18 13:53:28,177] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:53:28,180] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:53:28,214] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.047 seconds
+[2022-03-18 13:53:58,979] {scheduler_job.py:182} INFO - Started process (PID=14327) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:53:58,981] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:53:58,982] {logging_mixin.py:104} INFO - [2022-03-18 13:53:58,982] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:53:58,985] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:53:59,007] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.033 seconds
+[2022-03-18 13:54:29,978] {scheduler_job.py:182} INFO - Started process (PID=14399) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:54:29,979] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:54:29,979] {logging_mixin.py:104} INFO - [2022-03-18 13:54:29,979] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:54:29,982] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:54:30,008] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.035 seconds
+[2022-03-18 13:55:00,101] {scheduler_job.py:182} INFO - Started process (PID=14523) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:55:00,102] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:55:00,103] {logging_mixin.py:104} INFO - [2022-03-18 13:55:00,103] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:55:00,106] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:55:00,131] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.037 seconds
+[2022-03-18 13:55:30,203] {scheduler_job.py:182} INFO - Started process (PID=14630) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:55:30,204] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:55:30,205] {logging_mixin.py:104} INFO - [2022-03-18 13:55:30,205] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:55:30,208] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:55:30,232] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.033 seconds
+[2022-03-18 13:56:00,338] {scheduler_job.py:182} INFO - Started process (PID=14719) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:56:00,339] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:56:00,340] {logging_mixin.py:104} INFO - [2022-03-18 13:56:00,340] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:56:00,343] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:56:00,363] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2022-03-18 13:56:31,203] {scheduler_job.py:182} INFO - Started process (PID=14793) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:56:31,204] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:56:31,205] {logging_mixin.py:104} INFO - [2022-03-18 13:56:31,205] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:56:31,208] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:56:31,230] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.031 seconds
+[2022-03-18 13:57:01,976] {scheduler_job.py:182} INFO - Started process (PID=14874) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:57:01,978] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:57:01,978] {logging_mixin.py:104} INFO - [2022-03-18 13:57:01,978] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:57:01,981] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:57:02,001] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.029 seconds
+[2022-03-18 13:57:32,341] {scheduler_job.py:182} INFO - Started process (PID=14948) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:57:32,342] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:57:32,343] {logging_mixin.py:104} INFO - [2022-03-18 13:57:32,343] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:57:32,346] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:57:32,366] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2022-03-18 13:58:02,397] {scheduler_job.py:182} INFO - Started process (PID=15021) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:58:02,399] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:58:02,399] {logging_mixin.py:104} INFO - [2022-03-18 13:58:02,399] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:58:02,403] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:58:02,424] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.031 seconds
+[2022-03-18 13:58:32,536] {scheduler_job.py:182} INFO - Started process (PID=15096) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:58:32,537] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:58:32,537] {logging_mixin.py:104} INFO - [2022-03-18 13:58:32,537] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:58:32,540] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:58:32,560] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.030 seconds
+[2022-03-18 13:59:02,906] {scheduler_job.py:182} INFO - Started process (PID=15270) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:59:02,916] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:59:02,917] {logging_mixin.py:104} INFO - [2022-03-18 13:59:02,917] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:59:02,920] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:59:02,945] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.044 seconds
+[2022-03-18 13:59:33,337] {scheduler_job.py:182} INFO - Started process (PID=15386) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:59:33,340] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 13:59:33,343] {logging_mixin.py:104} INFO - [2022-03-18 13:59:33,343] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:59:33,346] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 13:59:33,371] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.038 seconds
+[2022-03-18 14:00:03,951] {scheduler_job.py:182} INFO - Started process (PID=15458) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 14:00:03,952] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 14:00:03,953] {logging_mixin.py:104} INFO - [2022-03-18 14:00:03,953] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 14:00:03,956] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 14:00:03,976] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2022-03-18 14:00:34,129] {scheduler_job.py:182} INFO - Started process (PID=15566) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 14:00:34,130] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 14:00:34,131] {logging_mixin.py:104} INFO - [2022-03-18 14:00:34,131] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 14:00:34,134] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 14:00:34,154] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2022-03-18 14:01:04,923] {scheduler_job.py:182} INFO - Started process (PID=15642) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 14:01:04,924] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 14:01:04,925] {logging_mixin.py:104} INFO - [2022-03-18 14:01:04,925] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 14:01:04,928] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 14:01:04,949] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.030 seconds
+[2022-03-18 14:01:34,975] {scheduler_job.py:182} INFO - Started process (PID=15722) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 14:01:34,976] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 14:01:34,977] {logging_mixin.py:104} INFO - [2022-03-18 14:01:34,977] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 14:01:34,981] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 14:01:35,005] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.034 seconds
+[2022-03-18 14:02:05,160] {scheduler_job.py:182} INFO - Started process (PID=15822) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 14:02:05,162] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 14:02:05,162] {logging_mixin.py:104} INFO - [2022-03-18 14:02:05,162] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 14:02:05,166] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 14:02:05,190] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.034 seconds
+[2022-03-18 14:02:35,629] {scheduler_job.py:182} INFO - Started process (PID=15895) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 14:02:35,630] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-03-18 14:02:35,631] {logging_mixin.py:104} INFO - [2022-03-18 14:02:35,630] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 14:02:35,633] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-03-18 14:02:35,655] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.030 seconds

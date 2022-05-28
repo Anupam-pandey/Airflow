@@ -1,0 +1,1029 @@
+[2022-03-18 12:28:09,922] {scheduler_job.py:182} INFO - Started process (PID=7064) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:28:09,923] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 12:28:09,924] {logging_mixin.py:104} INFO - [2022-03-18 12:28:09,924] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:28:09,956] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:28:10,585] {logging_mixin.py:104} INFO - [2022-03-18 12:28:10,585] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:28:10,608] {logging_mixin.py:104} INFO - [2022-03-18 12:28:10,607] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 12:28:10,724] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.808 seconds
+[2022-03-18 12:28:56,727] {scheduler_job.py:182} INFO - Started process (PID=7293) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:28:56,728] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 12:28:56,729] {logging_mixin.py:104} INFO - [2022-03-18 12:28:56,729] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:28:56,768] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:28:57,093] {logging_mixin.py:104} INFO - [2022-03-18 12:28:57,093] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:28:57,114] {logging_mixin.py:104} INFO - [2022-03-18 12:28:57,114] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 12:28:57,223] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.498 seconds
+[2022-03-18 12:29:39,490] {scheduler_job.py:182} INFO - Started process (PID=7377) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:29:39,491] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 12:29:39,492] {logging_mixin.py:104} INFO - [2022-03-18 12:29:39,492] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:29:39,513] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:29:39,808] {logging_mixin.py:104} INFO - [2022-03-18 12:29:39,808] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:29:39,821] {logging_mixin.py:104} INFO - [2022-03-18 12:29:39,820] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 12:29:39,924] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.439 seconds
+[2022-03-18 12:30:25,057] {scheduler_job.py:182} INFO - Started process (PID=7500) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:30:25,059] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 12:30:25,059] {logging_mixin.py:104} INFO - [2022-03-18 12:30:25,059] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:30:25,106] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:30:25,676] {logging_mixin.py:104} INFO - [2022-03-18 12:30:25,676] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:30:25,709] {logging_mixin.py:104} INFO - [2022-03-18 12:30:25,708] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 12:30:25,828] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.775 seconds
+[2022-03-18 12:31:18,637] {scheduler_job.py:182} INFO - Started process (PID=7701) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:31:18,639] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 12:31:18,640] {logging_mixin.py:104} INFO - [2022-03-18 12:31:18,639] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:31:18,689] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:31:19,329] {logging_mixin.py:104} INFO - [2022-03-18 12:31:19,329] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:31:19,342] {logging_mixin.py:104} INFO - [2022-03-18 12:31:19,342] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 12:31:19,420] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.788 seconds
+[2022-03-18 12:32:05,783] {scheduler_job.py:182} INFO - Started process (PID=7929) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:32:05,786] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 12:32:05,789] {logging_mixin.py:104} INFO - [2022-03-18 12:32:05,789] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:32:05,846] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:32:06,834] {logging_mixin.py:104} INFO - [2022-03-18 12:32:06,834] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:32:06,868] {logging_mixin.py:104} INFO - [2022-03-18 12:32:06,867] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 12:32:07,043] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 1.266 seconds
+[2022-03-18 12:33:22,380] {scheduler_job.py:182} INFO - Started process (PID=8487) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:33:22,381] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 12:33:22,383] {logging_mixin.py:104} INFO - [2022-03-18 12:33:22,382] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:33:22,417] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:33:22,913] {logging_mixin.py:104} INFO - [2022-03-18 12:33:22,913] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:33:22,935] {logging_mixin.py:104} INFO - [2022-03-18 12:33:22,934] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 12:33:23,054] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.678 seconds
+[2022-03-18 12:34:16,680] {scheduler_job.py:182} INFO - Started process (PID=8535) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:34:16,682] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 12:34:16,684] {logging_mixin.py:104} INFO - [2022-03-18 12:34:16,683] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:34:16,771] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:34:17,642] {logging_mixin.py:104} INFO - [2022-03-18 12:34:17,642] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:34:17,683] {logging_mixin.py:104} INFO - [2022-03-18 12:34:17,683] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 12:34:17,813] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 1.148 seconds
+[2022-03-18 12:35:06,158] {scheduler_job.py:182} INFO - Started process (PID=9758) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:35:06,160] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 12:35:06,161] {logging_mixin.py:104} INFO - [2022-03-18 12:35:06,160] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:35:06,193] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:35:06,656] {logging_mixin.py:104} INFO - [2022-03-18 12:35:06,655] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:35:06,674] {logging_mixin.py:104} INFO - [2022-03-18 12:35:06,674] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 12:35:06,861] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.708 seconds
+[2022-03-18 12:35:58,008] {scheduler_job.py:182} INFO - Started process (PID=10131) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:35:58,010] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 12:35:58,013] {logging_mixin.py:104} INFO - [2022-03-18 12:35:58,012] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:35:58,073] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:35:58,123] {logging_mixin.py:104} INFO - [2022-03-18 12:35:58,122] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:35:58,191] {logging_mixin.py:104} INFO - [2022-03-18 12:35:58,190] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 12:35:58,339] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.345 seconds
+[2022-03-18 12:36:55,224] {scheduler_job.py:182} INFO - Started process (PID=10789) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:36:55,227] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 12:36:55,230] {logging_mixin.py:104} INFO - [2022-03-18 12:36:55,229] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:36:55,301] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:36:56,941] {logging_mixin.py:104} INFO - [2022-03-18 12:36:56,940] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:36:57,058] {logging_mixin.py:104} INFO - [2022-03-18 12:36:57,038] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 12:36:57,231] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 2.012 seconds
+[2022-03-18 12:37:51,782] {scheduler_job.py:182} INFO - Started process (PID=13969) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:37:51,783] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 12:37:51,784] {logging_mixin.py:104} INFO - [2022-03-18 12:37:51,784] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:37:51,828] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:37:51,847] {logging_mixin.py:104} INFO - [2022-03-18 12:37:51,847] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:37:51,869] {logging_mixin.py:104} INFO - [2022-03-18 12:37:51,869] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 12:37:51,977] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.198 seconds
+[2022-03-18 12:38:32,362] {scheduler_job.py:182} INFO - Started process (PID=14081) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:38:32,364] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 12:38:32,365] {logging_mixin.py:104} INFO - [2022-03-18 12:38:32,364] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:38:32,387] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:38:32,404] {logging_mixin.py:104} INFO - [2022-03-18 12:38:32,403] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:38:32,418] {logging_mixin.py:104} INFO - [2022-03-18 12:38:32,417] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 12:38:32,499] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.141 seconds
+[2022-03-18 12:39:19,418] {scheduler_job.py:182} INFO - Started process (PID=14200) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:39:19,419] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 12:39:19,420] {logging_mixin.py:104} INFO - [2022-03-18 12:39:19,420] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:39:19,441] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:39:19,750] {logging_mixin.py:104} INFO - [2022-03-18 12:39:19,750] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:39:19,762] {logging_mixin.py:104} INFO - [2022-03-18 12:39:19,762] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 12:39:19,865] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.453 seconds
+[2022-03-18 12:40:03,810] {scheduler_job.py:182} INFO - Started process (PID=14243) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:40:03,811] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 12:40:03,812] {logging_mixin.py:104} INFO - [2022-03-18 12:40:03,812] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:40:03,833] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:40:04,144] {logging_mixin.py:104} INFO - [2022-03-18 12:40:04,144] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:40:04,157] {logging_mixin.py:104} INFO - [2022-03-18 12:40:04,157] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 12:40:04,268] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.465 seconds
+[2022-03-18 12:40:44,800] {scheduler_job.py:182} INFO - Started process (PID=14342) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:40:44,802] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 12:40:44,804] {logging_mixin.py:104} INFO - [2022-03-18 12:40:44,803] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:40:44,843] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:40:44,879] {logging_mixin.py:104} INFO - [2022-03-18 12:40:44,879] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:40:44,920] {logging_mixin.py:104} INFO - [2022-03-18 12:40:44,920] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 12:40:45,043] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.248 seconds
+[2022-03-18 12:41:28,328] {scheduler_job.py:182} INFO - Started process (PID=14543) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:41:28,329] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 12:41:28,330] {logging_mixin.py:104} INFO - [2022-03-18 12:41:28,330] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:41:28,353] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:41:28,674] {logging_mixin.py:104} INFO - [2022-03-18 12:41:28,673] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:41:28,691] {logging_mixin.py:104} INFO - [2022-03-18 12:41:28,691] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 12:41:28,799] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.475 seconds
+[2022-03-18 12:42:13,851] {scheduler_job.py:182} INFO - Started process (PID=14792) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:42:13,853] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 12:42:13,857] {logging_mixin.py:104} INFO - [2022-03-18 12:42:13,856] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:42:13,940] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:42:15,145] {logging_mixin.py:104} INFO - [2022-03-18 12:42:15,145] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:42:15,179] {logging_mixin.py:104} INFO - [2022-03-18 12:42:15,178] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 12:42:15,340] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 1.494 seconds
+[2022-03-18 12:43:06,995] {scheduler_job.py:182} INFO - Started process (PID=14915) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:43:06,997] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 12:43:06,998] {logging_mixin.py:104} INFO - [2022-03-18 12:43:06,998] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:43:07,075] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:43:07,866] {logging_mixin.py:104} INFO - [2022-03-18 12:43:07,866] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:43:07,896] {logging_mixin.py:104} INFO - [2022-03-18 12:43:07,895] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 12:43:08,214] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 1.230 seconds
+[2022-03-18 12:43:53,795] {scheduler_job.py:182} INFO - Started process (PID=14976) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:43:53,797] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 12:43:53,797] {logging_mixin.py:104} INFO - [2022-03-18 12:43:53,797] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:43:53,819] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:43:54,135] {logging_mixin.py:104} INFO - [2022-03-18 12:43:54,135] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:43:54,148] {logging_mixin.py:104} INFO - [2022-03-18 12:43:54,147] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 12:43:54,288] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.495 seconds
+[2022-03-18 12:44:33,373] {scheduler_job.py:182} INFO - Started process (PID=15020) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:44:33,374] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 12:44:33,375] {logging_mixin.py:104} INFO - [2022-03-18 12:44:33,375] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:44:33,403] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:44:33,749] {logging_mixin.py:104} INFO - [2022-03-18 12:44:33,749] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:44:33,761] {logging_mixin.py:104} INFO - [2022-03-18 12:44:33,761] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 12:44:33,866] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.496 seconds
+[2022-03-18 12:45:16,168] {scheduler_job.py:182} INFO - Started process (PID=15097) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:45:16,170] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 12:45:16,171] {logging_mixin.py:104} INFO - [2022-03-18 12:45:16,171] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:45:16,193] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:45:16,511] {logging_mixin.py:104} INFO - [2022-03-18 12:45:16,511] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:45:16,524] {logging_mixin.py:104} INFO - [2022-03-18 12:45:16,524] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 12:45:16,619] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.455 seconds
+[2022-03-18 12:46:11,551] {scheduler_job.py:182} INFO - Started process (PID=15185) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:46:11,553] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 12:46:11,555] {logging_mixin.py:104} INFO - [2022-03-18 12:46:11,554] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:46:11,639] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:46:12,464] {logging_mixin.py:104} INFO - [2022-03-18 12:46:12,464] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:46:12,489] {logging_mixin.py:104} INFO - [2022-03-18 12:46:12,489] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 12:46:12,567] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 1.020 seconds
+[2022-03-18 12:47:00,663] {scheduler_job.py:182} INFO - Started process (PID=15370) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:47:00,665] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 12:47:00,667] {logging_mixin.py:104} INFO - [2022-03-18 12:47:00,666] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:47:00,722] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:47:01,637] {logging_mixin.py:104} INFO - [2022-03-18 12:47:01,637] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:47:01,660] {logging_mixin.py:104} INFO - [2022-03-18 12:47:01,660] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 12:47:01,791] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 1.132 seconds
+[2022-03-18 12:52:54,554] {scheduler_job.py:182} INFO - Started process (PID=16593) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:52:54,556] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 12:52:54,558] {logging_mixin.py:104} INFO - [2022-03-18 12:52:54,558] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:52:54,612] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:52:55,246] {logging_mixin.py:104} INFO - [2022-03-18 12:52:55,246] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:52:55,271] {logging_mixin.py:104} INFO - [2022-03-18 12:52:55,271] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 12:52:55,303] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.756 seconds
+[2022-03-18 12:53:25,728] {scheduler_job.py:182} INFO - Started process (PID=17198) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:53:25,729] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 12:53:25,730] {logging_mixin.py:104} INFO - [2022-03-18 12:53:25,730] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:53:25,759] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:53:26,187] {logging_mixin.py:104} INFO - [2022-03-18 12:53:26,187] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:53:26,215] {logging_mixin.py:104} INFO - [2022-03-18 12:53:26,215] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 12:53:26,244] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.521 seconds
+[2022-03-18 12:53:57,466] {scheduler_job.py:182} INFO - Started process (PID=18073) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:53:57,468] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 12:53:57,469] {logging_mixin.py:104} INFO - [2022-03-18 12:53:57,469] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:53:57,524] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:53:58,365] {logging_mixin.py:104} INFO - [2022-03-18 12:53:58,365] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:53:58,497] {logging_mixin.py:104} INFO - [2022-03-18 12:53:58,495] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 12:53:58,574] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 1.123 seconds
+[2022-03-18 12:54:29,038] {scheduler_job.py:182} INFO - Started process (PID=18363) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:54:29,041] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 12:54:29,044] {logging_mixin.py:104} INFO - [2022-03-18 12:54:29,043] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:54:29,107] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:54:29,804] {logging_mixin.py:104} INFO - [2022-03-18 12:54:29,804] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:54:29,842] {logging_mixin.py:104} INFO - [2022-03-18 12:54:29,842] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 12:54:29,877] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.843 seconds
+[2022-03-18 12:55:00,210] {scheduler_job.py:182} INFO - Started process (PID=18572) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:55:00,212] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 12:55:00,213] {logging_mixin.py:104} INFO - [2022-03-18 12:55:00,212] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:55:00,245] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:55:00,713] {logging_mixin.py:104} INFO - [2022-03-18 12:55:00,713] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:55:00,801] {logging_mixin.py:104} INFO - [2022-03-18 12:55:00,801] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 12:55:00,857] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.652 seconds
+[2022-03-18 12:55:31,780] {scheduler_job.py:182} INFO - Started process (PID=19021) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:55:31,782] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 12:55:31,783] {logging_mixin.py:104} INFO - [2022-03-18 12:55:31,783] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:55:31,831] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:55:32,171] {logging_mixin.py:104} INFO - [2022-03-18 12:55:32,170] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:55:32,189] {logging_mixin.py:104} INFO - [2022-03-18 12:55:32,189] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 12:55:32,262] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.503 seconds
+[2022-03-18 12:56:02,767] {scheduler_job.py:182} INFO - Started process (PID=19407) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:56:02,768] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 12:56:02,769] {logging_mixin.py:104} INFO - [2022-03-18 12:56:02,769] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:56:02,790] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:56:03,130] {logging_mixin.py:104} INFO - [2022-03-18 12:56:03,130] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:56:03,146] {logging_mixin.py:104} INFO - [2022-03-18 12:56:03,146] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 12:56:03,162] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.399 seconds
+[2022-03-18 12:56:33,411] {scheduler_job.py:182} INFO - Started process (PID=20218) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:56:33,412] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 12:56:33,412] {logging_mixin.py:104} INFO - [2022-03-18 12:56:33,412] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:56:33,435] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:56:33,782] {logging_mixin.py:104} INFO - [2022-03-18 12:56:33,782] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:56:33,797] {logging_mixin.py:104} INFO - [2022-03-18 12:56:33,797] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 12:56:33,863] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.457 seconds
+[2022-03-18 12:57:04,384] {scheduler_job.py:182} INFO - Started process (PID=20953) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:57:04,385] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 12:57:04,386] {logging_mixin.py:104} INFO - [2022-03-18 12:57:04,386] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:57:04,408] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:57:04,922] {logging_mixin.py:104} INFO - [2022-03-18 12:57:04,921] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:57:04,937] {logging_mixin.py:104} INFO - [2022-03-18 12:57:04,937] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 12:57:04,990] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.610 seconds
+[2022-03-18 12:57:35,604] {scheduler_job.py:182} INFO - Started process (PID=21223) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:57:35,605] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 12:57:35,605] {logging_mixin.py:104} INFO - [2022-03-18 12:57:35,605] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:57:35,627] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:57:35,952] {logging_mixin.py:104} INFO - [2022-03-18 12:57:35,952] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:57:35,967] {logging_mixin.py:104} INFO - [2022-03-18 12:57:35,967] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 12:57:36,034] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.434 seconds
+[2022-03-18 12:58:06,773] {scheduler_job.py:182} INFO - Started process (PID=21567) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:58:06,775] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 12:58:06,775] {logging_mixin.py:104} INFO - [2022-03-18 12:58:06,775] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:58:06,796] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:58:07,107] {logging_mixin.py:104} INFO - [2022-03-18 12:58:07,107] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:58:07,123] {logging_mixin.py:104} INFO - [2022-03-18 12:58:07,123] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 12:58:07,175] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.405 seconds
+[2022-03-18 12:58:37,220] {scheduler_job.py:182} INFO - Started process (PID=21773) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:58:37,221] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 12:58:37,222] {logging_mixin.py:104} INFO - [2022-03-18 12:58:37,222] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:58:37,246] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:58:37,553] {logging_mixin.py:104} INFO - [2022-03-18 12:58:37,553] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:58:37,569] {logging_mixin.py:104} INFO - [2022-03-18 12:58:37,569] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 12:58:37,595] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.380 seconds
+[2022-03-18 12:59:07,729] {scheduler_job.py:182} INFO - Started process (PID=21976) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:59:07,730] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 12:59:07,731] {logging_mixin.py:104} INFO - [2022-03-18 12:59:07,731] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:59:07,752] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:59:07,781] {logging_mixin.py:104} INFO - [2022-03-18 12:59:07,781] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:59:07,799] {logging_mixin.py:104} INFO - [2022-03-18 12:59:07,799] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 12:59:07,839] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.113 seconds
+[2022-03-18 12:59:38,697] {scheduler_job.py:182} INFO - Started process (PID=22185) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:59:38,698] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 12:59:38,699] {logging_mixin.py:104} INFO - [2022-03-18 12:59:38,698] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:59:38,719] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 12:59:39,035] {logging_mixin.py:104} INFO - [2022-03-18 12:59:39,035] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:59:39,051] {logging_mixin.py:104} INFO - [2022-03-18 12:59:39,051] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 12:59:39,079] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.387 seconds
+[2022-03-18 13:00:09,236] {scheduler_job.py:182} INFO - Started process (PID=22390) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:00:09,237] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:00:09,238] {logging_mixin.py:104} INFO - [2022-03-18 13:00:09,238] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:00:09,261] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:00:09,572] {logging_mixin.py:104} INFO - [2022-03-18 13:00:09,571] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:00:09,589] {logging_mixin.py:104} INFO - [2022-03-18 13:00:09,589] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:00:09,633] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.402 seconds
+[2022-03-18 13:00:40,481] {scheduler_job.py:182} INFO - Started process (PID=22627) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:00:40,482] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:00:40,483] {logging_mixin.py:104} INFO - [2022-03-18 13:00:40,483] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:00:40,506] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:00:40,810] {logging_mixin.py:104} INFO - [2022-03-18 13:00:40,810] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:00:40,826] {logging_mixin.py:104} INFO - [2022-03-18 13:00:40,826] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:00:40,907] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.430 seconds
+[2022-03-18 13:01:11,385] {scheduler_job.py:182} INFO - Started process (PID=22826) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:01:11,386] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:01:11,387] {logging_mixin.py:104} INFO - [2022-03-18 13:01:11,386] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:01:11,410] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:01:11,746] {logging_mixin.py:104} INFO - [2022-03-18 13:01:11,745] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:01:11,761] {logging_mixin.py:104} INFO - [2022-03-18 13:01:11,761] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:01:11,780] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.399 seconds
+[2022-03-18 13:01:41,824] {scheduler_job.py:182} INFO - Started process (PID=23033) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:01:41,825] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:01:41,826] {logging_mixin.py:104} INFO - [2022-03-18 13:01:41,825] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:01:41,848] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:01:42,164] {logging_mixin.py:104} INFO - [2022-03-18 13:01:42,164] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:01:42,183] {logging_mixin.py:104} INFO - [2022-03-18 13:01:42,183] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:01:42,200] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.380 seconds
+[2022-03-18 13:02:12,332] {scheduler_job.py:182} INFO - Started process (PID=23232) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:02:12,333] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:02:12,334] {logging_mixin.py:104} INFO - [2022-03-18 13:02:12,334] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:02:12,366] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:02:12,407] {logging_mixin.py:104} INFO - [2022-03-18 13:02:12,406] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:02:12,432] {logging_mixin.py:104} INFO - [2022-03-18 13:02:12,432] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:02:12,454] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.127 seconds
+[2022-03-18 13:02:42,797] {scheduler_job.py:182} INFO - Started process (PID=23435) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:02:42,799] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:02:42,800] {logging_mixin.py:104} INFO - [2022-03-18 13:02:42,800] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:02:42,826] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:02:43,140] {logging_mixin.py:104} INFO - [2022-03-18 13:02:43,140] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:02:43,156] {logging_mixin.py:104} INFO - [2022-03-18 13:02:43,156] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:02:43,173] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.380 seconds
+[2022-03-18 13:03:13,718] {scheduler_job.py:182} INFO - Started process (PID=23797) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:03:13,719] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:03:13,720] {logging_mixin.py:104} INFO - [2022-03-18 13:03:13,720] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:03:13,742] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:03:14,047] {logging_mixin.py:104} INFO - [2022-03-18 13:03:14,046] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:03:14,062] {logging_mixin.py:104} INFO - [2022-03-18 13:03:14,062] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:03:14,113] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.398 seconds
+[2022-03-18 13:03:44,621] {scheduler_job.py:182} INFO - Started process (PID=24031) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:03:44,622] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:03:44,623] {logging_mixin.py:104} INFO - [2022-03-18 13:03:44,623] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:03:44,647] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:03:44,967] {logging_mixin.py:104} INFO - [2022-03-18 13:03:44,967] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:03:44,983] {logging_mixin.py:104} INFO - [2022-03-18 13:03:44,983] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:03:45,009] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.391 seconds
+[2022-03-18 13:04:15,288] {scheduler_job.py:182} INFO - Started process (PID=24238) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:04:15,289] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:04:15,291] {logging_mixin.py:104} INFO - [2022-03-18 13:04:15,290] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:04:15,319] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:04:15,621] {logging_mixin.py:104} INFO - [2022-03-18 13:04:15,621] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:04:15,636] {logging_mixin.py:104} INFO - [2022-03-18 13:04:15,636] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:04:15,693] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.412 seconds
+[2022-03-18 13:04:46,408] {scheduler_job.py:182} INFO - Started process (PID=24437) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:04:46,409] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:04:46,410] {logging_mixin.py:104} INFO - [2022-03-18 13:04:46,410] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:04:46,431] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:04:46,740] {logging_mixin.py:104} INFO - [2022-03-18 13:04:46,740] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:04:46,755] {logging_mixin.py:104} INFO - [2022-03-18 13:04:46,755] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:04:46,776] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.372 seconds
+[2022-03-18 13:05:17,161] {scheduler_job.py:182} INFO - Started process (PID=24675) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:05:17,162] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:05:17,163] {logging_mixin.py:104} INFO - [2022-03-18 13:05:17,163] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:05:17,184] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:05:17,507] {logging_mixin.py:104} INFO - [2022-03-18 13:05:17,507] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:05:17,523] {logging_mixin.py:104} INFO - [2022-03-18 13:05:17,523] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:05:17,551] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.393 seconds
+[2022-03-18 13:05:48,135] {scheduler_job.py:182} INFO - Started process (PID=24874) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:05:48,136] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:05:48,137] {logging_mixin.py:104} INFO - [2022-03-18 13:05:48,137] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:05:48,159] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:05:48,488] {logging_mixin.py:104} INFO - [2022-03-18 13:05:48,488] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:05:48,505] {logging_mixin.py:104} INFO - [2022-03-18 13:05:48,505] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:05:48,522] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.391 seconds
+[2022-03-18 13:06:19,827] {scheduler_job.py:182} INFO - Started process (PID=25089) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:06:19,829] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:06:19,830] {logging_mixin.py:104} INFO - [2022-03-18 13:06:19,830] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:06:19,851] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:06:20,174] {logging_mixin.py:104} INFO - [2022-03-18 13:06:20,174] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:06:20,190] {logging_mixin.py:104} INFO - [2022-03-18 13:06:20,190] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:06:20,215] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.391 seconds
+[2022-03-18 13:06:51,435] {scheduler_job.py:182} INFO - Started process (PID=25279) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:06:51,437] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:06:51,438] {logging_mixin.py:104} INFO - [2022-03-18 13:06:51,438] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:06:51,498] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:06:52,189] {logging_mixin.py:104} INFO - [2022-03-18 13:06:52,189] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:06:52,222] {logging_mixin.py:104} INFO - [2022-03-18 13:06:52,221] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:06:52,255] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.830 seconds
+[2022-03-18 13:07:22,484] {scheduler_job.py:182} INFO - Started process (PID=25514) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:07:22,488] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:07:22,492] {logging_mixin.py:104} INFO - [2022-03-18 13:07:22,491] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:07:22,535] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:07:23,253] {logging_mixin.py:104} INFO - [2022-03-18 13:07:23,253] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:07:23,288] {logging_mixin.py:104} INFO - [2022-03-18 13:07:23,287] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:07:23,321] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.848 seconds
+[2022-03-18 13:07:53,609] {scheduler_job.py:182} INFO - Started process (PID=25909) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:07:53,614] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:07:53,615] {logging_mixin.py:104} INFO - [2022-03-18 13:07:53,615] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:07:53,662] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:07:54,406] {logging_mixin.py:104} INFO - [2022-03-18 13:07:54,405] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:07:54,442] {logging_mixin.py:104} INFO - [2022-03-18 13:07:54,442] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:07:54,491] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.890 seconds
+[2022-03-18 13:08:25,514] {scheduler_job.py:182} INFO - Started process (PID=26204) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:08:25,516] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:08:25,518] {logging_mixin.py:104} INFO - [2022-03-18 13:08:25,517] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:08:25,571] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:08:26,381] {logging_mixin.py:104} INFO - [2022-03-18 13:08:26,380] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:08:26,460] {logging_mixin.py:104} INFO - [2022-03-18 13:08:26,460] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:08:26,529] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 1.025 seconds
+[2022-03-18 13:08:57,235] {scheduler_job.py:182} INFO - Started process (PID=26424) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:08:57,238] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:08:57,240] {logging_mixin.py:104} INFO - [2022-03-18 13:08:57,240] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:08:57,296] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:08:57,359] {logging_mixin.py:104} INFO - [2022-03-18 13:08:57,359] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:08:57,407] {logging_mixin.py:104} INFO - [2022-03-18 13:08:57,407] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:08:57,444] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.218 seconds
+[2022-03-18 13:09:27,820] {scheduler_job.py:182} INFO - Started process (PID=26625) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:09:27,822] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:09:27,823] {logging_mixin.py:104} INFO - [2022-03-18 13:09:27,822] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:09:27,877] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:09:28,928] {logging_mixin.py:104} INFO - [2022-03-18 13:09:28,928] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:09:28,961] {logging_mixin.py:104} INFO - [2022-03-18 13:09:28,961] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:09:28,996] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 1.184 seconds
+[2022-03-18 13:09:59,614] {scheduler_job.py:182} INFO - Started process (PID=26841) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:09:59,617] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:09:59,618] {logging_mixin.py:104} INFO - [2022-03-18 13:09:59,618] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:09:59,662] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:10:00,435] {logging_mixin.py:104} INFO - [2022-03-18 13:10:00,435] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:10:00,510] {logging_mixin.py:104} INFO - [2022-03-18 13:10:00,507] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:10:00,573] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.970 seconds
+[2022-03-18 13:10:30,692] {scheduler_job.py:182} INFO - Started process (PID=27087) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:10:30,694] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:10:30,694] {logging_mixin.py:104} INFO - [2022-03-18 13:10:30,694] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:10:30,744] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:10:31,421] {logging_mixin.py:104} INFO - [2022-03-18 13:10:31,421] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:10:31,458] {logging_mixin.py:104} INFO - [2022-03-18 13:10:31,457] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:10:31,488] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.800 seconds
+[2022-03-18 13:11:02,382] {scheduler_job.py:182} INFO - Started process (PID=27302) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:11:02,384] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:11:02,385] {logging_mixin.py:104} INFO - [2022-03-18 13:11:02,385] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:11:02,437] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:11:03,431] {logging_mixin.py:104} INFO - [2022-03-18 13:11:03,430] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:11:03,474] {logging_mixin.py:104} INFO - [2022-03-18 13:11:03,474] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:11:03,513] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 1.143 seconds
+[2022-03-18 13:11:33,822] {scheduler_job.py:182} INFO - Started process (PID=27517) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:11:33,826] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:11:33,827] {logging_mixin.py:104} INFO - [2022-03-18 13:11:33,827] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:11:33,878] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:11:34,530] {logging_mixin.py:104} INFO - [2022-03-18 13:11:34,529] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:11:34,554] {logging_mixin.py:104} INFO - [2022-03-18 13:11:34,553] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:11:34,590] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.775 seconds
+[2022-03-18 13:12:04,840] {scheduler_job.py:182} INFO - Started process (PID=27724) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:12:04,843] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:12:04,844] {logging_mixin.py:104} INFO - [2022-03-18 13:12:04,844] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:12:04,908] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:12:05,839] {logging_mixin.py:104} INFO - [2022-03-18 13:12:05,838] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:12:05,892] {logging_mixin.py:104} INFO - [2022-03-18 13:12:05,892] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:12:05,950] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 1.119 seconds
+[2022-03-18 13:12:36,801] {scheduler_job.py:182} INFO - Started process (PID=27945) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:12:36,803] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:12:36,804] {logging_mixin.py:104} INFO - [2022-03-18 13:12:36,804] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:12:36,883] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:12:37,008] {logging_mixin.py:104} INFO - [2022-03-18 13:12:37,008] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:12:37,072] {logging_mixin.py:104} INFO - [2022-03-18 13:12:37,072] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:12:37,116] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.326 seconds
+[2022-03-18 13:13:08,176] {scheduler_job.py:182} INFO - Started process (PID=28273) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:13:08,178] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:13:08,181] {logging_mixin.py:104} INFO - [2022-03-18 13:13:08,180] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:13:08,228] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:13:08,872] {logging_mixin.py:104} INFO - [2022-03-18 13:13:08,872] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:13:08,901] {logging_mixin.py:104} INFO - [2022-03-18 13:13:08,901] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:13:08,938] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.772 seconds
+[2022-03-18 13:13:39,561] {scheduler_job.py:182} INFO - Started process (PID=28503) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:13:39,563] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:13:39,564] {logging_mixin.py:104} INFO - [2022-03-18 13:13:39,564] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:13:39,587] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:13:40,053] {logging_mixin.py:104} INFO - [2022-03-18 13:13:40,052] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:13:40,068] {logging_mixin.py:104} INFO - [2022-03-18 13:13:40,068] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:13:40,088] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.531 seconds
+[2022-03-18 13:14:10,709] {scheduler_job.py:182} INFO - Started process (PID=28724) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:14:10,712] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:14:10,714] {logging_mixin.py:104} INFO - [2022-03-18 13:14:10,714] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:14:10,775] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:14:10,841] {logging_mixin.py:104} INFO - [2022-03-18 13:14:10,840] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:14:10,868] {logging_mixin.py:104} INFO - [2022-03-18 13:14:10,868] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:14:10,899] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.198 seconds
+[2022-03-18 13:14:43,997] {scheduler_job.py:182} INFO - Started process (PID=28936) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:14:43,999] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:14:44,001] {logging_mixin.py:104} INFO - [2022-03-18 13:14:44,000] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:14:44,076] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:14:45,050] {logging_mixin.py:104} INFO - [2022-03-18 13:14:45,050] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:14:45,113] {logging_mixin.py:104} INFO - [2022-03-18 13:14:45,113] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:14:45,189] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 1.199 seconds
+[2022-03-18 13:15:16,184] {scheduler_job.py:182} INFO - Started process (PID=29235) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:15:16,185] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:15:16,186] {logging_mixin.py:104} INFO - [2022-03-18 13:15:16,186] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:15:16,207] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:15:16,570] {logging_mixin.py:104} INFO - [2022-03-18 13:15:16,570] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:15:16,592] {logging_mixin.py:104} INFO - [2022-03-18 13:15:16,592] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:15:16,618] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.439 seconds
+[2022-03-18 13:15:47,404] {scheduler_job.py:182} INFO - Started process (PID=29554) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:15:47,407] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:15:47,408] {logging_mixin.py:104} INFO - [2022-03-18 13:15:47,408] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:15:47,465] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:15:48,306] {logging_mixin.py:104} INFO - [2022-03-18 13:15:48,306] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:15:48,337] {logging_mixin.py:104} INFO - [2022-03-18 13:15:48,337] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:15:48,422] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 1.027 seconds
+[2022-03-18 13:16:18,876] {scheduler_job.py:182} INFO - Started process (PID=29844) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:16:18,878] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:16:18,879] {logging_mixin.py:104} INFO - [2022-03-18 13:16:18,879] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:16:19,046] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:16:19,949] {logging_mixin.py:104} INFO - [2022-03-18 13:16:19,948] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:16:19,994] {logging_mixin.py:104} INFO - [2022-03-18 13:16:19,994] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:16:20,465] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 1.606 seconds
+[2022-03-18 13:16:51,152] {scheduler_job.py:182} INFO - Started process (PID=30879) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:16:51,153] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:16:51,154] {logging_mixin.py:104} INFO - [2022-03-18 13:16:51,154] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:16:51,179] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:16:51,485] {logging_mixin.py:104} INFO - [2022-03-18 13:16:51,485] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:16:51,503] {logging_mixin.py:104} INFO - [2022-03-18 13:16:51,503] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:16:51,554] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.405 seconds
+[2022-03-18 13:17:22,526] {scheduler_job.py:182} INFO - Started process (PID=31094) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:17:22,527] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:17:22,528] {logging_mixin.py:104} INFO - [2022-03-18 13:17:22,528] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:17:22,550] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:17:22,854] {logging_mixin.py:104} INFO - [2022-03-18 13:17:22,854] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:17:22,872] {logging_mixin.py:104} INFO - [2022-03-18 13:17:22,872] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:17:22,916] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.393 seconds
+[2022-03-18 13:17:53,043] {scheduler_job.py:182} INFO - Started process (PID=31418) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:17:53,044] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:17:53,045] {logging_mixin.py:104} INFO - [2022-03-18 13:17:53,045] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:17:53,073] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:17:53,382] {logging_mixin.py:104} INFO - [2022-03-18 13:17:53,382] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:17:53,399] {logging_mixin.py:104} INFO - [2022-03-18 13:17:53,399] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:17:53,447] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.407 seconds
+[2022-03-18 13:18:23,488] {scheduler_job.py:182} INFO - Started process (PID=31625) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:18:23,489] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:18:23,490] {logging_mixin.py:104} INFO - [2022-03-18 13:18:23,490] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:18:23,511] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:18:23,825] {logging_mixin.py:104} INFO - [2022-03-18 13:18:23,824] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:18:23,842] {logging_mixin.py:104} INFO - [2022-03-18 13:18:23,841] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:18:23,914] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.429 seconds
+[2022-03-18 13:18:54,066] {scheduler_job.py:182} INFO - Started process (PID=31829) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:18:54,067] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:18:54,067] {logging_mixin.py:104} INFO - [2022-03-18 13:18:54,067] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:18:54,088] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:18:54,409] {logging_mixin.py:104} INFO - [2022-03-18 13:18:54,409] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:18:54,425] {logging_mixin.py:104} INFO - [2022-03-18 13:18:54,425] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:18:54,442] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.381 seconds
+[2022-03-18 13:19:24,865] {scheduler_job.py:182} INFO - Started process (PID=32043) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:19:24,866] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:19:24,867] {logging_mixin.py:104} INFO - [2022-03-18 13:19:24,867] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:19:24,888] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:19:25,203] {logging_mixin.py:104} INFO - [2022-03-18 13:19:25,203] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:19:25,219] {logging_mixin.py:104} INFO - [2022-03-18 13:19:25,219] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:19:25,239] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.378 seconds
+[2022-03-18 13:19:55,840] {scheduler_job.py:182} INFO - Started process (PID=32248) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:19:55,841] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:19:55,842] {logging_mixin.py:104} INFO - [2022-03-18 13:19:55,842] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:19:55,864] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:19:56,180] {logging_mixin.py:104} INFO - [2022-03-18 13:19:56,180] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:19:56,196] {logging_mixin.py:104} INFO - [2022-03-18 13:19:56,196] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:19:56,261] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.426 seconds
+[2022-03-18 13:20:27,051] {scheduler_job.py:182} INFO - Started process (PID=32488) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:20:27,052] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:20:27,052] {logging_mixin.py:104} INFO - [2022-03-18 13:20:27,052] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:20:27,073] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:20:27,383] {logging_mixin.py:104} INFO - [2022-03-18 13:20:27,383] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:20:27,399] {logging_mixin.py:104} INFO - [2022-03-18 13:20:27,399] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:20:27,443] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.396 seconds
+[2022-03-18 13:20:57,629] {scheduler_job.py:182} INFO - Started process (PID=32697) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:20:57,630] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:20:57,631] {logging_mixin.py:104} INFO - [2022-03-18 13:20:57,631] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:20:57,651] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:20:57,959] {logging_mixin.py:104} INFO - [2022-03-18 13:20:57,959] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:20:57,975] {logging_mixin.py:104} INFO - [2022-03-18 13:20:57,974] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:20:58,018] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.392 seconds
+[2022-03-18 13:21:28,129] {scheduler_job.py:182} INFO - Started process (PID=478) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:21:28,130] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:21:28,131] {logging_mixin.py:104} INFO - [2022-03-18 13:21:28,131] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:21:28,153] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:21:28,463] {logging_mixin.py:104} INFO - [2022-03-18 13:21:28,463] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:21:28,479] {logging_mixin.py:104} INFO - [2022-03-18 13:21:28,479] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:21:28,526] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.401 seconds
+[2022-03-18 13:21:59,129] {scheduler_job.py:182} INFO - Started process (PID=683) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:21:59,131] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:21:59,132] {logging_mixin.py:104} INFO - [2022-03-18 13:21:59,132] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:21:59,153] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:21:59,462] {logging_mixin.py:104} INFO - [2022-03-18 13:21:59,462] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:21:59,478] {logging_mixin.py:104} INFO - [2022-03-18 13:21:59,478] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:21:59,534] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.409 seconds
+[2022-03-18 13:22:29,664] {scheduler_job.py:182} INFO - Started process (PID=894) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:22:29,665] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:22:29,666] {logging_mixin.py:104} INFO - [2022-03-18 13:22:29,666] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:22:29,687] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:22:30,012] {logging_mixin.py:104} INFO - [2022-03-18 13:22:30,011] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:22:30,027] {logging_mixin.py:104} INFO - [2022-03-18 13:22:30,027] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:22:30,042] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.382 seconds
+[2022-03-18 13:23:00,434] {scheduler_job.py:182} INFO - Started process (PID=1247) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:23:00,435] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:23:00,436] {logging_mixin.py:104} INFO - [2022-03-18 13:23:00,436] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:23:00,457] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:23:00,763] {logging_mixin.py:104} INFO - [2022-03-18 13:23:00,763] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:23:00,779] {logging_mixin.py:104} INFO - [2022-03-18 13:23:00,778] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:23:00,830] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.399 seconds
+[2022-03-18 13:23:31,278] {scheduler_job.py:182} INFO - Started process (PID=1496) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:23:31,280] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:23:31,280] {logging_mixin.py:104} INFO - [2022-03-18 13:23:31,280] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:23:31,303] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:23:31,612] {logging_mixin.py:104} INFO - [2022-03-18 13:23:31,612] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:23:31,627] {logging_mixin.py:104} INFO - [2022-03-18 13:23:31,627] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:23:31,648] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.373 seconds
+[2022-03-18 13:24:02,086] {scheduler_job.py:182} INFO - Started process (PID=1736) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:24:02,087] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:24:02,088] {logging_mixin.py:104} INFO - [2022-03-18 13:24:02,088] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:24:02,112] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:24:02,425] {logging_mixin.py:104} INFO - [2022-03-18 13:24:02,425] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:24:02,441] {logging_mixin.py:104} INFO - [2022-03-18 13:24:02,441] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:24:02,489] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.407 seconds
+[2022-03-18 13:24:32,658] {scheduler_job.py:182} INFO - Started process (PID=1980) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:24:32,659] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:24:32,660] {logging_mixin.py:104} INFO - [2022-03-18 13:24:32,660] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:24:32,681] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:24:32,986] {logging_mixin.py:104} INFO - [2022-03-18 13:24:32,986] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:24:33,001] {logging_mixin.py:104} INFO - [2022-03-18 13:24:33,001] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:24:33,054] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.400 seconds
+[2022-03-18 13:25:03,413] {scheduler_job.py:182} INFO - Started process (PID=2217) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:25:03,416] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:25:03,417] {logging_mixin.py:104} INFO - [2022-03-18 13:25:03,417] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:25:03,452] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:25:04,268] {logging_mixin.py:104} INFO - [2022-03-18 13:25:04,268] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:25:04,321] {logging_mixin.py:104} INFO - [2022-03-18 13:25:04,320] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:25:04,388] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.978 seconds
+[2022-03-18 13:25:35,270] {scheduler_job.py:182} INFO - Started process (PID=2751) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:25:35,271] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:25:35,272] {logging_mixin.py:104} INFO - [2022-03-18 13:25:35,272] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:25:35,293] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:25:35,617] {logging_mixin.py:104} INFO - [2022-03-18 13:25:35,617] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:25:35,638] {logging_mixin.py:104} INFO - [2022-03-18 13:25:35,638] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:25:35,689] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.424 seconds
+[2022-03-18 13:26:05,982] {scheduler_job.py:182} INFO - Started process (PID=3114) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:26:05,983] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:26:05,983] {logging_mixin.py:104} INFO - [2022-03-18 13:26:05,983] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:26:06,008] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:26:06,425] {logging_mixin.py:104} INFO - [2022-03-18 13:26:06,425] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:26:06,443] {logging_mixin.py:104} INFO - [2022-03-18 13:26:06,443] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:26:06,497] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.519 seconds
+[2022-03-18 13:26:37,221] {scheduler_job.py:182} INFO - Started process (PID=3417) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:26:37,222] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:26:37,223] {logging_mixin.py:104} INFO - [2022-03-18 13:26:37,223] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:26:37,252] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:26:37,618] {logging_mixin.py:104} INFO - [2022-03-18 13:26:37,618] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:26:37,635] {logging_mixin.py:104} INFO - [2022-03-18 13:26:37,635] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:26:37,669] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.452 seconds
+[2022-03-18 13:27:07,803] {scheduler_job.py:182} INFO - Started process (PID=3888) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:27:07,804] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:27:07,805] {logging_mixin.py:104} INFO - [2022-03-18 13:27:07,805] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:27:07,829] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:27:08,155] {logging_mixin.py:104} INFO - [2022-03-18 13:27:08,155] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:27:08,171] {logging_mixin.py:104} INFO - [2022-03-18 13:27:08,171] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:27:08,188] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.392 seconds
+[2022-03-18 13:27:38,284] {scheduler_job.py:182} INFO - Started process (PID=4148) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:27:38,285] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:27:38,286] {logging_mixin.py:104} INFO - [2022-03-18 13:27:38,286] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:27:38,308] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:27:38,615] {logging_mixin.py:104} INFO - [2022-03-18 13:27:38,615] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:27:38,631] {logging_mixin.py:104} INFO - [2022-03-18 13:27:38,630] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:27:38,678] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.399 seconds
+[2022-03-18 13:28:09,557] {scheduler_job.py:182} INFO - Started process (PID=4625) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:28:09,558] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:28:09,559] {logging_mixin.py:104} INFO - [2022-03-18 13:28:09,559] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:28:09,580] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:28:09,889] {logging_mixin.py:104} INFO - [2022-03-18 13:28:09,889] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:28:09,905] {logging_mixin.py:104} INFO - [2022-03-18 13:28:09,905] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:28:09,951] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.401 seconds
+[2022-03-18 13:28:40,776] {scheduler_job.py:182} INFO - Started process (PID=5050) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:28:40,777] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:28:40,778] {logging_mixin.py:104} INFO - [2022-03-18 13:28:40,778] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:28:40,799] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:28:41,107] {logging_mixin.py:104} INFO - [2022-03-18 13:28:41,107] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:28:41,124] {logging_mixin.py:104} INFO - [2022-03-18 13:28:41,124] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:28:41,159] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.386 seconds
+[2022-03-18 13:29:11,380] {scheduler_job.py:182} INFO - Started process (PID=5269) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:29:11,381] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:29:11,382] {logging_mixin.py:104} INFO - [2022-03-18 13:29:11,382] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:29:11,403] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:29:11,432] {logging_mixin.py:104} INFO - [2022-03-18 13:29:11,432] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:29:11,449] {logging_mixin.py:104} INFO - [2022-03-18 13:29:11,449] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:29:11,503] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.126 seconds
+[2022-03-18 13:29:42,073] {scheduler_job.py:182} INFO - Started process (PID=5483) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:29:42,075] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:29:42,076] {logging_mixin.py:104} INFO - [2022-03-18 13:29:42,076] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:29:42,109] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:29:42,702] {logging_mixin.py:104} INFO - [2022-03-18 13:29:42,701] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:29:42,736] {logging_mixin.py:104} INFO - [2022-03-18 13:29:42,736] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:29:42,787] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.719 seconds
+[2022-03-18 13:30:12,840] {scheduler_job.py:182} INFO - Started process (PID=5787) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:30:12,842] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:30:12,843] {logging_mixin.py:104} INFO - [2022-03-18 13:30:12,843] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:30:12,911] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:30:13,267] {logging_mixin.py:104} INFO - [2022-03-18 13:30:13,266] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:30:13,287] {logging_mixin.py:104} INFO - [2022-03-18 13:30:13,287] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:30:13,349] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.519 seconds
+[2022-03-18 13:30:43,986] {scheduler_job.py:182} INFO - Started process (PID=6057) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:30:43,989] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:30:43,990] {logging_mixin.py:104} INFO - [2022-03-18 13:30:43,990] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:30:44,038] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:30:44,859] {logging_mixin.py:104} INFO - [2022-03-18 13:30:44,859] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:30:44,893] {logging_mixin.py:104} INFO - [2022-03-18 13:30:44,892] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:30:44,944] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.966 seconds
+[2022-03-18 13:31:15,890] {scheduler_job.py:182} INFO - Started process (PID=6278) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:31:15,892] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:31:15,893] {logging_mixin.py:104} INFO - [2022-03-18 13:31:15,893] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:31:15,951] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:31:16,580] {logging_mixin.py:104} INFO - [2022-03-18 13:31:16,580] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:31:16,621] {logging_mixin.py:104} INFO - [2022-03-18 13:31:16,621] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:31:16,659] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.774 seconds
+[2022-03-18 13:31:47,039] {scheduler_job.py:182} INFO - Started process (PID=6508) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:31:47,040] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:31:47,040] {logging_mixin.py:104} INFO - [2022-03-18 13:31:47,040] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:31:47,062] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:31:47,366] {logging_mixin.py:104} INFO - [2022-03-18 13:31:47,366] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:31:47,381] {logging_mixin.py:104} INFO - [2022-03-18 13:31:47,381] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:31:47,423] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.387 seconds
+[2022-03-18 13:32:18,423] {scheduler_job.py:182} INFO - Started process (PID=6726) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:32:18,424] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:32:18,425] {logging_mixin.py:104} INFO - [2022-03-18 13:32:18,425] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:32:18,451] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:32:18,804] {logging_mixin.py:104} INFO - [2022-03-18 13:32:18,804] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:32:18,820] {logging_mixin.py:104} INFO - [2022-03-18 13:32:18,820] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:32:18,839] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.420 seconds
+[2022-03-18 13:32:49,686] {scheduler_job.py:182} INFO - Started process (PID=6998) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:32:49,687] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:32:49,688] {logging_mixin.py:104} INFO - [2022-03-18 13:32:49,688] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:32:49,719] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:32:50,300] {logging_mixin.py:104} INFO - [2022-03-18 13:32:50,299] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:32:50,332] {logging_mixin.py:104} INFO - [2022-03-18 13:32:50,332] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:32:50,393] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.713 seconds
+[2022-03-18 13:33:20,685] {scheduler_job.py:182} INFO - Started process (PID=7300) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:33:20,688] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:33:20,690] {logging_mixin.py:104} INFO - [2022-03-18 13:33:20,689] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:33:20,714] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:33:21,046] {logging_mixin.py:104} INFO - [2022-03-18 13:33:21,046] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:33:21,064] {logging_mixin.py:104} INFO - [2022-03-18 13:33:21,064] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:33:21,110] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.431 seconds
+[2022-03-18 13:33:51,202] {scheduler_job.py:182} INFO - Started process (PID=7512) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:33:51,205] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:33:51,206] {logging_mixin.py:104} INFO - [2022-03-18 13:33:51,206] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:33:51,242] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:33:51,899] {logging_mixin.py:104} INFO - [2022-03-18 13:33:51,899] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:33:51,945] {logging_mixin.py:104} INFO - [2022-03-18 13:33:51,945] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:33:52,020] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.826 seconds
+[2022-03-18 13:34:22,409] {scheduler_job.py:182} INFO - Started process (PID=7720) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:34:22,414] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:34:22,415] {logging_mixin.py:104} INFO - [2022-03-18 13:34:22,415] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:34:22,476] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:34:22,526] {logging_mixin.py:104} INFO - [2022-03-18 13:34:22,526] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:34:22,558] {logging_mixin.py:104} INFO - [2022-03-18 13:34:22,557] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:34:22,588] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.187 seconds
+[2022-03-18 13:34:53,002] {scheduler_job.py:182} INFO - Started process (PID=7928) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:34:53,005] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:34:53,006] {logging_mixin.py:104} INFO - [2022-03-18 13:34:53,006] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:34:53,027] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:34:53,335] {logging_mixin.py:104} INFO - [2022-03-18 13:34:53,335] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:34:53,351] {logging_mixin.py:104} INFO - [2022-03-18 13:34:53,351] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:34:53,433] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.437 seconds
+[2022-03-18 13:35:24,007] {scheduler_job.py:182} INFO - Started process (PID=8176) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:35:24,009] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:35:24,010] {logging_mixin.py:104} INFO - [2022-03-18 13:35:24,010] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:35:24,071] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:35:24,696] {logging_mixin.py:104} INFO - [2022-03-18 13:35:24,696] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:35:24,726] {logging_mixin.py:104} INFO - [2022-03-18 13:35:24,726] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:35:24,766] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.780 seconds
+[2022-03-18 13:35:55,133] {scheduler_job.py:182} INFO - Started process (PID=8446) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:35:55,134] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:35:55,135] {logging_mixin.py:104} INFO - [2022-03-18 13:35:55,135] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:35:55,159] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:35:55,498] {logging_mixin.py:104} INFO - [2022-03-18 13:35:55,498] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:35:55,514] {logging_mixin.py:104} INFO - [2022-03-18 13:35:55,514] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:35:55,538] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.408 seconds
+[2022-03-18 13:36:25,976] {scheduler_job.py:182} INFO - Started process (PID=8713) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:36:25,977] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:36:25,978] {logging_mixin.py:104} INFO - [2022-03-18 13:36:25,978] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:36:26,000] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:36:26,307] {logging_mixin.py:104} INFO - [2022-03-18 13:36:26,307] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:36:26,323] {logging_mixin.py:104} INFO - [2022-03-18 13:36:26,323] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:36:26,369] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.397 seconds
+[2022-03-18 13:36:56,703] {scheduler_job.py:182} INFO - Started process (PID=8933) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:36:56,707] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:36:56,709] {logging_mixin.py:104} INFO - [2022-03-18 13:36:56,709] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:36:56,751] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:36:57,312] {logging_mixin.py:104} INFO - [2022-03-18 13:36:57,311] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:36:57,340] {logging_mixin.py:104} INFO - [2022-03-18 13:36:57,340] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:36:57,405] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.714 seconds
+[2022-03-18 13:43:55,838] {scheduler_job.py:182} INFO - Started process (PID=10341) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:43:55,840] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:43:55,841] {logging_mixin.py:104} INFO - [2022-03-18 13:43:55,841] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:43:55,956] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:43:56,801] {logging_mixin.py:104} INFO - [2022-03-18 13:43:56,801] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:43:57,015] {logging_mixin.py:104} INFO - [2022-03-18 13:43:57,015] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:43:57,052] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 1.230 seconds
+[2022-03-18 13:44:27,403] {scheduler_job.py:182} INFO - Started process (PID=10560) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:44:27,405] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:44:27,405] {logging_mixin.py:104} INFO - [2022-03-18 13:44:27,405] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:44:27,428] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:44:27,739] {logging_mixin.py:104} INFO - [2022-03-18 13:44:27,739] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:44:27,842] {logging_mixin.py:104} INFO - [2022-03-18 13:44:27,842] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:44:27,871] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.472 seconds
+[2022-03-18 13:44:59,431] {scheduler_job.py:182} INFO - Started process (PID=10636) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:44:59,432] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:44:59,434] {logging_mixin.py:104} INFO - [2022-03-18 13:44:59,433] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:44:59,521] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:45:00,615] {logging_mixin.py:104} INFO - [2022-03-18 13:45:00,614] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:45:00,847] {logging_mixin.py:104} INFO - [2022-03-18 13:45:00,847] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:45:00,912] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 1.486 seconds
+[2022-03-18 13:45:31,674] {scheduler_job.py:182} INFO - Started process (PID=10823) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:45:31,678] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:45:31,679] {logging_mixin.py:104} INFO - [2022-03-18 13:45:31,679] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:45:31,731] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:45:31,795] {logging_mixin.py:104} INFO - [2022-03-18 13:45:31,795] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:45:31,839] {logging_mixin.py:104} INFO - [2022-03-18 13:45:31,839] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:45:31,874] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.208 seconds
+[2022-03-18 13:46:02,003] {scheduler_job.py:182} INFO - Started process (PID=11082) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:46:02,006] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:46:02,007] {logging_mixin.py:104} INFO - [2022-03-18 13:46:02,007] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:46:02,045] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:46:02,367] {logging_mixin.py:104} INFO - [2022-03-18 13:46:02,366] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:46:02,466] {logging_mixin.py:104} INFO - [2022-03-18 13:46:02,466] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:46:02,491] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.495 seconds
+[2022-03-18 13:46:32,686] {scheduler_job.py:182} INFO - Started process (PID=11341) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:46:32,688] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:46:32,690] {logging_mixin.py:104} INFO - [2022-03-18 13:46:32,689] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:46:32,745] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:46:33,081] {logging_mixin.py:104} INFO - [2022-03-18 13:46:33,081] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:46:33,191] {logging_mixin.py:104} INFO - [2022-03-18 13:46:33,191] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:46:33,222] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.546 seconds
+[2022-03-18 13:47:03,352] {scheduler_job.py:182} INFO - Started process (PID=11543) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:47:03,354] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:47:03,355] {logging_mixin.py:104} INFO - [2022-03-18 13:47:03,355] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:47:03,380] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:47:03,716] {logging_mixin.py:104} INFO - [2022-03-18 13:47:03,716] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:47:03,805] {logging_mixin.py:104} INFO - [2022-03-18 13:47:03,805] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:47:03,832] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.484 seconds
+[2022-03-18 13:47:33,898] {scheduler_job.py:182} INFO - Started process (PID=11648) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:47:33,900] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:47:33,900] {logging_mixin.py:104} INFO - [2022-03-18 13:47:33,900] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:47:33,925] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:47:34,473] {logging_mixin.py:104} INFO - [2022-03-18 13:47:34,473] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:47:34,545] {logging_mixin.py:104} INFO - [2022-03-18 13:47:34,545] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:47:34,611] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.717 seconds
+[2022-03-18 13:48:05,381] {scheduler_job.py:182} INFO - Started process (PID=11893) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:48:05,383] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:48:05,384] {logging_mixin.py:104} INFO - [2022-03-18 13:48:05,383] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:48:05,416] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:48:05,885] {logging_mixin.py:104} INFO - [2022-03-18 13:48:05,884] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:48:05,901] {logging_mixin.py:104} INFO - [2022-03-18 13:48:05,901] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:48:05,925] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.549 seconds
+[2022-03-18 13:48:36,562] {scheduler_job.py:182} INFO - Started process (PID=12724) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:48:36,563] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:48:36,564] {logging_mixin.py:104} INFO - [2022-03-18 13:48:36,563] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:48:36,590] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:48:37,029] {logging_mixin.py:104} INFO - [2022-03-18 13:48:37,029] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:48:37,047] {logging_mixin.py:104} INFO - [2022-03-18 13:48:37,047] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:48:37,106] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.548 seconds
+[2022-03-18 13:49:09,704] {scheduler_job.py:182} INFO - Started process (PID=13060) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:49:09,707] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:49:09,709] {logging_mixin.py:104} INFO - [2022-03-18 13:49:09,709] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:49:09,795] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:49:10,889] {logging_mixin.py:104} INFO - [2022-03-18 13:49:10,889] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:49:10,988] {logging_mixin.py:104} INFO - [2022-03-18 13:49:10,987] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:49:11,044] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 1.370 seconds
+[2022-03-18 13:49:41,889] {scheduler_job.py:182} INFO - Started process (PID=13148) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:49:41,891] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:49:41,892] {logging_mixin.py:104} INFO - [2022-03-18 13:49:41,892] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:49:41,934] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:49:42,528] {logging_mixin.py:104} INFO - [2022-03-18 13:49:42,527] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:49:42,554] {logging_mixin.py:104} INFO - [2022-03-18 13:49:42,553] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:49:42,583] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.698 seconds
+[2022-03-18 13:50:12,702] {scheduler_job.py:182} INFO - Started process (PID=13266) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:50:12,704] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:50:12,706] {logging_mixin.py:104} INFO - [2022-03-18 13:50:12,705] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:50:12,769] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:50:13,604] {logging_mixin.py:104} INFO - [2022-03-18 13:50:13,603] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:50:13,636] {logging_mixin.py:104} INFO - [2022-03-18 13:50:13,636] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:50:13,704] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 1.020 seconds
+[2022-03-18 13:50:43,781] {scheduler_job.py:182} INFO - Started process (PID=13368) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:50:43,783] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:50:43,784] {logging_mixin.py:104} INFO - [2022-03-18 13:50:43,784] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:50:43,832] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:50:44,214] {logging_mixin.py:104} INFO - [2022-03-18 13:50:44,213] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:50:44,228] {logging_mixin.py:104} INFO - [2022-03-18 13:50:44,228] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:50:44,278] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.503 seconds
+[2022-03-18 13:51:14,352] {scheduler_job.py:182} INFO - Started process (PID=13442) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:51:14,354] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:51:14,356] {logging_mixin.py:104} INFO - [2022-03-18 13:51:14,356] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:51:14,393] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:51:14,868] {logging_mixin.py:104} INFO - [2022-03-18 13:51:14,868] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:51:14,892] {logging_mixin.py:104} INFO - [2022-03-18 13:51:14,892] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:51:14,939] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.592 seconds
+[2022-03-18 13:51:44,987] {scheduler_job.py:182} INFO - Started process (PID=13535) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:51:44,989] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:51:44,990] {logging_mixin.py:104} INFO - [2022-03-18 13:51:44,990] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:51:45,052] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:51:45,809] {logging_mixin.py:104} INFO - [2022-03-18 13:51:45,808] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:51:45,837] {logging_mixin.py:104} INFO - [2022-03-18 13:51:45,837] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:51:45,865] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.890 seconds
+[2022-03-18 13:52:16,483] {scheduler_job.py:182} INFO - Started process (PID=13884) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:52:16,489] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:52:16,491] {logging_mixin.py:104} INFO - [2022-03-18 13:52:16,491] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:52:16,544] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:52:17,293] {logging_mixin.py:104} INFO - [2022-03-18 13:52:17,293] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:52:17,317] {logging_mixin.py:104} INFO - [2022-03-18 13:52:17,317] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:52:17,348] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.874 seconds
+[2022-03-18 13:52:47,543] {scheduler_job.py:182} INFO - Started process (PID=14043) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:52:47,544] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:52:47,545] {logging_mixin.py:104} INFO - [2022-03-18 13:52:47,545] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:52:47,569] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:52:47,937] {logging_mixin.py:104} INFO - [2022-03-18 13:52:47,937] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:52:47,952] {logging_mixin.py:104} INFO - [2022-03-18 13:52:47,952] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:52:47,979] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.439 seconds
+[2022-03-18 13:53:18,832] {scheduler_job.py:182} INFO - Started process (PID=14147) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:53:18,835] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:53:18,837] {logging_mixin.py:104} INFO - [2022-03-18 13:53:18,837] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:53:18,875] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:53:19,390] {logging_mixin.py:104} INFO - [2022-03-18 13:53:19,389] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:53:19,409] {logging_mixin.py:104} INFO - [2022-03-18 13:53:19,409] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:53:19,464] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.638 seconds
+[2022-03-18 13:53:50,277] {scheduler_job.py:182} INFO - Started process (PID=14316) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:53:50,280] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:53:50,281] {logging_mixin.py:104} INFO - [2022-03-18 13:53:50,281] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:53:50,319] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:53:50,866] {logging_mixin.py:104} INFO - [2022-03-18 13:53:50,865] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:53:50,888] {logging_mixin.py:104} INFO - [2022-03-18 13:53:50,888] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:53:50,912] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.639 seconds
+[2022-03-18 13:54:21,483] {scheduler_job.py:182} INFO - Started process (PID=14390) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:54:21,484] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:54:21,485] {logging_mixin.py:104} INFO - [2022-03-18 13:54:21,485] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:54:21,509] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:54:21,893] {logging_mixin.py:104} INFO - [2022-03-18 13:54:21,893] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:54:21,909] {logging_mixin.py:104} INFO - [2022-03-18 13:54:21,909] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:54:21,931] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.452 seconds
+[2022-03-18 13:54:52,809] {scheduler_job.py:182} INFO - Started process (PID=14519) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:54:52,812] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:54:52,814] {logging_mixin.py:104} INFO - [2022-03-18 13:54:52,814] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:54:52,847] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:54:53,305] {logging_mixin.py:104} INFO - [2022-03-18 13:54:53,305] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:54:53,324] {logging_mixin.py:104} INFO - [2022-03-18 13:54:53,324] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:54:53,399] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.595 seconds
+[2022-03-18 13:55:23,939] {scheduler_job.py:182} INFO - Started process (PID=14626) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:55:23,941] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:55:23,942] {logging_mixin.py:104} INFO - [2022-03-18 13:55:23,942] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:55:23,976] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:55:24,019] {logging_mixin.py:104} INFO - [2022-03-18 13:55:24,019] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:55:24,041] {logging_mixin.py:104} INFO - [2022-03-18 13:55:24,041] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:55:24,062] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.129 seconds
+[2022-03-18 13:55:54,851] {scheduler_job.py:182} INFO - Started process (PID=14712) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:55:54,852] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:55:54,853] {logging_mixin.py:104} INFO - [2022-03-18 13:55:54,853] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:55:54,877] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:55:55,237] {logging_mixin.py:104} INFO - [2022-03-18 13:55:55,237] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:55:55,252] {logging_mixin.py:104} INFO - [2022-03-18 13:55:55,252] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:55:55,275] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.428 seconds
+[2022-03-18 13:56:25,727] {scheduler_job.py:182} INFO - Started process (PID=14784) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:56:25,728] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:56:25,729] {logging_mixin.py:104} INFO - [2022-03-18 13:56:25,728] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:56:25,753] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:56:26,160] {logging_mixin.py:104} INFO - [2022-03-18 13:56:26,160] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:56:26,174] {logging_mixin.py:104} INFO - [2022-03-18 13:56:26,174] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:56:26,195] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.472 seconds
+[2022-03-18 13:56:56,500] {scheduler_job.py:182} INFO - Started process (PID=14867) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:56:56,502] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:56:56,503] {logging_mixin.py:104} INFO - [2022-03-18 13:56:56,502] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:56:56,527] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:56:56,869] {logging_mixin.py:104} INFO - [2022-03-18 13:56:56,869] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:56:56,883] {logging_mixin.py:104} INFO - [2022-03-18 13:56:56,883] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:56:56,916] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.420 seconds
+[2022-03-18 13:57:27,638] {scheduler_job.py:182} INFO - Started process (PID=14942) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:57:27,639] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:57:27,640] {logging_mixin.py:104} INFO - [2022-03-18 13:57:27,640] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:57:27,664] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:57:28,222] {logging_mixin.py:104} INFO - [2022-03-18 13:57:28,221] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:57:28,242] {logging_mixin.py:104} INFO - [2022-03-18 13:57:28,242] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:57:28,289] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.654 seconds
+[2022-03-18 13:57:58,795] {scheduler_job.py:182} INFO - Started process (PID=15015) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:57:58,797] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:57:58,797] {logging_mixin.py:104} INFO - [2022-03-18 13:57:58,797] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:57:58,822] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:57:59,272] {logging_mixin.py:104} INFO - [2022-03-18 13:57:59,272] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:57:59,289] {logging_mixin.py:104} INFO - [2022-03-18 13:57:59,289] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:57:59,352] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.561 seconds
+[2022-03-18 13:58:29,505] {scheduler_job.py:182} INFO - Started process (PID=15087) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:58:29,506] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:58:29,507] {logging_mixin.py:104} INFO - [2022-03-18 13:58:29,507] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:58:29,533] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:58:29,869] {logging_mixin.py:104} INFO - [2022-03-18 13:58:29,869] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:58:29,884] {logging_mixin.py:104} INFO - [2022-03-18 13:58:29,884] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:58:29,929] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.428 seconds
+[2022-03-18 13:59:00,727] {scheduler_job.py:182} INFO - Started process (PID=15244) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:59:00,735] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:59:00,735] {logging_mixin.py:104} INFO - [2022-03-18 13:59:00,735] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:59:00,780] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:59:01,498] {logging_mixin.py:104} INFO - [2022-03-18 13:59:01,498] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:59:01,516] {logging_mixin.py:104} INFO - [2022-03-18 13:59:01,515] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:59:01,545] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.825 seconds
+[2022-03-18 13:59:31,643] {scheduler_job.py:182} INFO - Started process (PID=15376) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:59:31,645] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 13:59:31,647] {logging_mixin.py:104} INFO - [2022-03-18 13:59:31,646] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:59:31,676] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 13:59:32,256] {logging_mixin.py:104} INFO - [2022-03-18 13:59:32,256] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:59:32,279] {logging_mixin.py:104} INFO - [2022-03-18 13:59:32,279] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 13:59:32,387] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.748 seconds
+[2022-03-18 14:00:02,801] {scheduler_job.py:182} INFO - Started process (PID=15454) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 14:00:02,802] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 14:00:02,803] {logging_mixin.py:104} INFO - [2022-03-18 14:00:02,803] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 14:00:02,826] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 14:00:02,858] {logging_mixin.py:104} INFO - [2022-03-18 14:00:02,858] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 14:00:02,878] {logging_mixin.py:104} INFO - [2022-03-18 14:00:02,877] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 14:00:02,930] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.133 seconds
+[2022-03-18 14:00:32,997] {scheduler_job.py:182} INFO - Started process (PID=15560) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 14:00:32,998] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 14:00:32,999] {logging_mixin.py:104} INFO - [2022-03-18 14:00:32,999] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 14:00:33,022] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 14:00:33,059] {logging_mixin.py:104} INFO - [2022-03-18 14:00:33,059] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 14:00:33,083] {logging_mixin.py:104} INFO - [2022-03-18 14:00:33,083] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 14:00:33,112] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.119 seconds
+[2022-03-18 14:01:03,459] {scheduler_job.py:182} INFO - Started process (PID=15639) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 14:01:03,460] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 14:01:03,461] {logging_mixin.py:104} INFO - [2022-03-18 14:01:03,461] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 14:01:03,484] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 14:01:03,826] {logging_mixin.py:104} INFO - [2022-03-18 14:01:03,826] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 14:01:03,843] {logging_mixin.py:104} INFO - [2022-03-18 14:01:03,842] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 14:01:03,894] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.439 seconds
+[2022-03-18 14:01:34,554] {scheduler_job.py:182} INFO - Started process (PID=15719) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 14:01:34,555] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 14:01:34,556] {logging_mixin.py:104} INFO - [2022-03-18 14:01:34,556] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 14:01:34,580] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 14:01:34,923] {logging_mixin.py:104} INFO - [2022-03-18 14:01:34,923] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 14:01:34,938] {logging_mixin.py:104} INFO - [2022-03-18 14:01:34,938] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 14:01:34,955] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.406 seconds
+[2022-03-18 14:02:05,025] {scheduler_job.py:182} INFO - Started process (PID=15819) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 14:02:05,027] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 14:02:05,027] {logging_mixin.py:104} INFO - [2022-03-18 14:02:05,027] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 14:02:05,049] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 14:02:05,408] {logging_mixin.py:104} INFO - [2022-03-18 14:02:05,407] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 14:02:05,422] {logging_mixin.py:104} INFO - [2022-03-18 14:02:05,421] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 14:02:05,443] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.421 seconds
+[2022-03-18 14:02:35,676] {scheduler_job.py:182} INFO - Started process (PID=15898) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 14:02:35,678] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-18 14:02:35,679] {logging_mixin.py:104} INFO - [2022-03-18 14:02:35,679] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 14:02:35,707] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-18 14:02:36,049] {logging_mixin.py:104} INFO - [2022-03-18 14:02:36,049] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 14:02:36,066] {logging_mixin.py:104} INFO - [2022-03-18 14:02:36,066] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-18 14:02:36,119] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_dag_decorator.py took 0.448 seconds

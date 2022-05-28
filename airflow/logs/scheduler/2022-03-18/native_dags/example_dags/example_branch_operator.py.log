@@ -1,0 +1,1022 @@
+[2022-03-18 12:28:12,769] {scheduler_job.py:182} INFO - Started process (PID=7066) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:28:12,771] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 12:28:12,772] {logging_mixin.py:104} INFO - [2022-03-18 12:28:12,772] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:28:12,802] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:28:13,256] {logging_mixin.py:104} INFO - [2022-03-18 12:28:13,256] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:28:13,273] {logging_mixin.py:104} INFO - [2022-03-18 12:28:13,273] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 12:28:13,383] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.618 seconds
+[2022-03-18 12:28:59,602] {scheduler_job.py:182} INFO - Started process (PID=7310) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:28:59,604] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 12:28:59,605] {logging_mixin.py:104} INFO - [2022-03-18 12:28:59,605] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:28:59,627] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:28:59,654] {logging_mixin.py:104} INFO - [2022-03-18 12:28:59,654] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:28:59,675] {logging_mixin.py:104} INFO - [2022-03-18 12:28:59,675] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 12:28:59,778] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.179 seconds
+[2022-03-18 12:29:50,446] {scheduler_job.py:182} INFO - Started process (PID=7388) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:29:50,447] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 12:29:50,448] {logging_mixin.py:104} INFO - [2022-03-18 12:29:50,448] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:29:50,469] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:29:50,488] {logging_mixin.py:104} INFO - [2022-03-18 12:29:50,488] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:29:50,507] {logging_mixin.py:104} INFO - [2022-03-18 12:29:50,507] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 12:29:50,600] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.157 seconds
+[2022-03-18 12:30:38,375] {scheduler_job.py:182} INFO - Started process (PID=7519) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:30:38,378] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 12:30:38,379] {logging_mixin.py:104} INFO - [2022-03-18 12:30:38,379] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:30:38,444] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:30:38,500] {logging_mixin.py:104} INFO - [2022-03-18 12:30:38,500] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:30:38,543] {logging_mixin.py:104} INFO - [2022-03-18 12:30:38,543] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 12:30:38,666] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.296 seconds
+[2022-03-18 12:31:35,181] {scheduler_job.py:182} INFO - Started process (PID=7724) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:31:35,182] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 12:31:35,183] {logging_mixin.py:104} INFO - [2022-03-18 12:31:35,183] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:31:35,208] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:31:35,227] {logging_mixin.py:104} INFO - [2022-03-18 12:31:35,227] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:31:35,248] {logging_mixin.py:104} INFO - [2022-03-18 12:31:35,248] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 12:31:35,331] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.158 seconds
+[2022-03-18 12:32:47,179] {scheduler_job.py:182} INFO - Started process (PID=8390) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:32:47,180] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 12:32:47,183] {logging_mixin.py:104} INFO - [2022-03-18 12:32:47,182] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:32:47,213] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:32:47,233] {logging_mixin.py:104} INFO - [2022-03-18 12:32:47,232] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:32:47,264] {logging_mixin.py:104} INFO - [2022-03-18 12:32:47,263] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 12:32:47,375] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.203 seconds
+[2022-03-18 12:33:43,870] {scheduler_job.py:182} INFO - Started process (PID=8506) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:33:43,871] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 12:33:43,872] {logging_mixin.py:104} INFO - [2022-03-18 12:33:43,872] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:33:43,909] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:33:43,946] {logging_mixin.py:104} INFO - [2022-03-18 12:33:43,946] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:33:43,996] {logging_mixin.py:104} INFO - [2022-03-18 12:33:43,995] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 12:33:44,101] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.235 seconds
+[2022-03-18 12:34:40,632] {scheduler_job.py:182} INFO - Started process (PID=8555) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:34:40,634] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 12:34:40,635] {logging_mixin.py:104} INFO - [2022-03-18 12:34:40,635] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:34:40,664] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:34:40,685] {logging_mixin.py:104} INFO - [2022-03-18 12:34:40,684] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:34:40,705] {logging_mixin.py:104} INFO - [2022-03-18 12:34:40,705] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 12:34:40,831] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.203 seconds
+[2022-03-18 12:35:22,845] {scheduler_job.py:182} INFO - Started process (PID=10024) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:35:22,846] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 12:35:22,847] {logging_mixin.py:104} INFO - [2022-03-18 12:35:22,847] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:35:22,875] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:35:22,901] {logging_mixin.py:104} INFO - [2022-03-18 12:35:22,901] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:35:22,929] {logging_mixin.py:104} INFO - [2022-03-18 12:35:22,929] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 12:35:23,000] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.160 seconds
+[2022-03-18 12:36:20,230] {scheduler_job.py:182} INFO - Started process (PID=10183) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:36:20,231] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 12:36:20,232] {logging_mixin.py:104} INFO - [2022-03-18 12:36:20,231] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:36:20,249] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:36:20,266] {logging_mixin.py:104} INFO - [2022-03-18 12:36:20,266] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:36:20,285] {logging_mixin.py:104} INFO - [2022-03-18 12:36:20,284] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 12:36:20,392] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.165 seconds
+[2022-03-18 12:37:28,648] {scheduler_job.py:182} INFO - Started process (PID=13084) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:37:28,650] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 12:37:28,651] {logging_mixin.py:104} INFO - [2022-03-18 12:37:28,651] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:37:28,678] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:37:28,704] {logging_mixin.py:104} INFO - [2022-03-18 12:37:28,704] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:37:28,734] {logging_mixin.py:104} INFO - [2022-03-18 12:37:28,734] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 12:37:28,889] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.245 seconds
+[2022-03-18 12:38:22,790] {scheduler_job.py:182} INFO - Started process (PID=14039) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:38:22,791] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 12:38:22,792] {logging_mixin.py:104} INFO - [2022-03-18 12:38:22,792] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:38:22,811] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:38:22,830] {logging_mixin.py:104} INFO - [2022-03-18 12:38:22,830] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:38:22,851] {logging_mixin.py:104} INFO - [2022-03-18 12:38:22,851] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 12:38:22,967] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.181 seconds
+[2022-03-18 12:39:09,720] {scheduler_job.py:182} INFO - Started process (PID=14190) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:39:09,721] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 12:39:09,722] {logging_mixin.py:104} INFO - [2022-03-18 12:39:09,722] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:39:09,740] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:39:09,759] {logging_mixin.py:104} INFO - [2022-03-18 12:39:09,759] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:39:09,779] {logging_mixin.py:104} INFO - [2022-03-18 12:39:09,779] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 12:39:09,894] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.177 seconds
+[2022-03-18 12:39:53,532] {scheduler_job.py:182} INFO - Started process (PID=14232) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:39:53,533] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 12:39:53,533] {logging_mixin.py:104} INFO - [2022-03-18 12:39:53,533] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:39:53,552] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:39:53,574] {logging_mixin.py:104} INFO - [2022-03-18 12:39:53,574] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:39:53,599] {logging_mixin.py:104} INFO - [2022-03-18 12:39:53,599] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 12:39:53,693] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.164 seconds
+[2022-03-18 12:40:36,634] {scheduler_job.py:182} INFO - Started process (PID=14324) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:40:36,635] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 12:40:36,636] {logging_mixin.py:104} INFO - [2022-03-18 12:40:36,636] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:40:36,653] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:40:36,672] {logging_mixin.py:104} INFO - [2022-03-18 12:40:36,672] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:40:36,693] {logging_mixin.py:104} INFO - [2022-03-18 12:40:36,693] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 12:40:36,816] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.185 seconds
+[2022-03-18 12:41:20,235] {scheduler_job.py:182} INFO - Started process (PID=14497) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:41:20,236] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 12:41:20,237] {logging_mixin.py:104} INFO - [2022-03-18 12:41:20,237] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:41:20,255] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:41:20,274] {logging_mixin.py:104} INFO - [2022-03-18 12:41:20,274] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:41:20,295] {logging_mixin.py:104} INFO - [2022-03-18 12:41:20,295] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 12:41:20,425] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.193 seconds
+[2022-03-18 12:42:05,656] {scheduler_job.py:182} INFO - Started process (PID=14781) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:42:05,657] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 12:42:05,658] {logging_mixin.py:104} INFO - [2022-03-18 12:42:05,658] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:42:05,676] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:42:05,692] {logging_mixin.py:104} INFO - [2022-03-18 12:42:05,692] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:42:05,710] {logging_mixin.py:104} INFO - [2022-03-18 12:42:05,710] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 12:42:05,809] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.158 seconds
+[2022-03-18 12:43:09,421] {scheduler_job.py:182} INFO - Started process (PID=14921) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:43:09,425] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 12:43:09,427] {logging_mixin.py:104} INFO - [2022-03-18 12:43:09,427] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:43:09,479] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:43:09,535] {logging_mixin.py:104} INFO - [2022-03-18 12:43:09,535] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:43:09,583] {logging_mixin.py:104} INFO - [2022-03-18 12:43:09,583] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 12:43:09,704] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.298 seconds
+[2022-03-18 12:43:55,428] {scheduler_job.py:182} INFO - Started process (PID=14977) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:43:55,429] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 12:43:55,430] {logging_mixin.py:104} INFO - [2022-03-18 12:43:55,430] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:43:55,450] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:43:55,470] {logging_mixin.py:104} INFO - [2022-03-18 12:43:55,470] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:43:55,490] {logging_mixin.py:104} INFO - [2022-03-18 12:43:55,490] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 12:43:55,599] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.174 seconds
+[2022-03-18 12:44:36,173] {scheduler_job.py:182} INFO - Started process (PID=15022) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:44:36,174] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 12:44:36,175] {logging_mixin.py:104} INFO - [2022-03-18 12:44:36,175] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:44:36,193] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:44:36,209] {logging_mixin.py:104} INFO - [2022-03-18 12:44:36,209] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:44:36,227] {logging_mixin.py:104} INFO - [2022-03-18 12:44:36,227] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 12:44:36,322] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.152 seconds
+[2022-03-18 12:45:19,151] {scheduler_job.py:182} INFO - Started process (PID=15100) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:45:19,152] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 12:45:19,153] {logging_mixin.py:104} INFO - [2022-03-18 12:45:19,153] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:45:19,173] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:45:19,194] {logging_mixin.py:104} INFO - [2022-03-18 12:45:19,194] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:45:19,221] {logging_mixin.py:104} INFO - [2022-03-18 12:45:19,221] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 12:45:19,321] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.173 seconds
+[2022-03-18 12:46:14,748] {scheduler_job.py:182} INFO - Started process (PID=15212) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:46:14,749] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 12:46:14,752] {logging_mixin.py:104} INFO - [2022-03-18 12:46:14,752] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:46:14,860] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:46:14,927] {logging_mixin.py:104} INFO - [2022-03-18 12:46:14,927] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:46:15,021] {logging_mixin.py:104} INFO - [2022-03-18 12:46:15,021] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 12:46:15,165] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.425 seconds
+[2022-03-18 12:47:03,840] {scheduler_job.py:182} INFO - Started process (PID=15372) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:47:03,843] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 12:47:03,847] {logging_mixin.py:104} INFO - [2022-03-18 12:47:03,847] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:47:03,907] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:47:03,959] {logging_mixin.py:104} INFO - [2022-03-18 12:47:03,959] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:47:04,007] {logging_mixin.py:104} INFO - [2022-03-18 12:47:04,007] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 12:47:04,155] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.320 seconds
+[2022-03-18 12:52:55,343] {scheduler_job.py:182} INFO - Started process (PID=16615) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:52:55,345] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 12:52:55,348] {logging_mixin.py:104} INFO - [2022-03-18 12:52:55,347] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:52:55,373] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:52:55,424] {logging_mixin.py:104} INFO - [2022-03-18 12:52:55,424] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:52:55,460] {logging_mixin.py:104} INFO - [2022-03-18 12:52:55,460] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 12:52:55,487] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.149 seconds
+[2022-03-18 12:53:25,877] {scheduler_job.py:182} INFO - Started process (PID=17210) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:53:25,878] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 12:53:25,879] {logging_mixin.py:104} INFO - [2022-03-18 12:53:25,879] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:53:25,905] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:53:25,942] {logging_mixin.py:104} INFO - [2022-03-18 12:53:25,941] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:53:25,973] {logging_mixin.py:104} INFO - [2022-03-18 12:53:25,973] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 12:53:25,997] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.125 seconds
+[2022-03-18 12:53:58,277] {scheduler_job.py:182} INFO - Started process (PID=18096) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:53:58,279] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 12:53:58,283] {logging_mixin.py:104} INFO - [2022-03-18 12:53:58,283] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:53:58,336] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:53:58,414] {logging_mixin.py:104} INFO - [2022-03-18 12:53:58,413] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:53:58,472] {logging_mixin.py:104} INFO - [2022-03-18 12:53:58,471] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 12:53:58,531] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.270 seconds
+[2022-03-18 12:54:29,642] {scheduler_job.py:182} INFO - Started process (PID=18367) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:54:29,645] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 12:54:29,646] {logging_mixin.py:104} INFO - [2022-03-18 12:54:29,646] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:54:29,690] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:54:29,771] {logging_mixin.py:104} INFO - [2022-03-18 12:54:29,771] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:54:29,828] {logging_mixin.py:104} INFO - [2022-03-18 12:54:29,828] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 12:54:29,862] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.227 seconds
+[2022-03-18 12:55:00,213] {scheduler_job.py:182} INFO - Started process (PID=18574) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:55:00,214] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 12:55:00,215] {logging_mixin.py:104} INFO - [2022-03-18 12:55:00,215] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:55:00,241] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:55:00,278] {logging_mixin.py:104} INFO - [2022-03-18 12:55:00,277] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:55:00,302] {logging_mixin.py:104} INFO - [2022-03-18 12:55:00,302] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 12:55:00,349] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.141 seconds
+[2022-03-18 12:55:30,443] {scheduler_job.py:182} INFO - Started process (PID=19003) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:55:30,445] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 12:55:30,446] {logging_mixin.py:104} INFO - [2022-03-18 12:55:30,446] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:55:30,463] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:55:30,500] {logging_mixin.py:104} INFO - [2022-03-18 12:55:30,499] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:55:30,525] {logging_mixin.py:104} INFO - [2022-03-18 12:55:30,525] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 12:55:30,549] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.111 seconds
+[2022-03-18 12:56:00,596] {scheduler_job.py:182} INFO - Started process (PID=19389) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:56:00,597] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 12:56:00,598] {logging_mixin.py:104} INFO - [2022-03-18 12:56:00,598] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:56:00,616] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:56:00,648] {logging_mixin.py:104} INFO - [2022-03-18 12:56:00,648] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:56:00,670] {logging_mixin.py:104} INFO - [2022-03-18 12:56:00,670] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 12:56:00,694] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.103 seconds
+[2022-03-18 12:56:31,105] {scheduler_job.py:182} INFO - Started process (PID=20085) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:56:31,106] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 12:56:31,107] {logging_mixin.py:104} INFO - [2022-03-18 12:56:31,107] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:56:31,128] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:56:31,164] {logging_mixin.py:104} INFO - [2022-03-18 12:56:31,164] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:56:31,187] {logging_mixin.py:104} INFO - [2022-03-18 12:56:31,187] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 12:56:31,203] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.103 seconds
+[2022-03-18 12:57:03,777] {scheduler_job.py:182} INFO - Started process (PID=20923) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:57:03,779] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 12:57:03,791] {logging_mixin.py:104} INFO - [2022-03-18 12:57:03,781] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:57:03,832] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:57:03,887] {logging_mixin.py:104} INFO - [2022-03-18 12:57:03,887] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:57:03,912] {logging_mixin.py:104} INFO - [2022-03-18 12:57:03,912] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 12:57:03,941] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.183 seconds
+[2022-03-18 12:57:34,113] {scheduler_job.py:182} INFO - Started process (PID=21190) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:57:34,116] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 12:57:34,117] {logging_mixin.py:104} INFO - [2022-03-18 12:57:34,117] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:57:34,137] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:57:34,169] {logging_mixin.py:104} INFO - [2022-03-18 12:57:34,169] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:57:34,192] {logging_mixin.py:104} INFO - [2022-03-18 12:57:34,192] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 12:57:34,228] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.120 seconds
+[2022-03-18 12:58:04,375] {scheduler_job.py:182} INFO - Started process (PID=21534) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:58:04,377] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 12:58:04,378] {logging_mixin.py:104} INFO - [2022-03-18 12:58:04,378] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:58:04,402] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:58:04,438] {logging_mixin.py:104} INFO - [2022-03-18 12:58:04,438] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:58:04,467] {logging_mixin.py:104} INFO - [2022-03-18 12:58:04,466] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 12:58:04,484] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.114 seconds
+[2022-03-18 12:58:35,903] {scheduler_job.py:182} INFO - Started process (PID=21741) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:58:35,905] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 12:58:35,906] {logging_mixin.py:104} INFO - [2022-03-18 12:58:35,906] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:58:35,928] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:58:35,966] {logging_mixin.py:104} INFO - [2022-03-18 12:58:35,966] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:58:35,999] {logging_mixin.py:104} INFO - [2022-03-18 12:58:35,998] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 12:58:36,022] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.123 seconds
+[2022-03-18 12:59:06,443] {scheduler_job.py:182} INFO - Started process (PID=21944) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:59:06,444] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 12:59:06,445] {logging_mixin.py:104} INFO - [2022-03-18 12:59:06,445] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:59:06,465] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:59:06,499] {logging_mixin.py:104} INFO - [2022-03-18 12:59:06,499] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:59:06,523] {logging_mixin.py:104} INFO - [2022-03-18 12:59:06,523] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 12:59:06,542] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.104 seconds
+[2022-03-18 12:59:37,420] {scheduler_job.py:182} INFO - Started process (PID=22153) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:59:37,422] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 12:59:37,423] {logging_mixin.py:104} INFO - [2022-03-18 12:59:37,423] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:59:37,447] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 12:59:37,479] {logging_mixin.py:104} INFO - [2022-03-18 12:59:37,479] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:59:37,500] {logging_mixin.py:104} INFO - [2022-03-18 12:59:37,500] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 12:59:37,517] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.103 seconds
+[2022-03-18 13:00:08,923] {scheduler_job.py:182} INFO - Started process (PID=22360) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:00:08,924] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:00:08,925] {logging_mixin.py:104} INFO - [2022-03-18 13:00:08,925] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:00:08,942] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:00:08,978] {logging_mixin.py:104} INFO - [2022-03-18 13:00:08,978] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:00:09,002] {logging_mixin.py:104} INFO - [2022-03-18 13:00:09,001] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:00:09,024] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.104 seconds
+[2022-03-18 13:00:40,179] {scheduler_job.py:182} INFO - Started process (PID=22597) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:00:40,180] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:00:40,181] {logging_mixin.py:104} INFO - [2022-03-18 13:00:40,181] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:00:40,207] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:00:40,247] {logging_mixin.py:104} INFO - [2022-03-18 13:00:40,247] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:00:40,275] {logging_mixin.py:104} INFO - [2022-03-18 13:00:40,275] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:00:40,297] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.122 seconds
+[2022-03-18 13:01:10,994] {scheduler_job.py:182} INFO - Started process (PID=22801) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:01:10,995] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:01:10,996] {logging_mixin.py:104} INFO - [2022-03-18 13:01:10,996] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:01:11,014] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:01:11,047] {logging_mixin.py:104} INFO - [2022-03-18 13:01:11,046] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:01:11,070] {logging_mixin.py:104} INFO - [2022-03-18 13:01:11,070] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:01:11,093] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.103 seconds
+[2022-03-18 13:01:41,253] {scheduler_job.py:182} INFO - Started process (PID=23000) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:01:41,254] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:01:41,255] {logging_mixin.py:104} INFO - [2022-03-18 13:01:41,254] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:01:41,273] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:01:41,305] {logging_mixin.py:104} INFO - [2022-03-18 13:01:41,305] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:01:41,329] {logging_mixin.py:104} INFO - [2022-03-18 13:01:41,328] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:01:41,348] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.099 seconds
+[2022-03-18 13:02:12,069] {scheduler_job.py:182} INFO - Started process (PID=23203) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:02:12,070] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:02:12,071] {logging_mixin.py:104} INFO - [2022-03-18 13:02:12,071] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:02:12,091] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:02:12,127] {logging_mixin.py:104} INFO - [2022-03-18 13:02:12,127] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:02:12,148] {logging_mixin.py:104} INFO - [2022-03-18 13:02:12,148] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:02:12,166] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.102 seconds
+[2022-03-18 13:02:42,565] {scheduler_job.py:182} INFO - Started process (PID=23411) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:02:42,566] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:02:42,567] {logging_mixin.py:104} INFO - [2022-03-18 13:02:42,567] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:02:42,587] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:02:42,623] {logging_mixin.py:104} INFO - [2022-03-18 13:02:42,623] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:02:42,646] {logging_mixin.py:104} INFO - [2022-03-18 13:02:42,646] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:02:42,663] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.103 seconds
+[2022-03-18 13:03:13,295] {scheduler_job.py:182} INFO - Started process (PID=23766) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:03:13,296] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:03:13,297] {logging_mixin.py:104} INFO - [2022-03-18 13:03:13,297] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:03:13,323] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:03:13,354] {logging_mixin.py:104} INFO - [2022-03-18 13:03:13,354] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:03:13,380] {logging_mixin.py:104} INFO - [2022-03-18 13:03:13,380] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:03:13,404] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.115 seconds
+[2022-03-18 13:03:44,196] {scheduler_job.py:182} INFO - Started process (PID=24001) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:03:44,197] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:03:44,198] {logging_mixin.py:104} INFO - [2022-03-18 13:03:44,198] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:03:44,216] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:03:44,245] {logging_mixin.py:104} INFO - [2022-03-18 13:03:44,245] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:03:44,267] {logging_mixin.py:104} INFO - [2022-03-18 13:03:44,267] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:03:44,288] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.095 seconds
+[2022-03-18 13:04:14,687] {scheduler_job.py:182} INFO - Started process (PID=24201) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:04:14,689] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:04:14,690] {logging_mixin.py:104} INFO - [2022-03-18 13:04:14,690] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:04:14,713] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:04:14,746] {logging_mixin.py:104} INFO - [2022-03-18 13:04:14,746] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:04:14,769] {logging_mixin.py:104} INFO - [2022-03-18 13:04:14,768] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:04:14,784] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.102 seconds
+[2022-03-18 13:04:46,064] {scheduler_job.py:182} INFO - Started process (PID=24406) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:04:46,065] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:04:46,066] {logging_mixin.py:104} INFO - [2022-03-18 13:04:46,066] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:04:46,084] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:04:46,117] {logging_mixin.py:104} INFO - [2022-03-18 13:04:46,116] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:04:46,142] {logging_mixin.py:104} INFO - [2022-03-18 13:04:46,142] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:04:46,167] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.106 seconds
+[2022-03-18 13:05:16,822] {scheduler_job.py:182} INFO - Started process (PID=24645) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:05:16,824] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:05:16,825] {logging_mixin.py:104} INFO - [2022-03-18 13:05:16,825] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:05:16,849] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:05:16,884] {logging_mixin.py:104} INFO - [2022-03-18 13:05:16,884] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:05:16,911] {logging_mixin.py:104} INFO - [2022-03-18 13:05:16,911] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:05:16,929] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.112 seconds
+[2022-03-18 13:05:47,927] {scheduler_job.py:182} INFO - Started process (PID=24856) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:05:47,928] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:05:47,929] {logging_mixin.py:104} INFO - [2022-03-18 13:05:47,929] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:05:47,948] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:05:47,987] {logging_mixin.py:104} INFO - [2022-03-18 13:05:47,987] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:05:48,018] {logging_mixin.py:104} INFO - [2022-03-18 13:05:48,018] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:05:48,035] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.111 seconds
+[2022-03-18 13:06:19,592] {scheduler_job.py:182} INFO - Started process (PID=25066) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:06:19,593] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:06:19,594] {logging_mixin.py:104} INFO - [2022-03-18 13:06:19,593] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:06:19,611] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:06:19,641] {logging_mixin.py:104} INFO - [2022-03-18 13:06:19,641] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:06:19,670] {logging_mixin.py:104} INFO - [2022-03-18 13:06:19,669] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:06:19,695] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.107 seconds
+[2022-03-18 13:06:51,693] {scheduler_job.py:182} INFO - Started process (PID=25291) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:06:51,696] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:06:51,698] {logging_mixin.py:104} INFO - [2022-03-18 13:06:51,698] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:06:51,740] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:06:51,807] {logging_mixin.py:104} INFO - [2022-03-18 13:06:51,807] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:06:51,850] {logging_mixin.py:104} INFO - [2022-03-18 13:06:51,849] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:06:51,902] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.216 seconds
+[2022-03-18 13:07:22,605] {scheduler_job.py:182} INFO - Started process (PID=25520) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:07:22,607] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:07:22,609] {logging_mixin.py:104} INFO - [2022-03-18 13:07:22,609] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:07:22,644] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:07:22,708] {logging_mixin.py:104} INFO - [2022-03-18 13:07:22,707] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:07:22,752] {logging_mixin.py:104} INFO - [2022-03-18 13:07:22,752] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:07:22,788] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.195 seconds
+[2022-03-18 13:07:53,998] {scheduler_job.py:182} INFO - Started process (PID=25921) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:07:54,000] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:07:54,003] {logging_mixin.py:104} INFO - [2022-03-18 13:07:54,003] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:07:54,061] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:07:54,140] {logging_mixin.py:104} INFO - [2022-03-18 13:07:54,139] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:07:54,180] {logging_mixin.py:104} INFO - [2022-03-18 13:07:54,180] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:07:54,232] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.244 seconds
+[2022-03-18 13:08:25,312] {scheduler_job.py:182} INFO - Started process (PID=26197) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:08:25,313] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:08:25,314] {logging_mixin.py:104} INFO - [2022-03-18 13:08:25,314] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:08:25,348] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:08:25,422] {logging_mixin.py:104} INFO - [2022-03-18 13:08:25,422] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:08:25,467] {logging_mixin.py:104} INFO - [2022-03-18 13:08:25,466] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:08:25,500] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.198 seconds
+[2022-03-18 13:08:57,008] {scheduler_job.py:182} INFO - Started process (PID=26413) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:08:57,009] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:08:57,011] {logging_mixin.py:104} INFO - [2022-03-18 13:08:57,011] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:08:57,045] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:08:57,102] {logging_mixin.py:104} INFO - [2022-03-18 13:08:57,102] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:08:57,155] {logging_mixin.py:104} INFO - [2022-03-18 13:08:57,155] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:08:57,189] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.187 seconds
+[2022-03-18 13:09:27,853] {scheduler_job.py:182} INFO - Started process (PID=26628) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:09:27,857] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:09:27,859] {logging_mixin.py:104} INFO - [2022-03-18 13:09:27,858] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:09:27,910] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:09:27,981] {logging_mixin.py:104} INFO - [2022-03-18 13:09:27,981] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:09:28,063] {logging_mixin.py:104} INFO - [2022-03-18 13:09:28,063] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:09:28,133] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.293 seconds
+[2022-03-18 13:09:58,416] {scheduler_job.py:182} INFO - Started process (PID=26832) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:09:58,420] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:09:58,421] {logging_mixin.py:104} INFO - [2022-03-18 13:09:58,420] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:09:58,461] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:09:58,526] {logging_mixin.py:104} INFO - [2022-03-18 13:09:58,526] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:09:58,565] {logging_mixin.py:104} INFO - [2022-03-18 13:09:58,564] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:09:58,595] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.185 seconds
+[2022-03-18 13:10:30,127] {scheduler_job.py:182} INFO - Started process (PID=27073) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:10:30,130] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:10:30,131] {logging_mixin.py:104} INFO - [2022-03-18 13:10:30,131] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:10:30,168] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:10:30,228] {logging_mixin.py:104} INFO - [2022-03-18 13:10:30,228] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:10:30,285] {logging_mixin.py:104} INFO - [2022-03-18 13:10:30,285] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:10:30,330] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.211 seconds
+[2022-03-18 13:11:02,037] {scheduler_job.py:182} INFO - Started process (PID=27290) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:11:02,038] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:11:02,039] {logging_mixin.py:104} INFO - [2022-03-18 13:11:02,039] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:11:02,098] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:11:02,177] {logging_mixin.py:104} INFO - [2022-03-18 13:11:02,176] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:11:02,244] {logging_mixin.py:104} INFO - [2022-03-18 13:11:02,244] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:11:02,292] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.267 seconds
+[2022-03-18 13:11:32,565] {scheduler_job.py:182} INFO - Started process (PID=27499) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:11:32,569] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:11:32,571] {logging_mixin.py:104} INFO - [2022-03-18 13:11:32,571] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:11:32,605] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:11:32,692] {logging_mixin.py:104} INFO - [2022-03-18 13:11:32,692] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:11:32,741] {logging_mixin.py:104} INFO - [2022-03-18 13:11:32,740] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:11:32,774] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.218 seconds
+[2022-03-18 13:12:04,595] {scheduler_job.py:182} INFO - Started process (PID=27712) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:12:04,598] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:12:04,599] {logging_mixin.py:104} INFO - [2022-03-18 13:12:04,599] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:12:04,632] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:12:04,691] {logging_mixin.py:104} INFO - [2022-03-18 13:12:04,690] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:12:04,758] {logging_mixin.py:104} INFO - [2022-03-18 13:12:04,758] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:12:04,802] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.216 seconds
+[2022-03-18 13:12:35,286] {scheduler_job.py:182} INFO - Started process (PID=27921) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:12:35,291] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:12:35,295] {logging_mixin.py:104} INFO - [2022-03-18 13:12:35,295] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:12:35,358] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:12:35,441] {logging_mixin.py:104} INFO - [2022-03-18 13:12:35,441] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:12:35,484] {logging_mixin.py:104} INFO - [2022-03-18 13:12:35,484] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:12:35,523] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.246 seconds
+[2022-03-18 13:13:06,648] {scheduler_job.py:182} INFO - Started process (PID=28246) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:13:06,650] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:13:06,651] {logging_mixin.py:104} INFO - [2022-03-18 13:13:06,651] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:13:06,681] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:13:06,748] {logging_mixin.py:104} INFO - [2022-03-18 13:13:06,747] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:13:06,800] {logging_mixin.py:104} INFO - [2022-03-18 13:13:06,799] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:13:06,866] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.226 seconds
+[2022-03-18 13:13:38,029] {scheduler_job.py:182} INFO - Started process (PID=28465) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:13:38,030] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:13:38,031] {logging_mixin.py:104} INFO - [2022-03-18 13:13:38,031] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:13:38,055] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:13:38,102] {logging_mixin.py:104} INFO - [2022-03-18 13:13:38,101] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:13:38,159] {logging_mixin.py:104} INFO - [2022-03-18 13:13:38,159] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:13:38,187] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.163 seconds
+[2022-03-18 13:14:09,583] {scheduler_job.py:182} INFO - Started process (PID=28681) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:14:09,585] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:14:09,586] {logging_mixin.py:104} INFO - [2022-03-18 13:14:09,586] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:14:09,621] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:14:09,687] {logging_mixin.py:104} INFO - [2022-03-18 13:14:09,686] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:14:09,736] {logging_mixin.py:104} INFO - [2022-03-18 13:14:09,736] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:14:09,766] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.195 seconds
+[2022-03-18 13:14:42,883] {scheduler_job.py:182} INFO - Started process (PID=28901) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:14:42,885] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:14:42,886] {logging_mixin.py:104} INFO - [2022-03-18 13:14:42,886] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:14:42,951] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:14:43,005] {logging_mixin.py:104} INFO - [2022-03-18 13:14:43,005] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:14:43,059] {logging_mixin.py:104} INFO - [2022-03-18 13:14:43,059] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:14:43,106] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.246 seconds
+[2022-03-18 13:15:13,673] {scheduler_job.py:182} INFO - Started process (PID=29183) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:15:13,675] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:15:13,676] {logging_mixin.py:104} INFO - [2022-03-18 13:15:13,676] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:15:13,701] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:15:13,733] {logging_mixin.py:104} INFO - [2022-03-18 13:15:13,733] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:15:13,754] {logging_mixin.py:104} INFO - [2022-03-18 13:15:13,754] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:15:13,772] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.104 seconds
+[2022-03-18 13:15:44,064] {scheduler_job.py:182} INFO - Started process (PID=29477) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:15:44,066] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:15:44,076] {logging_mixin.py:104} INFO - [2022-03-18 13:15:44,076] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:15:44,147] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:15:44,262] {logging_mixin.py:104} INFO - [2022-03-18 13:15:44,262] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:15:44,334] {logging_mixin.py:104} INFO - [2022-03-18 13:15:44,334] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:15:44,386] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.328 seconds
+[2022-03-18 13:16:15,693] {scheduler_job.py:182} INFO - Started process (PID=29783) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:16:15,694] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:16:15,696] {logging_mixin.py:104} INFO - [2022-03-18 13:16:15,696] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:16:15,743] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:16:15,803] {logging_mixin.py:104} INFO - [2022-03-18 13:16:15,803] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:16:15,857] {logging_mixin.py:104} INFO - [2022-03-18 13:16:15,856] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:16:15,908] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.223 seconds
+[2022-03-18 13:16:46,553] {scheduler_job.py:182} INFO - Started process (PID=30779) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:16:46,554] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:16:46,555] {logging_mixin.py:104} INFO - [2022-03-18 13:16:46,555] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:16:46,573] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:16:46,602] {logging_mixin.py:104} INFO - [2022-03-18 13:16:46,602] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:16:46,627] {logging_mixin.py:104} INFO - [2022-03-18 13:16:46,627] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:16:46,650] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.103 seconds
+[2022-03-18 13:17:16,972] {scheduler_job.py:182} INFO - Started process (PID=31030) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:17:16,973] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:17:16,974] {logging_mixin.py:104} INFO - [2022-03-18 13:17:16,974] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:17:16,994] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:17:17,025] {logging_mixin.py:104} INFO - [2022-03-18 13:17:17,025] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:17:17,055] {logging_mixin.py:104} INFO - [2022-03-18 13:17:17,054] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:17:17,081] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.114 seconds
+[2022-03-18 13:17:47,451] {scheduler_job.py:182} INFO - Started process (PID=31236) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:17:47,453] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:17:47,454] {logging_mixin.py:104} INFO - [2022-03-18 13:17:47,453] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:17:47,473] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:17:47,508] {logging_mixin.py:104} INFO - [2022-03-18 13:17:47,508] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:17:47,531] {logging_mixin.py:104} INFO - [2022-03-18 13:17:47,530] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:17:47,547] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.099 seconds
+[2022-03-18 13:18:17,907] {scheduler_job.py:182} INFO - Started process (PID=31559) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:18:17,908] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:18:17,909] {logging_mixin.py:104} INFO - [2022-03-18 13:18:17,909] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:18:17,928] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:18:17,957] {logging_mixin.py:104} INFO - [2022-03-18 13:18:17,957] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:18:17,980] {logging_mixin.py:104} INFO - [2022-03-18 13:18:17,980] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:18:18,000] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.098 seconds
+[2022-03-18 13:18:48,501] {scheduler_job.py:182} INFO - Started process (PID=31767) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:18:48,502] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:18:48,503] {logging_mixin.py:104} INFO - [2022-03-18 13:18:48,503] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:18:48,522] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:18:48,553] {logging_mixin.py:104} INFO - [2022-03-18 13:18:48,553] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:18:48,576] {logging_mixin.py:104} INFO - [2022-03-18 13:18:48,576] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:18:48,598] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.101 seconds
+[2022-03-18 13:19:18,831] {scheduler_job.py:182} INFO - Started process (PID=31980) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:19:18,832] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:19:18,833] {logging_mixin.py:104} INFO - [2022-03-18 13:19:18,832] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:19:18,853] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:19:18,888] {logging_mixin.py:104} INFO - [2022-03-18 13:19:18,888] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:19:18,911] {logging_mixin.py:104} INFO - [2022-03-18 13:19:18,911] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:19:18,929] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.102 seconds
+[2022-03-18 13:19:50,165] {scheduler_job.py:182} INFO - Started process (PID=32185) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:19:50,167] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:19:50,169] {logging_mixin.py:104} INFO - [2022-03-18 13:19:50,169] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:19:50,193] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:19:50,231] {logging_mixin.py:104} INFO - [2022-03-18 13:19:50,231] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:19:50,254] {logging_mixin.py:104} INFO - [2022-03-18 13:19:50,254] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:19:50,280] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.120 seconds
+[2022-03-18 13:20:21,374] {scheduler_job.py:182} INFO - Started process (PID=32426) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:20:21,376] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:20:21,376] {logging_mixin.py:104} INFO - [2022-03-18 13:20:21,376] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:20:21,395] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:20:21,430] {logging_mixin.py:104} INFO - [2022-03-18 13:20:21,430] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:20:21,456] {logging_mixin.py:104} INFO - [2022-03-18 13:20:21,456] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:20:21,486] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.116 seconds
+[2022-03-18 13:20:52,060] {scheduler_job.py:182} INFO - Started process (PID=32646) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:20:52,061] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:20:52,062] {logging_mixin.py:104} INFO - [2022-03-18 13:20:52,062] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:20:52,089] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:20:52,120] {logging_mixin.py:104} INFO - [2022-03-18 13:20:52,120] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:20:52,142] {logging_mixin.py:104} INFO - [2022-03-18 13:20:52,142] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:20:52,161] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.106 seconds
+[2022-03-18 13:21:22,637] {scheduler_job.py:182} INFO - Started process (PID=424) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:21:22,638] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:21:22,639] {logging_mixin.py:104} INFO - [2022-03-18 13:21:22,639] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:21:22,665] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:21:22,708] {logging_mixin.py:104} INFO - [2022-03-18 13:21:22,708] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:21:22,732] {logging_mixin.py:104} INFO - [2022-03-18 13:21:22,732] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:21:22,759] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.125 seconds
+[2022-03-18 13:21:53,621] {scheduler_job.py:182} INFO - Started process (PID=632) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:21:53,622] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:21:53,623] {logging_mixin.py:104} INFO - [2022-03-18 13:21:53,623] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:21:53,644] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:21:53,678] {logging_mixin.py:104} INFO - [2022-03-18 13:21:53,677] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:21:53,703] {logging_mixin.py:104} INFO - [2022-03-18 13:21:53,703] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:21:53,721] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.105 seconds
+[2022-03-18 13:22:24,818] {scheduler_job.py:182} INFO - Started process (PID=843) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:22:24,819] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:22:24,820] {logging_mixin.py:104} INFO - [2022-03-18 13:22:24,820] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:22:24,848] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:22:24,884] {logging_mixin.py:104} INFO - [2022-03-18 13:22:24,883] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:22:24,906] {logging_mixin.py:104} INFO - [2022-03-18 13:22:24,906] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:22:24,929] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.115 seconds
+[2022-03-18 13:22:55,560] {scheduler_job.py:182} INFO - Started process (PID=1173) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:22:55,561] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:22:55,562] {logging_mixin.py:104} INFO - [2022-03-18 13:22:55,562] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:22:55,581] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:22:55,617] {logging_mixin.py:104} INFO - [2022-03-18 13:22:55,617] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:22:55,642] {logging_mixin.py:104} INFO - [2022-03-18 13:22:55,642] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:22:55,670] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.115 seconds
+[2022-03-18 13:23:26,798] {scheduler_job.py:182} INFO - Started process (PID=1441) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:23:26,799] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:23:26,800] {logging_mixin.py:104} INFO - [2022-03-18 13:23:26,800] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:23:26,818] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:23:26,852] {logging_mixin.py:104} INFO - [2022-03-18 13:23:26,852] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:23:26,876] {logging_mixin.py:104} INFO - [2022-03-18 13:23:26,876] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:23:26,899] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.106 seconds
+[2022-03-18 13:23:57,499] {scheduler_job.py:182} INFO - Started process (PID=1681) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:23:57,501] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:23:57,502] {logging_mixin.py:104} INFO - [2022-03-18 13:23:57,501] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:23:57,521] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:23:57,556] {logging_mixin.py:104} INFO - [2022-03-18 13:23:57,556] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:23:57,582] {logging_mixin.py:104} INFO - [2022-03-18 13:23:57,581] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:23:57,596] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.101 seconds
+[2022-03-18 13:24:28,160] {scheduler_job.py:182} INFO - Started process (PID=1921) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:24:28,161] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:24:28,162] {logging_mixin.py:104} INFO - [2022-03-18 13:24:28,162] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:24:28,188] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:24:28,220] {logging_mixin.py:104} INFO - [2022-03-18 13:24:28,219] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:24:28,246] {logging_mixin.py:104} INFO - [2022-03-18 13:24:28,246] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:24:28,271] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.116 seconds
+[2022-03-18 13:25:01,016] {scheduler_job.py:182} INFO - Started process (PID=2169) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:25:01,019] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:25:01,025] {logging_mixin.py:104} INFO - [2022-03-18 13:25:01,025] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:25:01,064] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:25:01,126] {logging_mixin.py:104} INFO - [2022-03-18 13:25:01,126] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:25:01,164] {logging_mixin.py:104} INFO - [2022-03-18 13:25:01,164] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:25:01,211] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.200 seconds
+[2022-03-18 13:25:31,866] {scheduler_job.py:182} INFO - Started process (PID=2582) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:25:31,867] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:25:31,868] {logging_mixin.py:104} INFO - [2022-03-18 13:25:31,868] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:25:31,885] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:25:31,917] {logging_mixin.py:104} INFO - [2022-03-18 13:25:31,917] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:25:31,943] {logging_mixin.py:104} INFO - [2022-03-18 13:25:31,943] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:25:31,968] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.105 seconds
+[2022-03-18 13:26:02,587] {scheduler_job.py:182} INFO - Started process (PID=3061) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:26:02,588] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:26:02,589] {logging_mixin.py:104} INFO - [2022-03-18 13:26:02,589] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:26:02,612] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:26:02,656] {logging_mixin.py:104} INFO - [2022-03-18 13:26:02,656] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:26:02,691] {logging_mixin.py:104} INFO - [2022-03-18 13:26:02,690] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:26:02,710] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.126 seconds
+[2022-03-18 13:26:33,357] {scheduler_job.py:182} INFO - Started process (PID=3340) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:26:33,358] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:26:33,359] {logging_mixin.py:104} INFO - [2022-03-18 13:26:33,359] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:26:33,378] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:26:33,415] {logging_mixin.py:104} INFO - [2022-03-18 13:26:33,415] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:26:33,443] {logging_mixin.py:104} INFO - [2022-03-18 13:26:33,443] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:26:33,474] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.121 seconds
+[2022-03-18 13:27:04,393] {scheduler_job.py:182} INFO - Started process (PID=3829) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:27:04,396] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:27:04,397] {logging_mixin.py:104} INFO - [2022-03-18 13:27:04,397] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:27:04,432] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:27:04,489] {logging_mixin.py:104} INFO - [2022-03-18 13:27:04,489] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:27:04,522] {logging_mixin.py:104} INFO - [2022-03-18 13:27:04,522] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:27:04,547] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.161 seconds
+[2022-03-18 13:27:34,607] {scheduler_job.py:182} INFO - Started process (PID=4083) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:27:34,608] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:27:34,608] {logging_mixin.py:104} INFO - [2022-03-18 13:27:34,608] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:27:34,627] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:27:34,657] {logging_mixin.py:104} INFO - [2022-03-18 13:27:34,657] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:27:34,678] {logging_mixin.py:104} INFO - [2022-03-18 13:27:34,677] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:27:34,692] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.089 seconds
+[2022-03-18 13:28:05,052] {scheduler_job.py:182} INFO - Started process (PID=4564) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:28:05,053] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:28:05,054] {logging_mixin.py:104} INFO - [2022-03-18 13:28:05,054] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:28:05,072] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:28:05,106] {logging_mixin.py:104} INFO - [2022-03-18 13:28:05,105] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:28:05,127] {logging_mixin.py:104} INFO - [2022-03-18 13:28:05,127] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:28:05,146] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.098 seconds
+[2022-03-18 13:28:36,157] {scheduler_job.py:182} INFO - Started process (PID=4976) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:28:36,158] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:28:36,159] {logging_mixin.py:104} INFO - [2022-03-18 13:28:36,159] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:28:36,177] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:28:36,208] {logging_mixin.py:104} INFO - [2022-03-18 13:28:36,208] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:28:36,231] {logging_mixin.py:104} INFO - [2022-03-18 13:28:36,231] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:28:36,255] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.101 seconds
+[2022-03-18 13:29:07,420] {scheduler_job.py:182} INFO - Started process (PID=5218) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:29:07,421] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:29:07,422] {logging_mixin.py:104} INFO - [2022-03-18 13:29:07,422] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:29:07,445] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:29:07,484] {logging_mixin.py:104} INFO - [2022-03-18 13:29:07,484] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:29:07,515] {logging_mixin.py:104} INFO - [2022-03-18 13:29:07,515] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:29:07,537] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.121 seconds
+[2022-03-18 13:29:37,827] {scheduler_job.py:182} INFO - Started process (PID=5425) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:29:37,828] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:29:37,829] {logging_mixin.py:104} INFO - [2022-03-18 13:29:37,828] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:29:37,847] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:29:37,878] {logging_mixin.py:104} INFO - [2022-03-18 13:29:37,878] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:29:37,902] {logging_mixin.py:104} INFO - [2022-03-18 13:29:37,902] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:29:37,925] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.102 seconds
+[2022-03-18 13:30:09,245] {scheduler_job.py:182} INFO - Started process (PID=5698) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:30:09,247] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:30:09,248] {logging_mixin.py:104} INFO - [2022-03-18 13:30:09,248] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:30:09,296] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:30:09,361] {logging_mixin.py:104} INFO - [2022-03-18 13:30:09,361] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:30:09,391] {logging_mixin.py:104} INFO - [2022-03-18 13:30:09,390] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:30:09,419] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.179 seconds
+[2022-03-18 13:30:40,288] {scheduler_job.py:182} INFO - Started process (PID=6022) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:30:40,297] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:30:40,299] {logging_mixin.py:104} INFO - [2022-03-18 13:30:40,298] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:30:40,338] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:30:40,396] {logging_mixin.py:104} INFO - [2022-03-18 13:30:40,396] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:30:40,436] {logging_mixin.py:104} INFO - [2022-03-18 13:30:40,436] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:30:40,483] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.204 seconds
+[2022-03-18 13:31:12,147] {scheduler_job.py:182} INFO - Started process (PID=6244) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:31:12,148] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:31:12,150] {logging_mixin.py:104} INFO - [2022-03-18 13:31:12,150] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:31:12,186] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:31:12,241] {logging_mixin.py:104} INFO - [2022-03-18 13:31:12,240] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:31:12,292] {logging_mixin.py:104} INFO - [2022-03-18 13:31:12,292] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:31:12,321] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.184 seconds
+[2022-03-18 13:31:42,398] {scheduler_job.py:182} INFO - Started process (PID=6464) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:31:42,399] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:31:42,400] {logging_mixin.py:104} INFO - [2022-03-18 13:31:42,400] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:31:42,418] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:31:42,449] {logging_mixin.py:104} INFO - [2022-03-18 13:31:42,449] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:31:42,471] {logging_mixin.py:104} INFO - [2022-03-18 13:31:42,471] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:31:42,543] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.150 seconds
+[2022-03-18 13:32:13,740] {scheduler_job.py:182} INFO - Started process (PID=6672) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:32:13,741] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:32:13,742] {logging_mixin.py:104} INFO - [2022-03-18 13:32:13,742] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:32:13,761] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:32:13,792] {logging_mixin.py:104} INFO - [2022-03-18 13:32:13,792] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:32:13,817] {logging_mixin.py:104} INFO - [2022-03-18 13:32:13,817] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:32:13,835] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.099 seconds
+[2022-03-18 13:32:44,711] {scheduler_job.py:182} INFO - Started process (PID=6882) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:32:44,713] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:32:44,714] {logging_mixin.py:104} INFO - [2022-03-18 13:32:44,714] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:32:44,738] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:32:44,775] {logging_mixin.py:104} INFO - [2022-03-18 13:32:44,775] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:32:44,800] {logging_mixin.py:104} INFO - [2022-03-18 13:32:44,800] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:32:44,822] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.115 seconds
+[2022-03-18 13:33:16,271] {scheduler_job.py:182} INFO - Started process (PID=7231) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:33:16,272] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:33:16,274] {logging_mixin.py:104} INFO - [2022-03-18 13:33:16,273] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:33:16,313] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:33:16,373] {logging_mixin.py:104} INFO - [2022-03-18 13:33:16,372] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:33:16,426] {logging_mixin.py:104} INFO - [2022-03-18 13:33:16,426] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:33:16,464] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.201 seconds
+[2022-03-18 13:33:47,579] {scheduler_job.py:182} INFO - Started process (PID=7448) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:33:47,581] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:33:47,584] {logging_mixin.py:104} INFO - [2022-03-18 13:33:47,583] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:33:47,618] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:33:47,692] {logging_mixin.py:104} INFO - [2022-03-18 13:33:47,692] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:33:47,736] {logging_mixin.py:104} INFO - [2022-03-18 13:33:47,736] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:33:47,805] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.234 seconds
+[2022-03-18 13:34:19,494] {scheduler_job.py:182} INFO - Started process (PID=7657) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:34:19,497] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:34:19,498] {logging_mixin.py:104} INFO - [2022-03-18 13:34:19,498] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:34:19,542] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:34:19,621] {logging_mixin.py:104} INFO - [2022-03-18 13:34:19,621] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:34:19,682] {logging_mixin.py:104} INFO - [2022-03-18 13:34:19,682] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:34:19,741] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.254 seconds
+[2022-03-18 13:34:50,347] {scheduler_job.py:182} INFO - Started process (PID=7866) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:34:50,349] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:34:50,349] {logging_mixin.py:104} INFO - [2022-03-18 13:34:50,349] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:34:50,368] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:34:50,401] {logging_mixin.py:104} INFO - [2022-03-18 13:34:50,400] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:34:50,427] {logging_mixin.py:104} INFO - [2022-03-18 13:34:50,427] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:34:50,445] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.102 seconds
+[2022-03-18 13:35:21,361] {scheduler_job.py:182} INFO - Started process (PID=8116) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:35:21,362] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:35:21,363] {logging_mixin.py:104} INFO - [2022-03-18 13:35:21,363] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:35:21,386] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:35:21,421] {logging_mixin.py:104} INFO - [2022-03-18 13:35:21,421] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:35:21,445] {logging_mixin.py:104} INFO - [2022-03-18 13:35:21,445] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:35:21,462] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.106 seconds
+[2022-03-18 13:35:53,208] {scheduler_job.py:182} INFO - Started process (PID=8397) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:35:53,210] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:35:53,218] {logging_mixin.py:104} INFO - [2022-03-18 13:35:53,217] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:35:53,276] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:35:53,341] {logging_mixin.py:104} INFO - [2022-03-18 13:35:53,341] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:35:53,384] {logging_mixin.py:104} INFO - [2022-03-18 13:35:53,383] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:35:53,418] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.217 seconds
+[2022-03-18 13:36:24,586] {scheduler_job.py:182} INFO - Started process (PID=8675) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:36:24,587] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:36:24,588] {logging_mixin.py:104} INFO - [2022-03-18 13:36:24,588] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:36:24,607] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:36:24,646] {logging_mixin.py:104} INFO - [2022-03-18 13:36:24,646] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:36:24,674] {logging_mixin.py:104} INFO - [2022-03-18 13:36:24,674] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:36:24,697] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.114 seconds
+[2022-03-18 13:36:56,023] {scheduler_job.py:182} INFO - Started process (PID=8900) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:36:56,026] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:36:56,029] {logging_mixin.py:104} INFO - [2022-03-18 13:36:56,029] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:36:56,056] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:36:56,120] {logging_mixin.py:104} INFO - [2022-03-18 13:36:56,120] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:36:56,175] {logging_mixin.py:104} INFO - [2022-03-18 13:36:56,175] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:36:56,250] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.236 seconds
+[2022-03-18 13:43:56,132] {scheduler_job.py:182} INFO - Started process (PID=10347) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:43:56,134] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:43:56,136] {logging_mixin.py:104} INFO - [2022-03-18 13:43:56,135] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:43:56,170] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:43:56,238] {logging_mixin.py:104} INFO - [2022-03-18 13:43:56,238] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:43:56,286] {logging_mixin.py:104} INFO - [2022-03-18 13:43:56,286] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:43:56,313] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.186 seconds
+[2022-03-18 13:44:27,277] {scheduler_job.py:182} INFO - Started process (PID=10556) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:44:27,279] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:44:27,281] {logging_mixin.py:104} INFO - [2022-03-18 13:44:27,280] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:44:27,302] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:44:27,336] {logging_mixin.py:104} INFO - [2022-03-18 13:44:27,336] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:44:27,361] {logging_mixin.py:104} INFO - [2022-03-18 13:44:27,361] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:44:27,384] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.111 seconds
+[2022-03-18 13:44:59,718] {scheduler_job.py:182} INFO - Started process (PID=10640) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:44:59,722] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:44:59,724] {logging_mixin.py:104} INFO - [2022-03-18 13:44:59,724] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:44:59,780] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:44:59,915] {logging_mixin.py:104} INFO - [2022-03-18 13:44:59,915] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:45:00,076] {logging_mixin.py:104} INFO - [2022-03-18 13:45:00,076] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:45:00,172] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.460 seconds
+[2022-03-18 13:45:31,667] {scheduler_job.py:182} INFO - Started process (PID=10822) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:45:31,669] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:45:31,673] {logging_mixin.py:104} INFO - [2022-03-18 13:45:31,673] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:45:31,705] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:45:31,776] {logging_mixin.py:104} INFO - [2022-03-18 13:45:31,776] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:45:31,826] {logging_mixin.py:104} INFO - [2022-03-18 13:45:31,826] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:45:31,848] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.191 seconds
+[2022-03-18 13:46:02,277] {scheduler_job.py:182} INFO - Started process (PID=11084) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:46:02,278] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:46:02,279] {logging_mixin.py:104} INFO - [2022-03-18 13:46:02,279] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:46:02,297] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:46:02,328] {logging_mixin.py:104} INFO - [2022-03-18 13:46:02,328] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:46:02,350] {logging_mixin.py:104} INFO - [2022-03-18 13:46:02,350] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:46:02,370] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.097 seconds
+[2022-03-18 13:46:32,469] {scheduler_job.py:182} INFO - Started process (PID=11339) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:46:32,470] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:46:32,471] {logging_mixin.py:104} INFO - [2022-03-18 13:46:32,471] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:46:32,502] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:46:32,566] {logging_mixin.py:104} INFO - [2022-03-18 13:46:32,564] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:46:32,615] {logging_mixin.py:104} INFO - [2022-03-18 13:46:32,614] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:46:32,652] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.186 seconds
+[2022-03-18 13:47:03,112] {scheduler_job.py:182} INFO - Started process (PID=11537) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:47:03,115] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:47:03,116] {logging_mixin.py:104} INFO - [2022-03-18 13:47:03,116] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:47:03,143] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:47:03,179] {logging_mixin.py:104} INFO - [2022-03-18 13:47:03,179] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:47:03,201] {logging_mixin.py:104} INFO - [2022-03-18 13:47:03,201] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:47:03,246] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.139 seconds
+[2022-03-18 13:47:33,955] {scheduler_job.py:182} INFO - Started process (PID=11650) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:47:33,956] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:47:33,957] {logging_mixin.py:104} INFO - [2022-03-18 13:47:33,957] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:47:33,983] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:47:34,022] {logging_mixin.py:104} INFO - [2022-03-18 13:47:34,022] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:47:34,062] {logging_mixin.py:104} INFO - [2022-03-18 13:47:34,062] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:47:34,089] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.139 seconds
+[2022-03-18 13:48:05,338] {scheduler_job.py:182} INFO - Started process (PID=11891) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:48:05,340] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:48:05,340] {logging_mixin.py:104} INFO - [2022-03-18 13:48:05,340] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:48:05,361] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:48:05,402] {logging_mixin.py:104} INFO - [2022-03-18 13:48:05,402] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:48:05,432] {logging_mixin.py:104} INFO - [2022-03-18 13:48:05,432] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:48:05,483] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.149 seconds
+[2022-03-18 13:48:36,877] {scheduler_job.py:182} INFO - Started process (PID=12741) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:48:36,878] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:48:36,879] {logging_mixin.py:104} INFO - [2022-03-18 13:48:36,879] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:48:36,899] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:48:36,931] {logging_mixin.py:104} INFO - [2022-03-18 13:48:36,931] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:48:36,955] {logging_mixin.py:104} INFO - [2022-03-18 13:48:36,955] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:48:36,981] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.108 seconds
+[2022-03-18 13:49:10,161] {scheduler_job.py:182} INFO - Started process (PID=13064) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:49:10,167] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:49:10,169] {logging_mixin.py:104} INFO - [2022-03-18 13:49:10,169] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:49:10,210] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:49:10,276] {logging_mixin.py:104} INFO - [2022-03-18 13:49:10,276] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:49:10,325] {logging_mixin.py:104} INFO - [2022-03-18 13:49:10,324] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:49:10,374] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.229 seconds
+[2022-03-18 13:49:40,607] {scheduler_job.py:182} INFO - Started process (PID=13144) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:49:40,608] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:49:40,609] {logging_mixin.py:104} INFO - [2022-03-18 13:49:40,609] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:49:40,636] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:49:40,683] {logging_mixin.py:104} INFO - [2022-03-18 13:49:40,682] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:49:40,719] {logging_mixin.py:104} INFO - [2022-03-18 13:49:40,719] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:49:40,746] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.145 seconds
+[2022-03-18 13:50:11,518] {scheduler_job.py:182} INFO - Started process (PID=13255) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:50:11,520] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:50:11,521] {logging_mixin.py:104} INFO - [2022-03-18 13:50:11,521] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:50:11,656] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:50:11,763] {logging_mixin.py:104} INFO - [2022-03-18 13:50:11,762] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:50:11,823] {logging_mixin.py:104} INFO - [2022-03-18 13:50:11,822] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:50:11,865] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.386 seconds
+[2022-03-18 13:50:41,934] {scheduler_job.py:182} INFO - Started process (PID=13348) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:50:41,935] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:50:41,936] {logging_mixin.py:104} INFO - [2022-03-18 13:50:41,936] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:50:41,954] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:50:41,986] {logging_mixin.py:104} INFO - [2022-03-18 13:50:41,986] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:50:42,009] {logging_mixin.py:104} INFO - [2022-03-18 13:50:42,009] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:50:42,046] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.115 seconds
+[2022-03-18 13:51:12,153] {scheduler_job.py:182} INFO - Started process (PID=13427) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:51:12,154] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:51:12,156] {logging_mixin.py:104} INFO - [2022-03-18 13:51:12,155] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:51:12,203] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:51:12,252] {logging_mixin.py:104} INFO - [2022-03-18 13:51:12,252] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:51:12,302] {logging_mixin.py:104} INFO - [2022-03-18 13:51:12,302] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:51:12,375] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.235 seconds
+[2022-03-18 13:51:42,967] {scheduler_job.py:182} INFO - Started process (PID=13509) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:51:42,969] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:51:42,972] {logging_mixin.py:104} INFO - [2022-03-18 13:51:42,971] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:51:43,007] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:51:43,055] {logging_mixin.py:104} INFO - [2022-03-18 13:51:43,054] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:51:43,101] {logging_mixin.py:104} INFO - [2022-03-18 13:51:43,101] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:51:43,130] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.174 seconds
+[2022-03-18 13:52:14,547] {scheduler_job.py:182} INFO - Started process (PID=13868) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:52:14,549] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:52:14,552] {logging_mixin.py:104} INFO - [2022-03-18 13:52:14,551] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:52:14,593] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:52:14,657] {logging_mixin.py:104} INFO - [2022-03-18 13:52:14,657] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:52:14,711] {logging_mixin.py:104} INFO - [2022-03-18 13:52:14,711] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:52:14,927] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.389 seconds
+[2022-03-18 13:52:45,604] {scheduler_job.py:182} INFO - Started process (PID=14029) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:52:45,605] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:52:45,606] {logging_mixin.py:104} INFO - [2022-03-18 13:52:45,606] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:52:45,625] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:52:45,665] {logging_mixin.py:104} INFO - [2022-03-18 13:52:45,665] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:52:45,696] {logging_mixin.py:104} INFO - [2022-03-18 13:52:45,695] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:52:45,718] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.117 seconds
+[2022-03-18 13:53:16,432] {scheduler_job.py:182} INFO - Started process (PID=14133) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:53:16,433] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:53:16,434] {logging_mixin.py:104} INFO - [2022-03-18 13:53:16,434] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:53:16,458] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:53:16,519] {logging_mixin.py:104} INFO - [2022-03-18 13:53:16,518] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:53:16,565] {logging_mixin.py:104} INFO - [2022-03-18 13:53:16,564] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:53:16,594] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.166 seconds
+[2022-03-18 13:53:46,633] {scheduler_job.py:182} INFO - Started process (PID=14282) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:53:46,636] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:53:46,636] {logging_mixin.py:104} INFO - [2022-03-18 13:53:46,636] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:53:46,655] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:53:46,702] {logging_mixin.py:104} INFO - [2022-03-18 13:53:46,702] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:53:46,734] {logging_mixin.py:104} INFO - [2022-03-18 13:53:46,734] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:53:46,752] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.124 seconds
+[2022-03-18 13:54:17,244] {scheduler_job.py:182} INFO - Started process (PID=14375) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:54:17,246] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:54:17,247] {logging_mixin.py:104} INFO - [2022-03-18 13:54:17,247] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:54:17,269] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:54:17,301] {logging_mixin.py:104} INFO - [2022-03-18 13:54:17,300] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:54:17,322] {logging_mixin.py:104} INFO - [2022-03-18 13:54:17,322] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:54:17,336] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.096 seconds
+[2022-03-18 13:54:47,430] {scheduler_job.py:182} INFO - Started process (PID=14502) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:54:47,431] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:54:47,432] {logging_mixin.py:104} INFO - [2022-03-18 13:54:47,432] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:54:47,459] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:54:47,504] {logging_mixin.py:104} INFO - [2022-03-18 13:54:47,504] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:54:47,533] {logging_mixin.py:104} INFO - [2022-03-18 13:54:47,533] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:54:47,561] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.135 seconds
+[2022-03-18 13:55:18,716] {scheduler_job.py:182} INFO - Started process (PID=14605) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:55:18,717] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:55:18,718] {logging_mixin.py:104} INFO - [2022-03-18 13:55:18,718] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:55:18,759] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:55:18,797] {logging_mixin.py:104} INFO - [2022-03-18 13:55:18,797] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:55:18,829] {logging_mixin.py:104} INFO - [2022-03-18 13:55:18,829] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:55:18,858] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.146 seconds
+[2022-03-18 13:55:48,983] {scheduler_job.py:182} INFO - Started process (PID=14698) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:55:48,984] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:55:48,985] {logging_mixin.py:104} INFO - [2022-03-18 13:55:48,984] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:55:49,005] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:55:49,035] {logging_mixin.py:104} INFO - [2022-03-18 13:55:49,035] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:55:49,058] {logging_mixin.py:104} INFO - [2022-03-18 13:55:49,058] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:55:49,076] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.097 seconds
+[2022-03-18 13:56:20,537] {scheduler_job.py:182} INFO - Started process (PID=14769) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:56:20,539] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:56:20,539] {logging_mixin.py:104} INFO - [2022-03-18 13:56:20,539] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:56:20,560] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:56:20,591] {logging_mixin.py:104} INFO - [2022-03-18 13:56:20,591] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:56:20,615] {logging_mixin.py:104} INFO - [2022-03-18 13:56:20,615] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:56:20,638] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.105 seconds
+[2022-03-18 13:56:51,100] {scheduler_job.py:182} INFO - Started process (PID=14849) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:56:51,102] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:56:51,103] {logging_mixin.py:104} INFO - [2022-03-18 13:56:51,102] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:56:51,122] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:56:51,157] {logging_mixin.py:104} INFO - [2022-03-18 13:56:51,157] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:56:51,180] {logging_mixin.py:104} INFO - [2022-03-18 13:56:51,180] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:56:51,202] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.106 seconds
+[2022-03-18 13:57:21,733] {scheduler_job.py:182} INFO - Started process (PID=14925) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:57:21,735] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:57:21,735] {logging_mixin.py:104} INFO - [2022-03-18 13:57:21,735] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:57:21,759] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:57:21,788] {logging_mixin.py:104} INFO - [2022-03-18 13:57:21,788] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:57:21,818] {logging_mixin.py:104} INFO - [2022-03-18 13:57:21,818] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:57:21,845] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.116 seconds
+[2022-03-18 13:57:52,276] {scheduler_job.py:182} INFO - Started process (PID=15000) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:57:52,277] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:57:52,278] {logging_mixin.py:104} INFO - [2022-03-18 13:57:52,278] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:57:52,299] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:57:52,333] {logging_mixin.py:104} INFO - [2022-03-18 13:57:52,333] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:57:52,356] {logging_mixin.py:104} INFO - [2022-03-18 13:57:52,356] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:57:52,378] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.106 seconds
+[2022-03-18 13:58:23,257] {scheduler_job.py:182} INFO - Started process (PID=15072) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:58:23,259] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:58:23,259] {logging_mixin.py:104} INFO - [2022-03-18 13:58:23,259] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:58:23,281] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:58:23,313] {logging_mixin.py:104} INFO - [2022-03-18 13:58:23,313] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:58:23,339] {logging_mixin.py:104} INFO - [2022-03-18 13:58:23,339] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:58:23,363] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.110 seconds
+[2022-03-18 13:58:55,562] {scheduler_job.py:182} INFO - Started process (PID=15215) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:58:55,570] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:58:55,572] {logging_mixin.py:104} INFO - [2022-03-18 13:58:55,571] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:58:55,602] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:58:55,664] {logging_mixin.py:104} INFO - [2022-03-18 13:58:55,663] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:58:55,708] {logging_mixin.py:104} INFO - [2022-03-18 13:58:55,708] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:58:55,745] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.194 seconds
+[2022-03-18 13:59:26,543] {scheduler_job.py:182} INFO - Started process (PID=15362) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:59:26,545] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:59:26,546] {logging_mixin.py:104} INFO - [2022-03-18 13:59:26,546] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:59:26,572] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:59:26,616] {logging_mixin.py:104} INFO - [2022-03-18 13:59:26,616] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:59:26,663] {logging_mixin.py:104} INFO - [2022-03-18 13:59:26,662] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:59:26,689] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.153 seconds
+[2022-03-18 13:59:57,411] {scheduler_job.py:182} INFO - Started process (PID=15441) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:59:57,413] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 13:59:57,414] {logging_mixin.py:104} INFO - [2022-03-18 13:59:57,414] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:59:57,433] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 13:59:57,466] {logging_mixin.py:104} INFO - [2022-03-18 13:59:57,466] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:59:57,490] {logging_mixin.py:104} INFO - [2022-03-18 13:59:57,490] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 13:59:57,504] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.097 seconds
+[2022-03-18 14:00:28,621] {scheduler_job.py:182} INFO - Started process (PID=15549) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 14:00:28,622] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 14:00:28,623] {logging_mixin.py:104} INFO - [2022-03-18 14:00:28,623] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 14:00:28,644] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 14:00:28,678] {logging_mixin.py:104} INFO - [2022-03-18 14:00:28,677] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 14:00:28,705] {logging_mixin.py:104} INFO - [2022-03-18 14:00:28,705] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 14:00:28,723] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.107 seconds
+[2022-03-18 14:01:00,103] {scheduler_job.py:182} INFO - Started process (PID=15628) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 14:01:00,105] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 14:01:00,106] {logging_mixin.py:104} INFO - [2022-03-18 14:01:00,106] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 14:01:00,125] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 14:01:00,160] {logging_mixin.py:104} INFO - [2022-03-18 14:01:00,160] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 14:01:00,185] {logging_mixin.py:104} INFO - [2022-03-18 14:01:00,185] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 14:01:00,206] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.107 seconds
+[2022-03-18 14:01:31,200] {scheduler_job.py:182} INFO - Started process (PID=15701) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 14:01:31,202] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 14:01:31,202] {logging_mixin.py:104} INFO - [2022-03-18 14:01:31,202] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 14:01:31,221] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 14:01:31,253] {logging_mixin.py:104} INFO - [2022-03-18 14:01:31,253] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 14:01:31,277] {logging_mixin.py:104} INFO - [2022-03-18 14:01:31,277] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 14:01:31,292] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.095 seconds
+[2022-03-18 14:02:01,525] {scheduler_job.py:182} INFO - Started process (PID=15807) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 14:02:01,527] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 14:02:01,528] {logging_mixin.py:104} INFO - [2022-03-18 14:02:01,528] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 14:02:01,564] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 14:02:01,620] {logging_mixin.py:104} INFO - [2022-03-18 14:02:01,620] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 14:02:01,666] {logging_mixin.py:104} INFO - [2022-03-18 14:02:01,665] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 14:02:01,690] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.170 seconds
+[2022-03-18 14:02:32,173] {scheduler_job.py:182} INFO - Started process (PID=15880) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 14:02:32,174] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-03-18 14:02:32,175] {logging_mixin.py:104} INFO - [2022-03-18 14:02:32,175] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 14:02:32,202] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-03-18 14:02:32,238] {logging_mixin.py:104} INFO - [2022-03-18 14:02:32,238] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 14:02:32,260] {logging_mixin.py:104} INFO - [2022-03-18 14:02:32,260] {dag.py:2305} INFO - Setting next_dagrun for example_branch_operator to 2022-03-16 00:00:00+00:00
+[2022-03-18 14:02:32,348] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_branch_operator.py took 0.179 seconds

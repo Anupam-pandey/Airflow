@@ -1,0 +1,1050 @@
+[2022-03-18 12:27:52,378] {scheduler_job.py:182} INFO - Started process (PID=6937) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:27:52,393] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 12:27:52,399] {logging_mixin.py:104} INFO - [2022-03-18 12:27:52,398] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:27:52,456] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:27:53,308] {logging_mixin.py:104} INFO - [2022-03-18 12:27:53,308] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:27:53,366] {logging_mixin.py:104} INFO - [2022-03-18 12:27:53,366] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 12:27:53,483] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 1.120 seconds
+[2022-03-18 12:28:47,557] {scheduler_job.py:182} INFO - Started process (PID=7249) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:28:47,558] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 12:28:47,559] {logging_mixin.py:104} INFO - [2022-03-18 12:28:47,559] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:28:47,576] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:28:47,596] {logging_mixin.py:104} INFO - [2022-03-18 12:28:47,596] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:28:47,614] {logging_mixin.py:104} INFO - [2022-03-18 12:28:47,614] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 12:28:47,709] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.155 seconds
+[2022-03-18 12:29:29,216] {scheduler_job.py:182} INFO - Started process (PID=7366) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:29:29,217] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 12:29:29,218] {logging_mixin.py:104} INFO - [2022-03-18 12:29:29,217] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:29:29,232] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:29:29,250] {logging_mixin.py:104} INFO - [2022-03-18 12:29:29,250] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:29:29,265] {logging_mixin.py:104} INFO - [2022-03-18 12:29:29,265] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 12:29:29,364] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.152 seconds
+[2022-03-18 12:30:09,979] {scheduler_job.py:182} INFO - Started process (PID=7406) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:30:09,981] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 12:30:09,982] {logging_mixin.py:104} INFO - [2022-03-18 12:30:09,982] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:30:10,002] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:30:10,020] {logging_mixin.py:104} INFO - [2022-03-18 12:30:10,020] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:30:10,036] {logging_mixin.py:104} INFO - [2022-03-18 12:30:10,036] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 12:30:10,141] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.165 seconds
+[2022-03-18 12:30:54,259] {scheduler_job.py:182} INFO - Started process (PID=7575) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:30:54,261] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 12:30:54,263] {logging_mixin.py:104} INFO - [2022-03-18 12:30:54,262] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:30:54,331] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:30:54,402] {logging_mixin.py:104} INFO - [2022-03-18 12:30:54,401] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:30:54,484] {logging_mixin.py:104} INFO - [2022-03-18 12:30:54,484] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 12:30:54,608] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.379 seconds
+[2022-03-18 12:31:46,968] {scheduler_job.py:182} INFO - Started process (PID=7769) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:31:46,969] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 12:31:46,970] {logging_mixin.py:104} INFO - [2022-03-18 12:31:46,970] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:31:47,037] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:31:47,102] {logging_mixin.py:104} INFO - [2022-03-18 12:31:47,102] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:31:47,165] {logging_mixin.py:104} INFO - [2022-03-18 12:31:47,165] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 12:31:47,337] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.388 seconds
+[2022-03-18 12:33:11,304] {scheduler_job.py:182} INFO - Started process (PID=8478) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:33:11,306] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 12:33:11,311] {logging_mixin.py:104} INFO - [2022-03-18 12:33:11,310] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:33:11,339] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:33:11,390] {logging_mixin.py:104} INFO - [2022-03-18 12:33:11,389] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:33:11,433] {logging_mixin.py:104} INFO - [2022-03-18 12:33:11,432] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 12:33:11,529] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.234 seconds
+[2022-03-18 12:33:58,951] {scheduler_job.py:182} INFO - Started process (PID=8519) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:33:58,953] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 12:33:58,953] {logging_mixin.py:104} INFO - [2022-03-18 12:33:58,953] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:33:58,995] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:33:59,023] {logging_mixin.py:104} INFO - [2022-03-18 12:33:59,023] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:33:59,066] {logging_mixin.py:104} INFO - [2022-03-18 12:33:59,065] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 12:33:59,161] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.212 seconds
+[2022-03-18 12:34:52,580] {scheduler_job.py:182} INFO - Started process (PID=8584) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:34:52,582] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 12:34:52,582] {logging_mixin.py:104} INFO - [2022-03-18 12:34:52,582] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:34:52,598] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:34:52,615] {logging_mixin.py:104} INFO - [2022-03-18 12:34:52,615] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:34:52,630] {logging_mixin.py:104} INFO - [2022-03-18 12:34:52,630] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 12:34:52,742] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.165 seconds
+[2022-03-18 12:35:39,785] {scheduler_job.py:182} INFO - Started process (PID=10078) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:35:39,786] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 12:35:39,787] {logging_mixin.py:104} INFO - [2022-03-18 12:35:39,787] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:35:39,802] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:35:39,819] {logging_mixin.py:104} INFO - [2022-03-18 12:35:39,818] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:35:39,834] {logging_mixin.py:104} INFO - [2022-03-18 12:35:39,834] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 12:35:39,926] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.144 seconds
+[2022-03-18 12:36:34,203] {scheduler_job.py:182} INFO - Started process (PID=10309) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:36:34,204] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 12:36:34,205] {logging_mixin.py:104} INFO - [2022-03-18 12:36:34,205] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:36:34,228] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:36:34,254] {logging_mixin.py:104} INFO - [2022-03-18 12:36:34,254] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:36:34,274] {logging_mixin.py:104} INFO - [2022-03-18 12:36:34,274] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 12:36:34,450] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.252 seconds
+[2022-03-18 12:37:39,643] {scheduler_job.py:182} INFO - Started process (PID=13940) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:37:39,645] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 12:37:39,645] {logging_mixin.py:104} INFO - [2022-03-18 12:37:39,645] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:37:39,660] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:37:39,677] {logging_mixin.py:104} INFO - [2022-03-18 12:37:39,677] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:37:39,693] {logging_mixin.py:104} INFO - [2022-03-18 12:37:39,693] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 12:37:39,790] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.149 seconds
+[2022-03-18 12:38:19,875] {scheduler_job.py:182} INFO - Started process (PID=14024) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:38:19,876] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 12:38:19,877] {logging_mixin.py:104} INFO - [2022-03-18 12:38:19,877] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:38:19,895] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:38:19,912] {logging_mixin.py:104} INFO - [2022-03-18 12:38:19,912] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:38:19,929] {logging_mixin.py:104} INFO - [2022-03-18 12:38:19,929] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 12:38:20,032] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.161 seconds
+[2022-03-18 12:39:02,267] {scheduler_job.py:182} INFO - Started process (PID=14183) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:39:02,269] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 12:39:02,269] {logging_mixin.py:104} INFO - [2022-03-18 12:39:02,269] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:39:02,285] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:39:02,303] {logging_mixin.py:104} INFO - [2022-03-18 12:39:02,302] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:39:02,320] {logging_mixin.py:104} INFO - [2022-03-18 12:39:02,320] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 12:39:02,414] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.151 seconds
+[2022-03-18 12:39:41,498] {scheduler_job.py:182} INFO - Started process (PID=14221) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:39:41,499] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 12:39:41,500] {logging_mixin.py:104} INFO - [2022-03-18 12:39:41,499] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:39:41,515] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:39:41,532] {logging_mixin.py:104} INFO - [2022-03-18 12:39:41,532] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:39:41,548] {logging_mixin.py:104} INFO - [2022-03-18 12:39:41,548] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 12:39:41,659] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.164 seconds
+[2022-03-18 12:40:24,335] {scheduler_job.py:182} INFO - Started process (PID=14308) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:40:24,336] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 12:40:24,337] {logging_mixin.py:104} INFO - [2022-03-18 12:40:24,336] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:40:24,355] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:40:24,373] {logging_mixin.py:104} INFO - [2022-03-18 12:40:24,373] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:40:24,388] {logging_mixin.py:104} INFO - [2022-03-18 12:40:24,388] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 12:40:24,475] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.145 seconds
+[2022-03-18 12:41:06,735] {scheduler_job.py:182} INFO - Started process (PID=14396) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:41:06,736] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 12:41:06,737] {logging_mixin.py:104} INFO - [2022-03-18 12:41:06,737] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:41:06,751] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:41:06,766] {logging_mixin.py:104} INFO - [2022-03-18 12:41:06,766] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:41:06,781] {logging_mixin.py:104} INFO - [2022-03-18 12:41:06,781] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 12:41:06,921] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.192 seconds
+[2022-03-18 12:41:45,785] {scheduler_job.py:182} INFO - Started process (PID=14658) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:41:45,786] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 12:41:45,787] {logging_mixin.py:104} INFO - [2022-03-18 12:41:45,787] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:41:45,802] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:41:45,819] {logging_mixin.py:104} INFO - [2022-03-18 12:41:45,819] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:41:45,835] {logging_mixin.py:104} INFO - [2022-03-18 12:41:45,835] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 12:41:45,991] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.209 seconds
+[2022-03-18 12:42:28,904] {scheduler_job.py:182} INFO - Started process (PID=14826) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:42:28,910] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 12:42:28,911] {logging_mixin.py:104} INFO - [2022-03-18 12:42:28,911] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:42:28,938] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:42:28,986] {logging_mixin.py:104} INFO - [2022-03-18 12:42:28,986] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:42:29,042] {logging_mixin.py:104} INFO - [2022-03-18 12:42:29,042] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 12:42:29,174] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.280 seconds
+[2022-03-18 12:43:28,184] {scheduler_job.py:182} INFO - Started process (PID=14943) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:43:28,186] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 12:43:28,187] {logging_mixin.py:104} INFO - [2022-03-18 12:43:28,187] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:43:28,208] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:43:28,227] {logging_mixin.py:104} INFO - [2022-03-18 12:43:28,226] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:43:28,242] {logging_mixin.py:104} INFO - [2022-03-18 12:43:28,242] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 12:43:28,455] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.275 seconds
+[2022-03-18 12:44:10,222] {scheduler_job.py:182} INFO - Started process (PID=14989) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:44:10,224] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 12:44:10,225] {logging_mixin.py:104} INFO - [2022-03-18 12:44:10,225] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:44:10,242] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:44:10,259] {logging_mixin.py:104} INFO - [2022-03-18 12:44:10,259] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:44:10,275] {logging_mixin.py:104} INFO - [2022-03-18 12:44:10,275] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 12:44:10,382] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.163 seconds
+[2022-03-18 12:44:56,533] {scheduler_job.py:182} INFO - Started process (PID=15040) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:44:56,535] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 12:44:56,537] {logging_mixin.py:104} INFO - [2022-03-18 12:44:56,537] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:44:56,552] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:44:56,570] {logging_mixin.py:104} INFO - [2022-03-18 12:44:56,570] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:44:56,591] {logging_mixin.py:104} INFO - [2022-03-18 12:44:56,591] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 12:44:56,656] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.127 seconds
+[2022-03-18 12:45:42,929] {scheduler_job.py:182} INFO - Started process (PID=15129) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:45:42,930] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 12:45:42,931] {logging_mixin.py:104} INFO - [2022-03-18 12:45:42,931] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:45:42,948] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:45:42,965] {logging_mixin.py:104} INFO - [2022-03-18 12:45:42,965] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:45:42,982] {logging_mixin.py:104} INFO - [2022-03-18 12:45:42,982] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 12:45:43,074] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.148 seconds
+[2022-03-18 12:46:28,096] {scheduler_job.py:182} INFO - Started process (PID=15272) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:46:28,097] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 12:46:28,098] {logging_mixin.py:104} INFO - [2022-03-18 12:46:28,097] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:46:28,115] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:46:28,132] {logging_mixin.py:104} INFO - [2022-03-18 12:46:28,132] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:46:28,148] {logging_mixin.py:104} INFO - [2022-03-18 12:46:28,148] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 12:46:28,235] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.143 seconds
+[2022-03-18 12:47:19,263] {scheduler_job.py:182} INFO - Started process (PID=15391) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:47:19,264] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 12:47:19,265] {logging_mixin.py:104} INFO - [2022-03-18 12:47:19,265] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:47:19,279] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:47:19,296] {logging_mixin.py:104} INFO - [2022-03-18 12:47:19,295] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:47:19,311] {logging_mixin.py:104} INFO - [2022-03-18 12:47:19,310] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 12:47:19,429] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.170 seconds
+[2022-03-18 12:52:53,242] {scheduler_job.py:182} INFO - Started process (PID=16477) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:52:53,244] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 12:52:53,245] {logging_mixin.py:104} INFO - [2022-03-18 12:52:53,245] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:52:53,266] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:52:53,330] {logging_mixin.py:104} INFO - [2022-03-18 12:52:53,330] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:52:53,361] {logging_mixin.py:104} INFO - [2022-03-18 12:52:53,361] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 12:52:53,411] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.174 seconds
+[2022-03-18 12:53:24,653] {scheduler_job.py:182} INFO - Started process (PID=17068) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:53:24,654] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 12:53:24,654] {logging_mixin.py:104} INFO - [2022-03-18 12:53:24,654] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:53:24,669] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:53:24,701] {logging_mixin.py:104} INFO - [2022-03-18 12:53:24,701] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:53:24,724] {logging_mixin.py:104} INFO - [2022-03-18 12:53:24,724] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 12:53:24,773] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.124 seconds
+[2022-03-18 12:53:56,386] {scheduler_job.py:182} INFO - Started process (PID=18020) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:53:56,388] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 12:53:56,389] {logging_mixin.py:104} INFO - [2022-03-18 12:53:56,389] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:53:56,413] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:53:56,462] {logging_mixin.py:104} INFO - [2022-03-18 12:53:56,461] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:53:56,491] {logging_mixin.py:104} INFO - [2022-03-18 12:53:56,491] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 12:53:56,527] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.144 seconds
+[2022-03-18 12:54:27,596] {scheduler_job.py:182} INFO - Started process (PID=18306) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:54:27,598] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 12:54:27,599] {logging_mixin.py:104} INFO - [2022-03-18 12:54:27,599] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:54:27,630] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:54:27,693] {logging_mixin.py:104} INFO - [2022-03-18 12:54:27,693] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:54:27,726] {logging_mixin.py:104} INFO - [2022-03-18 12:54:27,726] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 12:54:27,772] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.189 seconds
+[2022-03-18 12:54:58,495] {scheduler_job.py:182} INFO - Started process (PID=18516) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:54:58,496] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 12:54:58,498] {logging_mixin.py:104} INFO - [2022-03-18 12:54:58,497] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:54:58,521] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:54:58,559] {logging_mixin.py:104} INFO - [2022-03-18 12:54:58,559] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:54:58,583] {logging_mixin.py:104} INFO - [2022-03-18 12:54:58,583] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 12:54:58,600] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.110 seconds
+[2022-03-18 12:55:29,332] {scheduler_job.py:182} INFO - Started process (PID=18947) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:55:29,334] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 12:55:29,335] {logging_mixin.py:104} INFO - [2022-03-18 12:55:29,335] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:55:29,353] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:55:29,395] {logging_mixin.py:104} INFO - [2022-03-18 12:55:29,394] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:55:29,422] {logging_mixin.py:104} INFO - [2022-03-18 12:55:29,422] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 12:55:29,442] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.114 seconds
+[2022-03-18 12:55:59,673] {scheduler_job.py:182} INFO - Started process (PID=19327) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:55:59,674] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 12:55:59,675] {logging_mixin.py:104} INFO - [2022-03-18 12:55:59,675] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:55:59,689] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:55:59,721] {logging_mixin.py:104} INFO - [2022-03-18 12:55:59,721] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:55:59,741] {logging_mixin.py:104} INFO - [2022-03-18 12:55:59,741] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 12:55:59,763] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.094 seconds
+[2022-03-18 12:56:30,249] {scheduler_job.py:182} INFO - Started process (PID=20026) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:56:30,250] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 12:56:30,251] {logging_mixin.py:104} INFO - [2022-03-18 12:56:30,251] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:56:30,266] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:56:30,301] {logging_mixin.py:104} INFO - [2022-03-18 12:56:30,300] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:56:30,326] {logging_mixin.py:104} INFO - [2022-03-18 12:56:30,326] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 12:56:30,351] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.106 seconds
+[2022-03-18 12:57:00,516] {scheduler_job.py:182} INFO - Started process (PID=20825) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:57:00,524] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 12:57:00,527] {logging_mixin.py:104} INFO - [2022-03-18 12:57:00,525] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:57:00,618] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:57:00,706] {logging_mixin.py:104} INFO - [2022-03-18 12:57:00,706] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:57:00,774] {logging_mixin.py:104} INFO - [2022-03-18 12:57:00,774] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 12:57:00,806] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.300 seconds
+[2022-03-18 12:57:31,670] {scheduler_job.py:182} INFO - Started process (PID=21122) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:57:31,671] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 12:57:31,672] {logging_mixin.py:104} INFO - [2022-03-18 12:57:31,672] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:57:31,688] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:57:31,718] {logging_mixin.py:104} INFO - [2022-03-18 12:57:31,718] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:57:31,736] {logging_mixin.py:104} INFO - [2022-03-18 12:57:31,736] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 12:57:31,829] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.163 seconds
+[2022-03-18 12:58:01,939] {scheduler_job.py:182} INFO - Started process (PID=21455) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:58:01,941] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 12:58:01,941] {logging_mixin.py:104} INFO - [2022-03-18 12:58:01,941] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:58:01,956] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:58:01,988] {logging_mixin.py:104} INFO - [2022-03-18 12:58:01,987] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:58:02,007] {logging_mixin.py:104} INFO - [2022-03-18 12:58:02,006] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 12:58:02,038] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.102 seconds
+[2022-03-18 12:58:32,118] {scheduler_job.py:182} INFO - Started process (PID=21663) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:58:32,119] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 12:58:32,120] {logging_mixin.py:104} INFO - [2022-03-18 12:58:32,120] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:58:32,135] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:58:32,169] {logging_mixin.py:104} INFO - [2022-03-18 12:58:32,169] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:58:32,192] {logging_mixin.py:104} INFO - [2022-03-18 12:58:32,192] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 12:58:32,350] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.235 seconds
+[2022-03-18 12:59:02,814] {scheduler_job.py:182} INFO - Started process (PID=21868) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:59:02,816] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 12:59:02,817] {logging_mixin.py:104} INFO - [2022-03-18 12:59:02,816] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:59:02,832] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:59:02,869] {logging_mixin.py:104} INFO - [2022-03-18 12:59:02,869] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:59:02,890] {logging_mixin.py:104} INFO - [2022-03-18 12:59:02,890] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 12:59:02,912] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.102 seconds
+[2022-03-18 12:59:33,400] {scheduler_job.py:182} INFO - Started process (PID=22077) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:59:33,401] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 12:59:33,401] {logging_mixin.py:104} INFO - [2022-03-18 12:59:33,401] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:59:33,417] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 12:59:33,447] {logging_mixin.py:104} INFO - [2022-03-18 12:59:33,447] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 12:59:33,468] {logging_mixin.py:104} INFO - [2022-03-18 12:59:33,468] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 12:59:33,488] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.092 seconds
+[2022-03-18 13:00:04,329] {scheduler_job.py:182} INFO - Started process (PID=22281) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:00:04,331] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:00:04,332] {logging_mixin.py:104} INFO - [2022-03-18 13:00:04,332] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:00:04,351] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:00:04,382] {logging_mixin.py:104} INFO - [2022-03-18 13:00:04,381] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:00:04,400] {logging_mixin.py:104} INFO - [2022-03-18 13:00:04,399] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:00:04,418] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.092 seconds
+[2022-03-18 13:00:35,600] {scheduler_job.py:182} INFO - Started process (PID=22521) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:00:35,602] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:00:35,603] {logging_mixin.py:104} INFO - [2022-03-18 13:00:35,602] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:00:35,618] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:00:35,647] {logging_mixin.py:104} INFO - [2022-03-18 13:00:35,647] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:00:35,666] {logging_mixin.py:104} INFO - [2022-03-18 13:00:35,666] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:00:35,680] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.083 seconds
+[2022-03-18 13:01:06,702] {scheduler_job.py:182} INFO - Started process (PID=22727) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:01:06,703] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:01:06,704] {logging_mixin.py:104} INFO - [2022-03-18 13:01:06,704] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:01:06,719] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:01:06,750] {logging_mixin.py:104} INFO - [2022-03-18 13:01:06,750] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:01:06,767] {logging_mixin.py:104} INFO - [2022-03-18 13:01:06,767] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:01:06,788] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.090 seconds
+[2022-03-18 13:01:37,251] {scheduler_job.py:182} INFO - Started process (PID=22934) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:01:37,253] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:01:37,254] {logging_mixin.py:104} INFO - [2022-03-18 13:01:37,253] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:01:37,275] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:01:37,305] {logging_mixin.py:104} INFO - [2022-03-18 13:01:37,305] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:01:37,323] {logging_mixin.py:104} INFO - [2022-03-18 13:01:37,323] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:01:37,341] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.094 seconds
+[2022-03-18 13:02:07,649] {scheduler_job.py:182} INFO - Started process (PID=23137) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:02:07,650] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:02:07,651] {logging_mixin.py:104} INFO - [2022-03-18 13:02:07,651] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:02:07,666] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:02:07,694] {logging_mixin.py:104} INFO - [2022-03-18 13:02:07,694] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:02:07,715] {logging_mixin.py:104} INFO - [2022-03-18 13:02:07,714] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:02:07,739] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.093 seconds
+[2022-03-18 13:02:38,000] {scheduler_job.py:182} INFO - Started process (PID=23345) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:02:38,001] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:02:38,002] {logging_mixin.py:104} INFO - [2022-03-18 13:02:38,002] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:02:38,017] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:02:38,051] {logging_mixin.py:104} INFO - [2022-03-18 13:02:38,051] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:02:38,076] {logging_mixin.py:104} INFO - [2022-03-18 13:02:38,075] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:02:38,107] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.110 seconds
+[2022-03-18 13:03:09,155] {scheduler_job.py:182} INFO - Started process (PID=23700) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:03:09,156] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:03:09,157] {logging_mixin.py:104} INFO - [2022-03-18 13:03:09,157] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:03:09,172] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:03:09,207] {logging_mixin.py:104} INFO - [2022-03-18 13:03:09,206] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:03:09,225] {logging_mixin.py:104} INFO - [2022-03-18 13:03:09,225] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:03:09,241] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.091 seconds
+[2022-03-18 13:03:40,171] {scheduler_job.py:182} INFO - Started process (PID=23934) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:03:40,172] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:03:40,173] {logging_mixin.py:104} INFO - [2022-03-18 13:03:40,173] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:03:40,187] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:03:40,224] {logging_mixin.py:104} INFO - [2022-03-18 13:03:40,224] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:03:40,248] {logging_mixin.py:104} INFO - [2022-03-18 13:03:40,248] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:03:40,271] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.103 seconds
+[2022-03-18 13:04:10,823] {scheduler_job.py:182} INFO - Started process (PID=24142) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:04:10,825] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:04:10,826] {logging_mixin.py:104} INFO - [2022-03-18 13:04:10,825] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:04:10,844] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:04:10,875] {logging_mixin.py:104} INFO - [2022-03-18 13:04:10,875] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:04:10,893] {logging_mixin.py:104} INFO - [2022-03-18 13:04:10,893] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:04:10,910] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.091 seconds
+[2022-03-18 13:04:41,161] {scheduler_job.py:182} INFO - Started process (PID=24346) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:04:41,163] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:04:41,163] {logging_mixin.py:104} INFO - [2022-03-18 13:04:41,163] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:04:41,178] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:04:41,207] {logging_mixin.py:104} INFO - [2022-03-18 13:04:41,207] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:04:41,224] {logging_mixin.py:104} INFO - [2022-03-18 13:04:41,224] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:04:41,240] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.082 seconds
+[2022-03-18 13:05:11,863] {scheduler_job.py:182} INFO - Started process (PID=24583) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:05:11,866] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:05:11,867] {logging_mixin.py:104} INFO - [2022-03-18 13:05:11,867] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:05:11,885] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:05:11,921] {logging_mixin.py:104} INFO - [2022-03-18 13:05:11,921] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:05:11,945] {logging_mixin.py:104} INFO - [2022-03-18 13:05:11,944] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:05:11,972] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.113 seconds
+[2022-03-18 13:05:42,946] {scheduler_job.py:182} INFO - Started process (PID=24796) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:05:42,947] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:05:42,948] {logging_mixin.py:104} INFO - [2022-03-18 13:05:42,947] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:05:42,962] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:05:42,992] {logging_mixin.py:104} INFO - [2022-03-18 13:05:42,992] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:05:43,018] {logging_mixin.py:104} INFO - [2022-03-18 13:05:43,018] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:05:43,044] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.103 seconds
+[2022-03-18 13:06:13,355] {scheduler_job.py:182} INFO - Started process (PID=24997) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:06:13,356] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:06:13,357] {logging_mixin.py:104} INFO - [2022-03-18 13:06:13,357] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:06:13,373] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:06:13,403] {logging_mixin.py:104} INFO - [2022-03-18 13:06:13,403] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:06:13,421] {logging_mixin.py:104} INFO - [2022-03-18 13:06:13,420] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:06:13,440] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.089 seconds
+[2022-03-18 13:06:45,184] {scheduler_job.py:182} INFO - Started process (PID=25219) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:06:45,193] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:06:45,193] {logging_mixin.py:104} INFO - [2022-03-18 13:06:45,193] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:06:45,240] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:06:45,298] {logging_mixin.py:104} INFO - [2022-03-18 13:06:45,297] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:06:45,326] {logging_mixin.py:104} INFO - [2022-03-18 13:06:45,326] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:06:45,355] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.181 seconds
+[2022-03-18 13:07:15,843] {scheduler_job.py:182} INFO - Started process (PID=25443) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:07:15,845] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:07:15,845] {logging_mixin.py:104} INFO - [2022-03-18 13:07:15,845] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:07:15,862] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:07:15,899] {logging_mixin.py:104} INFO - [2022-03-18 13:07:15,898] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:07:15,919] {logging_mixin.py:104} INFO - [2022-03-18 13:07:15,919] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:07:15,939] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.101 seconds
+[2022-03-18 13:07:47,319] {scheduler_job.py:182} INFO - Started process (PID=25684) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:07:47,334] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:07:47,337] {logging_mixin.py:104} INFO - [2022-03-18 13:07:47,337] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:07:47,378] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:07:47,459] {logging_mixin.py:104} INFO - [2022-03-18 13:07:47,455] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:07:47,497] {logging_mixin.py:104} INFO - [2022-03-18 13:07:47,497] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:07:47,529] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.220 seconds
+[2022-03-18 13:08:18,932] {scheduler_job.py:182} INFO - Started process (PID=26130) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:08:18,933] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:08:18,934] {logging_mixin.py:104} INFO - [2022-03-18 13:08:18,934] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:08:18,973] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:08:19,024] {logging_mixin.py:104} INFO - [2022-03-18 13:08:19,024] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:08:19,064] {logging_mixin.py:104} INFO - [2022-03-18 13:08:19,064] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:08:19,113] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.184 seconds
+[2022-03-18 13:08:50,363] {scheduler_job.py:182} INFO - Started process (PID=26347) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:08:50,364] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:08:50,371] {logging_mixin.py:104} INFO - [2022-03-18 13:08:50,370] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:08:50,422] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:08:50,487] {logging_mixin.py:104} INFO - [2022-03-18 13:08:50,486] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:08:50,554] {logging_mixin.py:104} INFO - [2022-03-18 13:08:50,553] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:08:50,597] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.238 seconds
+[2022-03-18 13:09:21,487] {scheduler_job.py:182} INFO - Started process (PID=26557) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:09:21,488] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:09:21,489] {logging_mixin.py:104} INFO - [2022-03-18 13:09:21,488] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:09:21,523] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:09:21,578] {logging_mixin.py:104} INFO - [2022-03-18 13:09:21,577] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:09:21,615] {logging_mixin.py:104} INFO - [2022-03-18 13:09:21,615] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:09:21,639] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.160 seconds
+[2022-03-18 13:09:52,196] {scheduler_job.py:182} INFO - Started process (PID=26765) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:09:52,204] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:09:52,205] {logging_mixin.py:104} INFO - [2022-03-18 13:09:52,205] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:09:52,242] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:09:52,347] {logging_mixin.py:104} INFO - [2022-03-18 13:09:52,346] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:09:52,405] {logging_mixin.py:104} INFO - [2022-03-18 13:09:52,404] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:09:52,435] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.255 seconds
+[2022-03-18 13:10:23,226] {scheduler_job.py:182} INFO - Started process (PID=27005) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:10:23,228] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:10:23,231] {logging_mixin.py:104} INFO - [2022-03-18 13:10:23,230] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:10:23,268] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:10:23,330] {logging_mixin.py:104} INFO - [2022-03-18 13:10:23,329] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:10:23,369] {logging_mixin.py:104} INFO - [2022-03-18 13:10:23,369] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:10:23,412] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.192 seconds
+[2022-03-18 13:10:54,300] {scheduler_job.py:182} INFO - Started process (PID=27221) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:10:54,301] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:10:54,302] {logging_mixin.py:104} INFO - [2022-03-18 13:10:54,302] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:10:54,337] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:10:54,404] {logging_mixin.py:104} INFO - [2022-03-18 13:10:54,404] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:10:54,439] {logging_mixin.py:104} INFO - [2022-03-18 13:10:54,439] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:10:54,482] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.193 seconds
+[2022-03-18 13:11:25,382] {scheduler_job.py:182} INFO - Started process (PID=27433) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:11:25,384] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:11:25,385] {logging_mixin.py:104} INFO - [2022-03-18 13:11:25,385] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:11:25,425] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:11:25,561] {logging_mixin.py:104} INFO - [2022-03-18 13:11:25,561] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:11:25,621] {logging_mixin.py:104} INFO - [2022-03-18 13:11:25,621] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:11:25,671] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.298 seconds
+[2022-03-18 13:11:55,792] {scheduler_job.py:182} INFO - Started process (PID=27638) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:11:55,793] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:11:55,794] {logging_mixin.py:104} INFO - [2022-03-18 13:11:55,794] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:11:55,819] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:11:55,878] {logging_mixin.py:104} INFO - [2022-03-18 13:11:55,878] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:11:55,915] {logging_mixin.py:104} INFO - [2022-03-18 13:11:55,915] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:11:55,941] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.158 seconds
+[2022-03-18 13:12:26,147] {scheduler_job.py:182} INFO - Started process (PID=27847) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:12:26,152] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:12:26,154] {logging_mixin.py:104} INFO - [2022-03-18 13:12:26,154] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:12:26,192] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:12:26,252] {logging_mixin.py:104} INFO - [2022-03-18 13:12:26,252] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:12:26,289] {logging_mixin.py:104} INFO - [2022-03-18 13:12:26,289] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:12:26,339] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.199 seconds
+[2022-03-18 13:12:56,603] {scheduler_job.py:182} INFO - Started process (PID=28168) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:12:56,605] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:12:56,606] {logging_mixin.py:104} INFO - [2022-03-18 13:12:56,606] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:12:56,651] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:12:56,720] {logging_mixin.py:104} INFO - [2022-03-18 13:12:56,719] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:12:56,772] {logging_mixin.py:104} INFO - [2022-03-18 13:12:56,772] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:12:56,805] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.213 seconds
+[2022-03-18 13:13:27,593] {scheduler_job.py:182} INFO - Started process (PID=28373) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:13:27,595] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:13:27,596] {logging_mixin.py:104} INFO - [2022-03-18 13:13:27,596] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:13:27,625] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:13:27,689] {logging_mixin.py:104} INFO - [2022-03-18 13:13:27,689] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:13:27,736] {logging_mixin.py:104} INFO - [2022-03-18 13:13:27,736] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:13:27,774] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.189 seconds
+[2022-03-18 13:13:59,140] {scheduler_job.py:182} INFO - Started process (PID=28603) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:13:59,144] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:13:59,145] {logging_mixin.py:104} INFO - [2022-03-18 13:13:59,145] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:13:59,185] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:13:59,247] {logging_mixin.py:104} INFO - [2022-03-18 13:13:59,247] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:13:59,282] {logging_mixin.py:104} INFO - [2022-03-18 13:13:59,282] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:13:59,308] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.173 seconds
+[2022-03-18 13:14:30,770] {scheduler_job.py:182} INFO - Started process (PID=28807) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:14:30,779] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:14:30,780] {logging_mixin.py:104} INFO - [2022-03-18 13:14:30,780] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:14:30,834] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:14:30,935] {logging_mixin.py:104} INFO - [2022-03-18 13:14:30,935] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:14:30,983] {logging_mixin.py:104} INFO - [2022-03-18 13:14:30,983] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:14:31,011] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.247 seconds
+[2022-03-18 13:15:01,781] {scheduler_job.py:182} INFO - Started process (PID=29025) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:15:01,784] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:15:01,785] {logging_mixin.py:104} INFO - [2022-03-18 13:15:01,785] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:15:01,805] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:15:01,841] {logging_mixin.py:104} INFO - [2022-03-18 13:15:01,841] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:15:01,863] {logging_mixin.py:104} INFO - [2022-03-18 13:15:01,863] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:15:01,896] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.120 seconds
+[2022-03-18 13:15:32,039] {scheduler_job.py:182} INFO - Started process (PID=29352) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:15:32,040] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:15:32,041] {logging_mixin.py:104} INFO - [2022-03-18 13:15:32,041] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:15:32,055] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:15:32,085] {logging_mixin.py:104} INFO - [2022-03-18 13:15:32,085] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:15:32,109] {logging_mixin.py:104} INFO - [2022-03-18 13:15:32,109] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:15:32,161] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.125 seconds
+[2022-03-18 13:16:02,429] {scheduler_job.py:182} INFO - Started process (PID=29646) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:16:02,430] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:16:02,430] {logging_mixin.py:104} INFO - [2022-03-18 13:16:02,430] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:16:02,449] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:16:02,498] {logging_mixin.py:104} INFO - [2022-03-18 13:16:02,498] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:16:02,523] {logging_mixin.py:104} INFO - [2022-03-18 13:16:02,523] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:16:02,552] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.130 seconds
+[2022-03-18 13:16:32,605] {scheduler_job.py:182} INFO - Started process (PID=29999) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:16:32,606] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:16:32,607] {logging_mixin.py:104} INFO - [2022-03-18 13:16:32,606] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:16:32,624] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:16:32,659] {logging_mixin.py:104} INFO - [2022-03-18 13:16:32,659] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:16:32,682] {logging_mixin.py:104} INFO - [2022-03-18 13:16:32,682] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:16:32,701] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.100 seconds
+[2022-03-18 13:17:02,965] {scheduler_job.py:182} INFO - Started process (PID=30932) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:17:02,966] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:17:02,967] {logging_mixin.py:104} INFO - [2022-03-18 13:17:02,967] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:17:02,984] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:17:03,012] {logging_mixin.py:104} INFO - [2022-03-18 13:17:03,012] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:17:03,032] {logging_mixin.py:104} INFO - [2022-03-18 13:17:03,032] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:17:03,639] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.677 seconds
+[2022-03-18 13:17:33,870] {scheduler_job.py:182} INFO - Started process (PID=31140) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:17:33,871] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:17:33,872] {logging_mixin.py:104} INFO - [2022-03-18 13:17:33,872] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:17:33,894] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:17:33,929] {logging_mixin.py:104} INFO - [2022-03-18 13:17:33,929] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:17:33,947] {logging_mixin.py:104} INFO - [2022-03-18 13:17:33,947] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:17:33,964] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.099 seconds
+[2022-03-18 13:18:04,152] {scheduler_job.py:182} INFO - Started process (PID=31461) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:18:04,153] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:18:04,154] {logging_mixin.py:104} INFO - [2022-03-18 13:18:04,153] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:18:04,168] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:18:04,203] {logging_mixin.py:104} INFO - [2022-03-18 13:18:04,203] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:18:04,224] {logging_mixin.py:104} INFO - [2022-03-18 13:18:04,224] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:18:04,240] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.092 seconds
+[2022-03-18 13:18:34,862] {scheduler_job.py:182} INFO - Started process (PID=31670) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:18:34,864] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:18:34,865] {logging_mixin.py:104} INFO - [2022-03-18 13:18:34,864] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:18:34,882] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:18:34,913] {logging_mixin.py:104} INFO - [2022-03-18 13:18:34,913] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:18:34,936] {logging_mixin.py:104} INFO - [2022-03-18 13:18:34,935] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:18:34,961] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.104 seconds
+[2022-03-18 13:19:05,160] {scheduler_job.py:182} INFO - Started process (PID=31871) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:19:05,161] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:19:05,162] {logging_mixin.py:104} INFO - [2022-03-18 13:19:05,162] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:19:05,182] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:19:05,217] {logging_mixin.py:104} INFO - [2022-03-18 13:19:05,217] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:19:05,237] {logging_mixin.py:104} INFO - [2022-03-18 13:19:05,237] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:19:05,258] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.102 seconds
+[2022-03-18 13:19:35,491] {scheduler_job.py:182} INFO - Started process (PID=32089) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:19:35,492] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:19:35,493] {logging_mixin.py:104} INFO - [2022-03-18 13:19:35,493] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:19:35,510] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:19:35,544] {logging_mixin.py:104} INFO - [2022-03-18 13:19:35,544] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:19:35,565] {logging_mixin.py:104} INFO - [2022-03-18 13:19:35,565] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:19:35,591] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.105 seconds
+[2022-03-18 13:20:06,075] {scheduler_job.py:182} INFO - Started process (PID=32297) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:20:06,078] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:20:06,079] {logging_mixin.py:104} INFO - [2022-03-18 13:20:06,079] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:20:06,097] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:20:06,129] {logging_mixin.py:104} INFO - [2022-03-18 13:20:06,129] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:20:06,149] {logging_mixin.py:104} INFO - [2022-03-18 13:20:06,149] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:20:06,165] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.094 seconds
+[2022-03-18 13:20:37,194] {scheduler_job.py:182} INFO - Started process (PID=32532) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:20:37,195] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:20:37,196] {logging_mixin.py:104} INFO - [2022-03-18 13:20:37,196] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:20:37,212] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:20:37,244] {logging_mixin.py:104} INFO - [2022-03-18 13:20:37,244] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:20:37,263] {logging_mixin.py:104} INFO - [2022-03-18 13:20:37,263] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:20:37,283] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.093 seconds
+[2022-03-18 13:21:07,552] {scheduler_job.py:182} INFO - Started process (PID=32739) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:21:07,554] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:21:07,555] {logging_mixin.py:104} INFO - [2022-03-18 13:21:07,554] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:21:07,571] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:21:07,605] {logging_mixin.py:104} INFO - [2022-03-18 13:21:07,605] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:21:07,627] {logging_mixin.py:104} INFO - [2022-03-18 13:21:07,627] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:21:07,648] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.101 seconds
+[2022-03-18 13:21:38,233] {scheduler_job.py:182} INFO - Started process (PID=524) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:21:38,235] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:21:38,236] {logging_mixin.py:104} INFO - [2022-03-18 13:21:38,236] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:21:38,257] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:21:38,293] {logging_mixin.py:104} INFO - [2022-03-18 13:21:38,293] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:21:38,314] {logging_mixin.py:104} INFO - [2022-03-18 13:21:38,314] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:21:38,334] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.107 seconds
+[2022-03-18 13:22:08,500] {scheduler_job.py:182} INFO - Started process (PID=728) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:22:08,501] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:22:08,502] {logging_mixin.py:104} INFO - [2022-03-18 13:22:08,502] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:22:08,517] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:22:08,551] {logging_mixin.py:104} INFO - [2022-03-18 13:22:08,550] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:22:08,573] {logging_mixin.py:104} INFO - [2022-03-18 13:22:08,573] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:22:08,614] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.118 seconds
+[2022-03-18 13:22:39,108] {scheduler_job.py:182} INFO - Started process (PID=939) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:22:39,110] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:22:39,111] {logging_mixin.py:104} INFO - [2022-03-18 13:22:39,110] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:22:39,127] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:22:39,162] {logging_mixin.py:104} INFO - [2022-03-18 13:22:39,162] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:22:39,181] {logging_mixin.py:104} INFO - [2022-03-18 13:22:39,181] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:22:39,198] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.094 seconds
+[2022-03-18 13:23:09,410] {scheduler_job.py:182} INFO - Started process (PID=1315) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:23:09,411] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:23:09,412] {logging_mixin.py:104} INFO - [2022-03-18 13:23:09,412] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:23:09,427] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:23:09,455] {logging_mixin.py:104} INFO - [2022-03-18 13:23:09,455] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:23:09,476] {logging_mixin.py:104} INFO - [2022-03-18 13:23:09,476] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:23:09,497] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.091 seconds
+[2022-03-18 13:23:39,599] {scheduler_job.py:182} INFO - Started process (PID=1544) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:23:39,600] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:23:39,601] {logging_mixin.py:104} INFO - [2022-03-18 13:23:39,600] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:23:39,616] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:23:39,652] {logging_mixin.py:104} INFO - [2022-03-18 13:23:39,652] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:23:39,669] {logging_mixin.py:104} INFO - [2022-03-18 13:23:39,669] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:23:39,684] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.089 seconds
+[2022-03-18 13:24:10,780] {scheduler_job.py:182} INFO - Started process (PID=1779) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:24:10,781] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:24:10,782] {logging_mixin.py:104} INFO - [2022-03-18 13:24:10,782] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:24:10,796] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:24:10,826] {logging_mixin.py:104} INFO - [2022-03-18 13:24:10,826] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:24:10,844] {logging_mixin.py:104} INFO - [2022-03-18 13:24:10,844] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:24:10,869] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.094 seconds
+[2022-03-18 13:24:41,757] {scheduler_job.py:182} INFO - Started process (PID=2028) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:24:41,758] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:24:41,759] {logging_mixin.py:104} INFO - [2022-03-18 13:24:41,759] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:24:41,774] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:24:41,810] {logging_mixin.py:104} INFO - [2022-03-18 13:24:41,810] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:24:41,836] {logging_mixin.py:104} INFO - [2022-03-18 13:24:41,836] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:24:41,854] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.101 seconds
+[2022-03-18 13:25:11,899] {scheduler_job.py:182} INFO - Started process (PID=2292) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:25:11,900] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:25:11,901] {logging_mixin.py:104} INFO - [2022-03-18 13:25:11,901] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:25:11,916] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:25:11,946] {logging_mixin.py:104} INFO - [2022-03-18 13:25:11,945] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:25:11,963] {logging_mixin.py:104} INFO - [2022-03-18 13:25:11,963] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:25:11,987] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.092 seconds
+[2022-03-18 13:25:42,089] {scheduler_job.py:182} INFO - Started process (PID=2791) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:25:42,091] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:25:42,092] {logging_mixin.py:104} INFO - [2022-03-18 13:25:42,092] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:25:42,116] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:25:42,162] {logging_mixin.py:104} INFO - [2022-03-18 13:25:42,162] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:25:42,189] {logging_mixin.py:104} INFO - [2022-03-18 13:25:42,188] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:25:42,209] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.124 seconds
+[2022-03-18 13:26:12,507] {scheduler_job.py:182} INFO - Started process (PID=3171) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:26:12,508] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:26:12,509] {logging_mixin.py:104} INFO - [2022-03-18 13:26:12,509] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:26:12,551] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:26:12,605] {logging_mixin.py:104} INFO - [2022-03-18 13:26:12,605] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:26:12,639] {logging_mixin.py:104} INFO - [2022-03-18 13:26:12,639] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:26:12,675] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.181 seconds
+[2022-03-18 13:26:43,353] {scheduler_job.py:182} INFO - Started process (PID=3625) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:26:43,357] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:26:43,366] {logging_mixin.py:104} INFO - [2022-03-18 13:26:43,366] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:26:43,440] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:26:43,564] {logging_mixin.py:104} INFO - [2022-03-18 13:26:43,564] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:26:43,653] {logging_mixin.py:104} INFO - [2022-03-18 13:26:43,653] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:26:43,757] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.441 seconds
+[2022-03-18 13:27:14,162] {scheduler_job.py:182} INFO - Started process (PID=3919) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:27:14,163] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:27:14,164] {logging_mixin.py:104} INFO - [2022-03-18 13:27:14,164] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:27:14,181] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:27:14,213] {logging_mixin.py:104} INFO - [2022-03-18 13:27:14,213] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:27:14,230] {logging_mixin.py:104} INFO - [2022-03-18 13:27:14,230] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:27:14,256] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.098 seconds
+[2022-03-18 13:27:44,485] {scheduler_job.py:182} INFO - Started process (PID=4170) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:27:44,486] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:27:44,487] {logging_mixin.py:104} INFO - [2022-03-18 13:27:44,487] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:27:44,502] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:27:44,533] {logging_mixin.py:104} INFO - [2022-03-18 13:27:44,533] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:27:44,551] {logging_mixin.py:104} INFO - [2022-03-18 13:27:44,551] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:27:44,567] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.087 seconds
+[2022-03-18 13:28:14,800] {scheduler_job.py:182} INFO - Started process (PID=4659) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:28:14,801] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:28:14,802] {logging_mixin.py:104} INFO - [2022-03-18 13:28:14,802] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:28:14,820] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:28:14,848] {logging_mixin.py:104} INFO - [2022-03-18 13:28:14,848] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:28:14,865] {logging_mixin.py:104} INFO - [2022-03-18 13:28:14,865] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:28:14,889] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.092 seconds
+[2022-03-18 13:28:45,124] {scheduler_job.py:182} INFO - Started process (PID=5072) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:28:45,125] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:28:45,126] {logging_mixin.py:104} INFO - [2022-03-18 13:28:45,126] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:28:45,145] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:28:45,176] {logging_mixin.py:104} INFO - [2022-03-18 13:28:45,176] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:28:45,195] {logging_mixin.py:104} INFO - [2022-03-18 13:28:45,195] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:28:45,209] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.090 seconds
+[2022-03-18 13:29:15,569] {scheduler_job.py:182} INFO - Started process (PID=5291) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:29:15,571] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:29:15,572] {logging_mixin.py:104} INFO - [2022-03-18 13:29:15,572] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:29:15,592] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:29:15,622] {logging_mixin.py:104} INFO - [2022-03-18 13:29:15,622] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:29:15,642] {logging_mixin.py:104} INFO - [2022-03-18 13:29:15,641] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:29:15,662] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.098 seconds
+[2022-03-18 13:29:46,145] {scheduler_job.py:182} INFO - Started process (PID=5509) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:29:46,147] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:29:46,147] {logging_mixin.py:104} INFO - [2022-03-18 13:29:46,147] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:29:46,176] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:29:46,239] {logging_mixin.py:104} INFO - [2022-03-18 13:29:46,239] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:29:46,283] {logging_mixin.py:104} INFO - [2022-03-18 13:29:46,283] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:29:46,321] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.182 seconds
+[2022-03-18 13:30:16,534] {scheduler_job.py:182} INFO - Started process (PID=5812) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:30:16,536] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:30:16,537] {logging_mixin.py:104} INFO - [2022-03-18 13:30:16,537] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:30:16,557] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:30:16,592] {logging_mixin.py:104} INFO - [2022-03-18 13:30:16,592] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:30:16,611] {logging_mixin.py:104} INFO - [2022-03-18 13:30:16,611] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:30:16,638] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.110 seconds
+[2022-03-18 13:30:47,425] {scheduler_job.py:182} INFO - Started process (PID=6090) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:30:47,430] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:30:47,437] {logging_mixin.py:104} INFO - [2022-03-18 13:30:47,432] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:30:47,477] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:30:47,575] {logging_mixin.py:104} INFO - [2022-03-18 13:30:47,575] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:30:47,642] {logging_mixin.py:104} INFO - [2022-03-18 13:30:47,641] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:30:47,680] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.268 seconds
+[2022-03-18 13:31:17,927] {scheduler_job.py:182} INFO - Started process (PID=6307) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:31:17,930] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:31:17,932] {logging_mixin.py:104} INFO - [2022-03-18 13:31:17,931] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:31:17,955] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:31:18,025] {logging_mixin.py:104} INFO - [2022-03-18 13:31:18,025] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:31:18,078] {logging_mixin.py:104} INFO - [2022-03-18 13:31:18,077] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:31:18,111] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.192 seconds
+[2022-03-18 13:31:48,188] {scheduler_job.py:182} INFO - Started process (PID=6525) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:31:48,189] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:31:48,189] {logging_mixin.py:104} INFO - [2022-03-18 13:31:48,189] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:31:48,204] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:31:48,233] {logging_mixin.py:104} INFO - [2022-03-18 13:31:48,233] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:31:48,250] {logging_mixin.py:104} INFO - [2022-03-18 13:31:48,250] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:31:48,275] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.092 seconds
+[2022-03-18 13:32:18,452] {scheduler_job.py:182} INFO - Started process (PID=6731) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:32:18,453] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:32:18,453] {logging_mixin.py:104} INFO - [2022-03-18 13:32:18,453] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:32:18,471] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:32:18,508] {logging_mixin.py:104} INFO - [2022-03-18 13:32:18,508] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:32:18,532] {logging_mixin.py:104} INFO - [2022-03-18 13:32:18,532] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:32:18,551] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.104 seconds
+[2022-03-18 13:32:48,610] {scheduler_job.py:182} INFO - Started process (PID=6959) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:32:48,613] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:32:48,614] {logging_mixin.py:104} INFO - [2022-03-18 13:32:48,614] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:32:48,636] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:32:48,670] {logging_mixin.py:104} INFO - [2022-03-18 13:32:48,670] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:32:48,690] {logging_mixin.py:104} INFO - [2022-03-18 13:32:48,690] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:32:48,707] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.102 seconds
+[2022-03-18 13:33:19,331] {scheduler_job.py:182} INFO - Started process (PID=7283) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:33:19,335] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:33:19,338] {logging_mixin.py:104} INFO - [2022-03-18 13:33:19,337] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:33:19,434] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:33:19,536] {logging_mixin.py:104} INFO - [2022-03-18 13:33:19,536] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:33:19,590] {logging_mixin.py:104} INFO - [2022-03-18 13:33:19,590] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:33:19,616] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.306 seconds
+[2022-03-18 13:33:49,762] {scheduler_job.py:182} INFO - Started process (PID=7497) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:33:49,768] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:33:49,770] {logging_mixin.py:104} INFO - [2022-03-18 13:33:49,769] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:33:49,804] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:33:49,863] {logging_mixin.py:104} INFO - [2022-03-18 13:33:49,862] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:33:49,902] {logging_mixin.py:104} INFO - [2022-03-18 13:33:49,902] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:33:49,939] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.184 seconds
+[2022-03-18 13:34:20,722] {scheduler_job.py:182} INFO - Started process (PID=7698) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:34:20,724] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:34:20,726] {logging_mixin.py:104} INFO - [2022-03-18 13:34:20,725] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:34:20,777] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:34:20,946] {logging_mixin.py:104} INFO - [2022-03-18 13:34:20,944] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:34:21,011] {logging_mixin.py:104} INFO - [2022-03-18 13:34:21,011] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:34:21,073] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.369 seconds
+[2022-03-18 13:34:51,722] {scheduler_job.py:182} INFO - Started process (PID=7906) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:34:51,724] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:34:51,724] {logging_mixin.py:104} INFO - [2022-03-18 13:34:51,724] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:34:51,738] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:34:51,769] {logging_mixin.py:104} INFO - [2022-03-18 13:34:51,768] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:34:51,790] {logging_mixin.py:104} INFO - [2022-03-18 13:34:51,789] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:34:51,840] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.121 seconds
+[2022-03-18 13:35:22,610] {scheduler_job.py:182} INFO - Started process (PID=8147) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:35:22,612] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:35:22,614] {logging_mixin.py:104} INFO - [2022-03-18 13:35:22,613] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:35:22,638] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:35:22,684] {logging_mixin.py:104} INFO - [2022-03-18 13:35:22,684] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:35:22,712] {logging_mixin.py:104} INFO - [2022-03-18 13:35:22,712] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:35:22,754] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.149 seconds
+[2022-03-18 13:35:53,729] {scheduler_job.py:182} INFO - Started process (PID=8424) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:35:53,732] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:35:53,734] {logging_mixin.py:104} INFO - [2022-03-18 13:35:53,734] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:35:53,776] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:35:53,839] {logging_mixin.py:104} INFO - [2022-03-18 13:35:53,838] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:35:53,863] {logging_mixin.py:104} INFO - [2022-03-18 13:35:53,862] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:35:53,899] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.176 seconds
+[2022-03-18 13:36:24,448] {scheduler_job.py:182} INFO - Started process (PID=8667) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:36:24,450] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:36:24,451] {logging_mixin.py:104} INFO - [2022-03-18 13:36:24,451] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:36:24,471] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:36:24,505] {logging_mixin.py:104} INFO - [2022-03-18 13:36:24,505] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:36:24,525] {logging_mixin.py:104} INFO - [2022-03-18 13:36:24,525] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:36:24,575] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.132 seconds
+[2022-03-18 13:36:55,613] {scheduler_job.py:182} INFO - Started process (PID=8885) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:36:55,615] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:36:55,616] {logging_mixin.py:104} INFO - [2022-03-18 13:36:55,616] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:36:55,651] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:36:55,712] {logging_mixin.py:104} INFO - [2022-03-18 13:36:55,712] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:36:55,751] {logging_mixin.py:104} INFO - [2022-03-18 13:36:55,750] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:36:55,795] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.191 seconds
+[2022-03-18 13:43:54,642] {scheduler_job.py:182} INFO - Started process (PID=10290) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:43:54,643] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:43:54,644] {logging_mixin.py:104} INFO - [2022-03-18 13:43:54,644] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:43:54,696] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:43:54,735] {logging_mixin.py:104} INFO - [2022-03-18 13:43:54,734] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:43:54,757] {logging_mixin.py:104} INFO - [2022-03-18 13:43:54,757] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:43:54,781] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.145 seconds
+[2022-03-18 13:44:25,010] {scheduler_job.py:182} INFO - Started process (PID=10537) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:44:25,012] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:44:25,012] {logging_mixin.py:104} INFO - [2022-03-18 13:44:25,012] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:44:25,027] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:44:25,059] {logging_mixin.py:104} INFO - [2022-03-18 13:44:25,058] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:44:25,078] {logging_mixin.py:104} INFO - [2022-03-18 13:44:25,078] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:44:25,092] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.086 seconds
+[2022-03-18 13:44:57,015] {scheduler_job.py:182} INFO - Started process (PID=10615) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:44:57,019] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:44:57,021] {logging_mixin.py:104} INFO - [2022-03-18 13:44:57,021] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:44:57,076] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:44:57,167] {logging_mixin.py:104} INFO - [2022-03-18 13:44:57,167] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:44:57,199] {logging_mixin.py:104} INFO - [2022-03-18 13:44:57,199] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:44:57,232] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.225 seconds
+[2022-03-18 13:45:28,043] {scheduler_job.py:182} INFO - Started process (PID=10771) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:45:28,045] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:45:28,046] {logging_mixin.py:104} INFO - [2022-03-18 13:45:28,046] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:45:28,069] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:45:28,113] {logging_mixin.py:104} INFO - [2022-03-18 13:45:28,112] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:45:28,137] {logging_mixin.py:104} INFO - [2022-03-18 13:45:28,137] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:45:28,162] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.124 seconds
+[2022-03-18 13:45:59,268] {scheduler_job.py:182} INFO - Started process (PID=11060) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:45:59,270] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:45:59,271] {logging_mixin.py:104} INFO - [2022-03-18 13:45:59,270] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:45:59,292] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:45:59,328] {logging_mixin.py:104} INFO - [2022-03-18 13:45:59,328] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:45:59,349] {logging_mixin.py:104} INFO - [2022-03-18 13:45:59,348] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:45:59,368] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.105 seconds
+[2022-03-18 13:46:29,399] {scheduler_job.py:182} INFO - Started process (PID=11311) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:46:29,400] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:46:29,401] {logging_mixin.py:104} INFO - [2022-03-18 13:46:29,401] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:46:29,416] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:46:29,448] {logging_mixin.py:104} INFO - [2022-03-18 13:46:29,448] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:46:29,467] {logging_mixin.py:104} INFO - [2022-03-18 13:46:29,467] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:46:29,492] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.097 seconds
+[2022-03-18 13:47:00,012] {scheduler_job.py:182} INFO - Started process (PID=11513) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:47:00,014] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:47:00,015] {logging_mixin.py:104} INFO - [2022-03-18 13:47:00,015] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:47:00,029] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:47:00,059] {logging_mixin.py:104} INFO - [2022-03-18 13:47:00,059] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:47:00,077] {logging_mixin.py:104} INFO - [2022-03-18 13:47:00,077] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:47:00,104] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.101 seconds
+[2022-03-18 13:47:31,577] {scheduler_job.py:182} INFO - Started process (PID=11625) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:47:31,578] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:47:31,579] {logging_mixin.py:104} INFO - [2022-03-18 13:47:31,579] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:47:31,601] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:47:31,637] {logging_mixin.py:104} INFO - [2022-03-18 13:47:31,637] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:47:31,656] {logging_mixin.py:104} INFO - [2022-03-18 13:47:31,656] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:47:31,674] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.103 seconds
+[2022-03-18 13:48:02,888] {scheduler_job.py:182} INFO - Started process (PID=11856) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:48:02,890] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:48:02,891] {logging_mixin.py:104} INFO - [2022-03-18 13:48:02,890] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:48:02,909] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:48:02,948] {logging_mixin.py:104} INFO - [2022-03-18 13:48:02,948] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:48:02,974] {logging_mixin.py:104} INFO - [2022-03-18 13:48:02,974] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:48:03,003] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.122 seconds
+[2022-03-18 13:48:34,546] {scheduler_job.py:182} INFO - Started process (PID=12702) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:48:34,548] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:48:34,550] {logging_mixin.py:104} INFO - [2022-03-18 13:48:34,549] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:48:34,576] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:48:34,697] {logging_mixin.py:104} INFO - [2022-03-18 13:48:34,696] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:48:34,758] {logging_mixin.py:104} INFO - [2022-03-18 13:48:34,757] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:48:34,790] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.250 seconds
+[2022-03-18 13:49:06,829] {scheduler_job.py:182} INFO - Started process (PID=13041) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:49:06,834] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:49:06,837] {logging_mixin.py:104} INFO - [2022-03-18 13:49:06,836] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:49:06,955] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:49:07,050] {logging_mixin.py:104} INFO - [2022-03-18 13:49:07,050] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:49:07,171] {logging_mixin.py:104} INFO - [2022-03-18 13:49:07,171] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:49:07,239] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.417 seconds
+[2022-03-18 13:49:37,454] {scheduler_job.py:182} INFO - Started process (PID=13119) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:49:37,456] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:49:37,457] {logging_mixin.py:104} INFO - [2022-03-18 13:49:37,457] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:49:37,481] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:49:37,527] {logging_mixin.py:104} INFO - [2022-03-18 13:49:37,527] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:49:37,561] {logging_mixin.py:104} INFO - [2022-03-18 13:49:37,561] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:49:37,624] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.179 seconds
+[2022-03-18 13:50:08,047] {scheduler_job.py:182} INFO - Started process (PID=13202) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:50:08,049] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:50:08,053] {logging_mixin.py:104} INFO - [2022-03-18 13:50:08,053] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:50:08,115] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:50:08,197] {logging_mixin.py:104} INFO - [2022-03-18 13:50:08,197] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:50:08,242] {logging_mixin.py:104} INFO - [2022-03-18 13:50:08,242] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:50:08,303] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.263 seconds
+[2022-03-18 13:50:38,459] {scheduler_job.py:182} INFO - Started process (PID=13323) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:50:38,460] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:50:38,461] {logging_mixin.py:104} INFO - [2022-03-18 13:50:38,461] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:50:38,475] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:50:38,506] {logging_mixin.py:104} INFO - [2022-03-18 13:50:38,506] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:50:38,526] {logging_mixin.py:104} INFO - [2022-03-18 13:50:38,526] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:50:38,576] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.121 seconds
+[2022-03-18 13:51:08,801] {scheduler_job.py:182} INFO - Started process (PID=13405) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:51:08,803] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:51:08,804] {logging_mixin.py:104} INFO - [2022-03-18 13:51:08,804] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:51:08,830] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:51:08,891] {logging_mixin.py:104} INFO - [2022-03-18 13:51:08,891] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:51:08,938] {logging_mixin.py:104} INFO - [2022-03-18 13:51:08,938] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:51:08,969] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.177 seconds
+[2022-03-18 13:51:40,008] {scheduler_job.py:182} INFO - Started process (PID=13488) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:51:40,011] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:51:40,012] {logging_mixin.py:104} INFO - [2022-03-18 13:51:40,012] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:51:40,059] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:51:40,202] {logging_mixin.py:104} INFO - [2022-03-18 13:51:40,202] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:51:40,288] {logging_mixin.py:104} INFO - [2022-03-18 13:51:40,287] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:51:40,360] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.361 seconds
+[2022-03-18 13:52:11,177] {scheduler_job.py:182} INFO - Started process (PID=13837) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:52:11,182] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:52:11,184] {logging_mixin.py:104} INFO - [2022-03-18 13:52:11,183] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:52:11,218] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:52:11,306] {logging_mixin.py:104} INFO - [2022-03-18 13:52:11,306] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:52:11,363] {logging_mixin.py:104} INFO - [2022-03-18 13:52:11,363] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:52:11,400] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.239 seconds
+[2022-03-18 13:52:41,735] {scheduler_job.py:182} INFO - Started process (PID=14003) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:52:41,738] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:52:41,739] {logging_mixin.py:104} INFO - [2022-03-18 13:52:41,739] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:52:41,768] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:52:41,831] {logging_mixin.py:104} INFO - [2022-03-18 13:52:41,831] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:52:41,888] {logging_mixin.py:104} INFO - [2022-03-18 13:52:41,888] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:52:41,932] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.204 seconds
+[2022-03-18 13:53:12,850] {scheduler_job.py:182} INFO - Started process (PID=14108) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:53:12,851] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:53:12,852] {logging_mixin.py:104} INFO - [2022-03-18 13:53:12,852] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:53:12,869] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:53:12,921] {logging_mixin.py:104} INFO - [2022-03-18 13:53:12,921] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:53:12,947] {logging_mixin.py:104} INFO - [2022-03-18 13:53:12,947] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:53:12,997] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.151 seconds
+[2022-03-18 13:53:43,462] {scheduler_job.py:182} INFO - Started process (PID=14260) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:53:43,464] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:53:43,467] {logging_mixin.py:104} INFO - [2022-03-18 13:53:43,465] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:53:43,494] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:53:43,545] {logging_mixin.py:104} INFO - [2022-03-18 13:53:43,544] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:53:43,578] {logging_mixin.py:104} INFO - [2022-03-18 13:53:43,578] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:53:43,594] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.136 seconds
+[2022-03-18 13:54:13,860] {scheduler_job.py:182} INFO - Started process (PID=14352) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:54:13,861] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:54:13,862] {logging_mixin.py:104} INFO - [2022-03-18 13:54:13,862] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:54:13,877] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:54:13,913] {logging_mixin.py:104} INFO - [2022-03-18 13:54:13,913] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:54:13,933] {logging_mixin.py:104} INFO - [2022-03-18 13:54:13,933] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:54:13,948] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.093 seconds
+[2022-03-18 13:54:44,858] {scheduler_job.py:182} INFO - Started process (PID=14480) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:54:44,859] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:54:44,859] {logging_mixin.py:104} INFO - [2022-03-18 13:54:44,859] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:54:44,878] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:54:44,923] {logging_mixin.py:104} INFO - [2022-03-18 13:54:44,923] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:54:44,947] {logging_mixin.py:104} INFO - [2022-03-18 13:54:44,947] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:54:45,008] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.157 seconds
+[2022-03-18 13:55:15,209] {scheduler_job.py:182} INFO - Started process (PID=14583) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:55:15,211] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:55:15,212] {logging_mixin.py:104} INFO - [2022-03-18 13:55:15,212] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:55:15,234] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:55:15,282] {logging_mixin.py:104} INFO - [2022-03-18 13:55:15,282] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:55:15,314] {logging_mixin.py:104} INFO - [2022-03-18 13:55:15,314] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:55:15,345] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.144 seconds
+[2022-03-18 13:55:46,021] {scheduler_job.py:182} INFO - Started process (PID=14676) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:55:46,023] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:55:46,023] {logging_mixin.py:104} INFO - [2022-03-18 13:55:46,023] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:55:46,040] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:55:46,072] {logging_mixin.py:104} INFO - [2022-03-18 13:55:46,072] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:55:46,091] {logging_mixin.py:104} INFO - [2022-03-18 13:55:46,091] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:55:46,109] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.092 seconds
+[2022-03-18 13:56:16,299] {scheduler_job.py:182} INFO - Started process (PID=14746) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:56:16,300] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:56:16,301] {logging_mixin.py:104} INFO - [2022-03-18 13:56:16,301] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:56:16,319] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:56:16,351] {logging_mixin.py:104} INFO - [2022-03-18 13:56:16,351] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:56:16,374] {logging_mixin.py:104} INFO - [2022-03-18 13:56:16,373] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:56:16,453] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.157 seconds
+[2022-03-18 13:56:46,977] {scheduler_job.py:182} INFO - Started process (PID=14827) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:56:46,979] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:56:46,979] {logging_mixin.py:104} INFO - [2022-03-18 13:56:46,979] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:56:46,997] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:56:47,032] {logging_mixin.py:104} INFO - [2022-03-18 13:56:47,032] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:56:47,059] {logging_mixin.py:104} INFO - [2022-03-18 13:56:47,058] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:56:47,085] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.111 seconds
+[2022-03-18 13:57:17,642] {scheduler_job.py:182} INFO - Started process (PID=14902) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:57:17,645] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:57:17,646] {logging_mixin.py:104} INFO - [2022-03-18 13:57:17,646] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:57:17,672] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:57:17,705] {logging_mixin.py:104} INFO - [2022-03-18 13:57:17,705] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:57:17,727] {logging_mixin.py:104} INFO - [2022-03-18 13:57:17,727] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:57:17,761] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.126 seconds
+[2022-03-18 13:57:48,098] {scheduler_job.py:182} INFO - Started process (PID=14977) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:57:48,099] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:57:48,100] {logging_mixin.py:104} INFO - [2022-03-18 13:57:48,099] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:57:48,116] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:57:48,149] {logging_mixin.py:104} INFO - [2022-03-18 13:57:48,148] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:57:48,168] {logging_mixin.py:104} INFO - [2022-03-18 13:57:48,168] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:57:48,193] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.101 seconds
+[2022-03-18 13:58:18,282] {scheduler_job.py:182} INFO - Started process (PID=15049) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:58:18,283] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:58:18,284] {logging_mixin.py:104} INFO - [2022-03-18 13:58:18,284] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:58:18,301] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:58:18,331] {logging_mixin.py:104} INFO - [2022-03-18 13:58:18,331] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:58:18,352] {logging_mixin.py:104} INFO - [2022-03-18 13:58:18,352] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:58:18,441] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.162 seconds
+[2022-03-18 13:58:48,495] {scheduler_job.py:182} INFO - Started process (PID=15131) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:58:48,497] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:58:48,498] {logging_mixin.py:104} INFO - [2022-03-18 13:58:48,498] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:58:48,529] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:58:48,573] {logging_mixin.py:104} INFO - [2022-03-18 13:58:48,573] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:58:48,601] {logging_mixin.py:104} INFO - [2022-03-18 13:58:48,601] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:58:48,649] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.161 seconds
+[2022-03-18 13:59:19,199] {scheduler_job.py:182} INFO - Started process (PID=15335) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:59:19,201] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:59:19,202] {logging_mixin.py:104} INFO - [2022-03-18 13:59:19,202] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:59:19,225] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:59:19,274] {logging_mixin.py:104} INFO - [2022-03-18 13:59:19,274] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:59:19,303] {logging_mixin.py:104} INFO - [2022-03-18 13:59:19,303] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:59:19,337] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.144 seconds
+[2022-03-18 13:59:49,364] {scheduler_job.py:182} INFO - Started process (PID=15419) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:59:49,365] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 13:59:49,366] {logging_mixin.py:104} INFO - [2022-03-18 13:59:49,366] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:59:49,381] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 13:59:49,413] {logging_mixin.py:104} INFO - [2022-03-18 13:59:49,413] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 13:59:49,431] {logging_mixin.py:104} INFO - [2022-03-18 13:59:49,431] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 13:59:49,446] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.086 seconds
+[2022-03-18 14:00:19,643] {scheduler_job.py:182} INFO - Started process (PID=15522) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 14:00:19,644] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 14:00:19,645] {logging_mixin.py:104} INFO - [2022-03-18 14:00:19,645] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 14:00:19,659] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 14:00:19,693] {logging_mixin.py:104} INFO - [2022-03-18 14:00:19,692] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 14:00:19,715] {logging_mixin.py:104} INFO - [2022-03-18 14:00:19,714] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 14:00:19,767] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.128 seconds
+[2022-03-18 14:00:50,611] {scheduler_job.py:182} INFO - Started process (PID=15604) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 14:00:50,612] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 14:00:50,613] {logging_mixin.py:104} INFO - [2022-03-18 14:00:50,613] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 14:00:50,628] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 14:00:50,661] {logging_mixin.py:104} INFO - [2022-03-18 14:00:50,661] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 14:00:50,681] {logging_mixin.py:104} INFO - [2022-03-18 14:00:50,681] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 14:00:50,730] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.122 seconds
+[2022-03-18 14:01:20,778] {scheduler_job.py:182} INFO - Started process (PID=15676) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 14:01:20,779] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 14:01:20,780] {logging_mixin.py:104} INFO - [2022-03-18 14:01:20,780] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 14:01:20,795] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 14:01:20,829] {logging_mixin.py:104} INFO - [2022-03-18 14:01:20,828] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 14:01:20,853] {logging_mixin.py:104} INFO - [2022-03-18 14:01:20,853] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 14:01:20,944] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.169 seconds
+[2022-03-18 14:01:51,614] {scheduler_job.py:182} INFO - Started process (PID=15783) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 14:01:51,615] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 14:01:51,616] {logging_mixin.py:104} INFO - [2022-03-18 14:01:51,616] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 14:01:51,631] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 14:01:51,661] {logging_mixin.py:104} INFO - [2022-03-18 14:01:51,661] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 14:01:51,680] {logging_mixin.py:104} INFO - [2022-03-18 14:01:51,679] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 14:01:51,729] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.118 seconds
+[2022-03-18 14:02:21,810] {scheduler_job.py:182} INFO - Started process (PID=15854) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 14:02:21,812] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 14:02:21,813] {logging_mixin.py:104} INFO - [2022-03-18 14:02:21,813] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 14:02:21,828] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 14:02:21,858] {logging_mixin.py:104} INFO - [2022-03-18 14:02:21,858] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 14:02:21,881] {logging_mixin.py:104} INFO - [2022-03-18 14:02:21,881] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 14:02:21,928] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.122 seconds
+[2022-03-18 14:02:51,959] {scheduler_job.py:182} INFO - Started process (PID=15952) to work on /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 14:02:51,961] {scheduler_job.py:633} INFO - Processing file /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-03-18 14:02:51,962] {logging_mixin.py:104} INFO - [2022-03-18 14:02:51,962] {dagbag.py:487} INFO - Filling up the DagBag from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 14:02:52,032] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-03-18 14:02:52,129] {logging_mixin.py:104} INFO - [2022-03-18 14:02:52,129] {dag.py:1832} INFO - Sync 1 DAGs
+[2022-03-18 14:02:52,191] {logging_mixin.py:104} INFO - [2022-03-18 14:02:52,191] {dag.py:2305} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2022-03-18 14:02:52,228] {scheduler_job.py:190} INFO - Processing /home/anupam/venv/lib/python3.6/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.274 seconds
